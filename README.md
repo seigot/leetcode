@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2559. Count Vowel Strings | 累積和 | [url](https://leetcode.com/problems/count-vowel-strings-in-ranges/) |  |
 | 983. Minimum Cost For Tickets | dp | [url](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |  |
 | 1422. Maximum Score After Splitting a String | 尺取り法 | [url](https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/) |  |
 | 2466. Count Ways To Build Good Strings | dp | [url](https://leetcode.com/problems/count-ways-to-build-good-strings/description/) |  |
