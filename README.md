@@ -3,7 +3,6 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
-
 | 2270. Number of Ways to Split Array | 差分管理 | [url](https://leetcode.com/problems/number-of-ways-to-split-array/description/) |  |      
 | 2559. Count Vowel Strings | 累積和 | [url](https://leetcode.com/problems/count-vowel-strings-in-ranges/) |  |
 | 983. Minimum Cost For Tickets | dp | [url](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |  |
