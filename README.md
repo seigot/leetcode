@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1408. String Matching in an Array | 全探索/BruteForce | [url](https://leetcode.com/problems/string-matching-in-an-array/description/) |  |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box | 変化時の差分管理 | [url](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/1499105070/) |  |
 | 2381. Shifting Letters II | 一次元のいもす法 | [url](https://leetcode.com/problems/shifting-letters-ii/description/) |  |
 | 1930. Unique Length-3 Palindromic Subsequences | 文字の位置を記憶する | [url](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) |  |
