@@ -3,6 +3,15 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| - | - | [url](-) |  |
+| 2683. Neighboring Bitwise XOR | 愚直に先頭からシミュレーション、高々2通りしかない | [url](https://leetcode.com/problems/neighboring-bitwise-xor/description/) |  |
 | 2425. Bitwise XOR of All Pairings | XOR（交換法則が成り立つ）の計算順序を工夫、結局のところ奇数個登場する値のxorを求めればOK | [url](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | - |
 | 407. Trapping Rain Water II| BFS/周囲の壁を管理/最も高さの低い順に探索 | [url](https://leetcode.com/problems/trapping-rain-water-ii/description/) | - |
 | 1368. Minimum Cost to Make at Least One Valid Path in a Grid | BFS/4方向/最短コストを記憶 | [url](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | - |
