@@ -2,7 +2,7 @@
 for practice
 
 | No. | 概要 | url | 備考 |
-| :--- | :--- | :--- | :--- |
+| 407. Trapping Rain Water II| BFS/周囲の壁を管理/最も高さの低い順に探索 | [url](https://leetcode.com/problems/trapping-rain-water-ii/description/) | :--- |
 | 1368. Minimum Cost to Make at Least One Valid Path in a Grid | BFS/4方向/最短コストを記憶 | [url](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | - |
 | 1408. String Matching in an Array | 全探索/BruteForce | [url](https://leetcode.com/problems/string-matching-in-an-array/description/) |  |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box | 変化時の差分管理 | [url](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/1499105070/) |  |
