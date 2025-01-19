@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1368. Minimum Cost to Make at Least One Valid Path in a Grid | BFS/4方向/最短コストを記憶 | [url](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/) | - |
 | 1408. String Matching in an Array | 全探索/BruteForce | [url](https://leetcode.com/problems/string-matching-in-an-array/description/) |  |
 | 1769. Minimum Number of Operations to Move All Balls to Each Box | 変化時の差分管理 | [url](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/1499105070/) |  |
 | 2381. Shifting Letters II | 一次元のいもす法 | [url](https://leetcode.com/problems/shifting-letters-ii/description/) |  |
@@ -20,6 +21,7 @@ for practice
 | 515. Find Largest Value in Each Tree Row | BFS | [url](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) |  |
 | 494. Target Sum | 全探索/DP | [url](https://leetcode.com/problems/target-sum/description/) |  |
 | - | - | - | - |
+
 
 ---
 | - | - | [url](-) |  |
