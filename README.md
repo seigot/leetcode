@@ -8,7 +8,7 @@ for practice
 | - | - | [url](-) |  |
 | - | - | [url](-) |  |
 | - | - | [url](-) |  |
-| - | - | [url](-) |  |
+| 3223. Minimum Length of String After Operations | 文字の出現数を管理 | [url](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) |  |
 | 2657. Find the Prefix Common Array of Two Arrays | 配列内の出現数を先頭からカウントする/DynamicProgramming | [url](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) |  |
 | 2429. Minimize XOR | bit数の計算/XOR演算による最小値を求める | [url](https://leetcode.com/problems/minimize-xor/description/) |  |
 | 2683. Neighboring Bitwise XOR | 愚直に先頭からシミュレーション、高々2通りしかない | [url](https://leetcode.com/problems/neighboring-bitwise-xor/description/) |  |
