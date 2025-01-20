@@ -5,7 +5,7 @@ for practice
 | :--- | :--- | :--- | :--- |
 | - | - | [url](-) |  |
 | - | - | [url](-) |  |
-| - | - | [url](-) |  |
+| 2185. Counting Words With a Given Prefix | 先頭から比較 | [url](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) |  |
 | https://leetcode.com/problems/word-subsets/submissions/1514050596/ | 言い換え:比較対象の文字列の出現数最大を管理して比較に使う | [url](https://leetcode.com/problems/word-subsets/) |  |
 | 1400. Construct K Palindrome Strings | 文字の出現数をカウント/場合分け | [url](https://leetcode.com/problems/construct-k-palindrome-strings/description/) |  |
 | 3223. Minimum Length of String After Operations | 文字の出現数を管理 | [url](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) |  |
