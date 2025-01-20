@@ -9,7 +9,7 @@ for practice
 | - | - | [url](-) |  |
 | - | - | [url](-) |  |
 | - | - | [url](-) |  |
-| - | - | [url](-) |  |
+| 2657. Find the Prefix Common Array of Two Arrays | 配列内の出現数を先頭からカウントする/DynamicProgramming | [url](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) |  |
 | 2429. Minimize XOR | bit数の計算/XOR演算による最小値を求める | [url](https://leetcode.com/problems/minimize-xor/description/) |  |
 | 2683. Neighboring Bitwise XOR | 愚直に先頭からシミュレーション、高々2通りしかない | [url](https://leetcode.com/problems/neighboring-bitwise-xor/description/) |  |
 | 2425. Bitwise XOR of All Pairings | XOR（交換法則が成り立つ）の計算順序を工夫、結局のところ奇数個登場する値のxorを求めればOK | [url](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | - |
