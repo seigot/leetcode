@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 802. Find Eventual Safe States | グラフ/逆方向 | [url](https://leetcode.com/problems/find-eventual-safe-states/description/) |  |
 | 2017. Grid Game | greedy search | [url](https://leetcode.com/problems/grid-game/description/) |  |
 | 1765. Map of Highest Peak | Breadth First Search | [url](https://leetcode.com/problems/map-of-highest-peak/description/) |  |
 | 1267. Count Servers that Communicate | set/二次元 | [url](https://leetcode.com/problems/count-servers-that-communicate/description/) |  |
