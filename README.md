@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2127. Maximum Employees to Be Invited to a Meeting | グラフサイクル検出/BFS/最長ループ探索 | - | - |
 | 2661. First Completely Painted Row or Column | 訪れた座標を管理する/ビンゴゲームの要領でカウント | [url](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) |  |
 | 2116. Check if a Parentheses String Can Be Valid | 括弧の出現を管理する/unlockとlockを分けて、後ほど後ろから探索する | [url](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/) |  |
 | 3042. Count Prefix and Suffix Pairs I | 文字列のprefix/suffixを比較する/全探索 | [url](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) |  |
