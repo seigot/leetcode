@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 684. Redundant Connection | unionfind | [url](https://leetcode.com/problems/redundant-connection/description/) |  |
 | 1462. Course Schedule IV | グラフ/BFS/親子関係 | [url](https://leetcode.com/problems/course-schedule-iv/description/) |  |
 | 802. Find Eventual Safe States | グラフ/逆方向 | [url](https://leetcode.com/problems/find-eventual-safe-states/description/) |  |
 | 2017. Grid Game | greedy search | [url](https://leetcode.com/problems/grid-game/description/) |  |
