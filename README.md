@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3151. Special Array I | parityチェック/最後の1bitチェック | [url](https://leetcode.com/problems/special-array-i/description/) |  |
 | 2658. Maximum Number of Fish in a Grid | BFS/幅優先探索 | [url](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) |  |
 | 684. Redundant Connection | unionfind | [url](https://leetcode.com/problems/redundant-connection/description/) |  |
 | 1462. Course Schedule IV | グラフ/BFS/親子関係 | [url](https://leetcode.com/problems/course-schedule-iv/description/) |  |
