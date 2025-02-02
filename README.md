@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2493. Divide Nodes Into the Maximum Number of Groups | 全探索/幅優先探索で２部グラフ作成/独立する各グラフに対して最大のGroupを管理(unionfind) | [url](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/) |  |
 | 3151. Special Array I | parityチェック/最後の1bitチェック | [url](https://leetcode.com/problems/special-array-i/description/) |  |
 | 2658. Maximum Number of Fish in a Grid | BFS/幅優先探索 | [url](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/) |  |
 | 684. Redundant Connection | unionfind | [url](https://leetcode.com/problems/redundant-connection/description/) |  |
