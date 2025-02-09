@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1726. Tuple with Same Product | defaultdict()で掛け算の結果を管理/組合わせ | [url](https://leetcode.com/problems/tuple-with-same-product/description/) |  |
 | 1790. Check if One String Swap Can Make Strings Equal | 文字列を比較 | [url](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) |  |
 | 1800. Maximum Ascending Subarray Sum | sumsを管理して最大を保存 | [url](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) |  |
 | 3152. Special Array II | 二分探索 | [url](https://leetcode.com/problems/special-array-ii/description/) |  |
