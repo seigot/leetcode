@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2364. Count Number of Bad Pairs | 問題文の言い換え/動的計画法/全探索 | [url](https://leetcode.com/problems/count-number-of-bad-pairs/) |  |
 | 2349. Design a Number Container System | 常に最新の値を管理する/クエリ時に最新情報と照合して正しい値を返す | [url](https://leetcode.com/problems/design-a-number-container-system/description/) |  |
 | 3160. Find the Number of Distinct Colors Among the Balls | 色の数を管理 | [url](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/submissions/1537510661/) |  |
 | 1726. Tuple with Same Product | defaultdict()で掛け算の結果を管理/組合わせ | [url](https://leetcode.com/problems/tuple-with-same-product/description/) |  |
