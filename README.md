@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2698. Find the Punishment Number of an Integer | 再帰/左から分割して数値がゼロになる分割を見つける | [url](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) |  |
 | 1079. Letter Tile Possibilities | Permutations | [url](https://leetcode.com/problems/letter-tile-possibilities/description/) |  |
 | 3174. Clear Digits | append/pop | [url](https://leetcode.com/problems/clear-digits/description/) |  |
 | 2364. Count Number of Bad Pairs | 問題文の言い換え/動的計画法/全探索 | [url](https://leetcode.com/problems/count-number-of-bad-pairs/) |  |
