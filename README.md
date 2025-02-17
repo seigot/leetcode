@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1079. Letter Tile Possibilities | Permutations | [url](https://leetcode.com/problems/letter-tile-possibilities/description/) |  |
 | 3174. Clear Digits | append/pop | [url](https://leetcode.com/problems/clear-digits/description/) |  |
 | 2364. Count Number of Bad Pairs | 問題文の言い換え/動的計画法/全探索 | [url](https://leetcode.com/problems/count-number-of-bad-pairs/) |  |
 | 2349. Design a Number Container System | 常に最新の値を管理する/クエリ時に最新情報と照合して正しい値を返す | [url](https://leetcode.com/problems/design-a-number-container-system/description/) |  |
