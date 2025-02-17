@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2342. Max Sum of a Pair With Equal Sum of Digits | heapify/defaultdict | [url](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/) |  |
 | 3066. Minimum Operations to Exceed Threshold Value II | heapify | [url](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/) |  |
 | 1718. Construct the Lexicographically Largest Valid Sequence | 再帰/先頭から順に数字を埋めていく/最後まで進んだらOK | [url](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) |  |
 | 2698. Find the Punishment Number of an Integer | 再帰/左から分割して数値がゼロになる分割を見つける | [url](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) |  |
