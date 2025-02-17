@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1718. Construct the Lexicographically Largest Valid Sequence | 再帰/先頭から順に数字を埋めていく/最後まで進んだらOK | [url](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/) |  |
 | 2698. Find the Punishment Number of an Integer | 再帰/左から分割して数値がゼロになる分割を見つける | [url](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/) |  |
 | 1079. Letter Tile Possibilities | Permutations | [url](https://leetcode.com/problems/letter-tile-possibilities/description/) |  |
 | 3174. Clear Digits | append/pop | [url](https://leetcode.com/problems/clear-digits/description/) |  |
