@@ -3,6 +3,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1028. Recover a Tree From Preorder Traversal | 二分木/TreeNode()/深さ計算してTree再現 | [url](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |  |
 | 889. Construct Binary Tree from Preorder and Postorder Traversal | pre/postorderで探索indexを操作してTree再現 | [url](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |  |
 | 1261. Find Elements in a Contaminated Binary Tree | binary tree/pointer/dfs | [url](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |  |
 | 1980. Find Unique Binary String | 10進数への変換/文字列操作 | [url](https://leetcode.com/problems/find-unique-binary-string/submissions/1552501461/) |  |
