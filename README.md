@@ -3,6 +3,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| - | - | [url](-) |  |
+| 1261. Find Elements in a Contaminated Binary Tree | binary tree/pointer/dfs | [url](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |  |
 | 1980. Find Unique Binary String | 10進数への変換/文字列操作 | [url](https://leetcode.com/problems/find-unique-binary-string/submissions/1552501461/) |  |
 | 1415. The k-th Lexicographical String of All Happy Strings of Length n | 再帰/昇順に条件に合致する文字列を全探索して接続する/k番目を出力する | [url](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/) |  |
 | 2375. Construct Smallest Number From DI String | permutation | [url](https://leetcode.com/problems/construct-smallest-number-from-di-string/description) |  |
