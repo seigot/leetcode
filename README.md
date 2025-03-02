@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1749. Maximum Absolute Sum of Any Subarray | 累積和のMin/Max | [url](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) |  |
+| 1524. Number of Sub-arrays With Odd Sum | DP/i番目までの偶奇の数 | [url](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) |  |
 | 2467. Most Profitable Path in a Tree | BFS/DFS | [url](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) |  |
 | 1028. Recover a Tree From Preorder Traversal | 二分木/TreeNode()/深さ計算してTree再現 | [url](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |  |
 | 889. Construct Binary Tree from Preorder and Postorder Traversal | pre/postorderで探索indexを操作してTree再現 | [url](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |  |
