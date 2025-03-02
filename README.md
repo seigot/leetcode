@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2460. Apply Operations to an Array | 愚直/BruteForce | [url](https://leetcode.com/problems/apply-operations-to-an-array/description/) |  |
 | 873. Length of Longest Fibonacci Subsequence | フィボナッチ風数列/全探索/DP | [url](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/submissions/1560185920/) |  |
 | 1749. Maximum Absolute Sum of Any Subarray | 累積和のMin/Max | [url](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/) |  |
 | 1524. Number of Sub-arrays With Odd Sum | DP/i番目までの偶奇の数 | [url](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/) |  |
