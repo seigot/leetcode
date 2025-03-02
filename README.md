@@ -1,8 +1,15 @@
 # leetcode
 for practice
 
+
+---
+| - | - | [url](-) |  |
+
+---
+
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2467. Most Profitable Path in a Tree | BFS/DFS | [url](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/) |  |
 | 1028. Recover a Tree From Preorder Traversal | 二分木/TreeNode()/深さ計算してTree再現 | [url](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/) |  |
 | 889. Construct Binary Tree from Preorder and Postorder Traversal | pre/postorderで探索indexを操作してTree再現 | [url](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) |  |
 | 1261. Find Elements in a Contaminated Binary Tree | binary tree/pointer/dfs | [url](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/) |  |
@@ -68,6 +75,3 @@ for practice
 | 494. Target Sum | 全探索/DP | [url](https://leetcode.com/problems/target-sum/description/) |  |
 | - | - | - | - |
 
-
----
-| - | - | [url](-) |  |
