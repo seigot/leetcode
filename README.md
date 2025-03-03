@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2161. Partition Array According to Given Pivot | array | [url](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) |  |
 | 2570. Merge Two 2D Arrays by Summing Values | sort/defaultdict | [url](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) |  |
 | 2460. Apply Operations to an Array | 愚直/BruteForce | [url](https://leetcode.com/problems/apply-operations-to-an-array/description/) |  |
 | 873. Length of Longest Fibonacci Subsequence | フィボナッチ風数列/全探索/DP | [url](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/submissions/1560185920/) |  |
