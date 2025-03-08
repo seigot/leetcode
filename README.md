@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1780. Check if Number is a Sum of Powers of Three | raising a number to a power | [url](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) |  |
 | 2579. Count Total Number of Colored Cells | calculate area | [url](https://leetcode.com/problems/count-total-number-of-colored-cells/description/) |  |
 | 2965. Find Missing and Repeated Values | list | [url](https://leetcode.com/problems/find-missing-and-repeated-values/description/) |  |
 | 2161. Partition Array According to Given Pivot | array | [url](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) |  |
