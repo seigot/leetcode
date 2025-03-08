@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2965. Find Missing and Repeated Values | list | [url](https://leetcode.com/problems/find-missing-and-repeated-values/description/) |  |
 | 2161. Partition Array According to Given Pivot | array | [url](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/) |  |
 | 2570. Merge Two 2D Arrays by Summing Values | sort/defaultdict | [url](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/) |  |
 | 2460. Apply Operations to an Array | 愚直/BruteForce | [url](https://leetcode.com/problems/apply-operations-to-an-array/description/) |  |
