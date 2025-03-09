@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3208. Alternating Groups II | deque | [url](https://leetcode.com/problems/alternating-groups-ii/description/) |  |
 | 2523. Closest Prime Numbers in Range | Sieve of Eratosthenes | [url](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) |  |
 | 2379. Minimum Recolors to Get K Consecutive Black Blocks | sliding window | [url](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/) |  |
 | 1780. Check if Number is a Sum of Powers of Three | raising a number to a power | [url](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/description/) |  |
