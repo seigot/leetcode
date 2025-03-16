@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3356. Zero Array Transformation II | binary search | [url](https://leetcode.com/problems/zero-array-transformation-ii/description/) |  |
 | 2594. Minimum Time to Repair Cars | binary search | [url](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) |  |
 | 2226. Maximum Candies Allocated to K Children | binary search | [url](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) |  |
 | 2529. Maximum Count of Positive Integer and Negative Integer | neg/pos count | [url](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) |  |
