@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2529. Maximum Count of Positive Integer and Negative Integer | neg/pos count | [url](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) |  |
 | 1358. Number of Substrings Containing All Three Characters | 動的計画法 | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) |  |
 | 2560. House Robber IV | 二分探索/全探索 | [url](https://leetcode.com/problems/house-robber-iv/description/) |  |
 | 3306. Count of Substrings Containing Every Vowel and K Consonants II | sliding window | [url](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) |  |
