@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2560. House Robber IV | 二分探索/全探索 | [url](https://leetcode.com/problems/house-robber-iv/description/) |  |
 | 3306. Count of Substrings Containing Every Vowel and K Consonants II | sliding window | [url](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/) |  |
 | 3208. Alternating Groups II | deque | [url](https://leetcode.com/problems/alternating-groups-ii/description/) |  |
 | 2523. Closest Prime Numbers in Range | Sieve of Eratosthenes | [url](https://leetcode.com/problems/closest-prime-numbers-in-range/description/) |  |
