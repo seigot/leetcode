@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2226. Maximum Candies Allocated to K Children | binary search | [url](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) |  |
 | 2529. Maximum Count of Positive Integer and Negative Integer | neg/pos count | [url](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/) |  |
 | 1358. Number of Substrings Containing All Three Characters | 動的計画法 | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) |  |
 | 2560. House Robber IV | 二分探索/全探索 | [url](https://leetcode.com/problems/house-robber-iv/description/) |  |
