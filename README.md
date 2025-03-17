@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2206. Divide Array Into Equal Pairs | count odd | [url](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) |  |
 | 3356. Zero Array Transformation II | binary search | [url](https://leetcode.com/problems/zero-array-transformation-ii/description/) |  |
 | 2594. Minimum Time to Repair Cars | binary search | [url](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) |  |
 | 2226. Maximum Candies Allocated to K Children | binary search | [url](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/description/) |  |
