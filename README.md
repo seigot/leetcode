@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3108. Minimum Cost Walk in Weighted Graph | BFS/UnionTree/And(add 1 to all bits is "-1") | [url](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/submissions/1583683296/) |  |
 | 2206. Divide Array Into Equal Pairs | count odd | [url](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) |  |
 | 3356. Zero Array Transformation II | binary search | [url](https://leetcode.com/problems/zero-array-transformation-ii/description/) |  |
 | 2594. Minimum Time to Repair Cars | binary search | [url](https://leetcode.com/problems/minimum-time-to-repair-cars/description/) |  |
