@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2401. Longest Nice Subarray | sliding window | [url](https://leetcode.com/problems/longest-nice-subarray/submissions/1583792035/) |  |
 | 3191. Minimum Operations to Make Binary Array Elements Equal to One I | bit反転 | [url](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/1583786146/) |  |
 | 2685. Count the Number of Complete Components | BFS/count the number of vertex,edge | [url](https://leetcode.com/problems/count-the-number-of-complete-components/submissions/1583781532/) |  |
 | 1976. Number of Ways to Arrive at Destination | Djikstra/ShortestPathLength | [url](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) |  |
