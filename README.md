@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1976. Number of Ways to Arrive at Destination | Djikstra/ShortestPathLength | [url](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/) |  |
 | 3108. Minimum Cost Walk in Weighted Graph | BFS/UnionTree/And(add 1 to all bits is "-1") | [url](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/submissions/1583683296/) |  |
 | 2206. Divide Array Into Equal Pairs | count odd | [url](https://leetcode.com/problems/divide-array-into-equal-pairs/description/) |  |
 | 3356. Zero Array Transformation II | binary search | [url](https://leetcode.com/problems/zero-array-transformation-ii/description/) |  |
