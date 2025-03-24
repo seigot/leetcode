@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3169. Count Days Without Meetings | line sweep/imos/defaultdict | [url](https://leetcode.com/problems/count-days-without-meetings/submissions/1583893069/) |  |
 | 2115. Find All Possible Recipes from Given Supplies | Tree/BFS from edges | [url](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) |  |
 | 2401. Longest Nice Subarray | sliding window | [url](https://leetcode.com/problems/longest-nice-subarray/submissions/1583792035/) |  |
 | 3191. Minimum Operations to Make Binary Array Elements Equal to One I | bit反転 | [url](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/submissions/1583786146/) |  |
