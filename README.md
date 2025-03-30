@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2033. Minimum Operations to Make a Uni-Value Grid | median/accumrated sum | [url](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/submissions/1591410677/) |  |
 | 3394. Check if Grid can be Cut into Sections | sort/blute force | [url](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/submissions/1591397811/) |  |
 | 3169. Count Days Without Meetings | line sweep/imos/defaultdict | [url](https://leetcode.com/problems/count-days-without-meetings/submissions/1583893069/) |  |
 | 2115. Find All Possible Recipes from Given Supplies | Tree/BFS from edges | [url](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/) |  |
