@@ -9,7 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
-| 2780. Minimum Index of a Valid Split | accumulate/left_right | [url](https://leetcode.com/problems/minimum-index-of-a-valid-split/submissions/1591662160/) |  |
+| 2780. Minimum Index of a Valid Split | accumulate/count from both left and right | [url](https://leetcode.com/problems/minimum-index-of-a-valid-split/submissions/1591662160/) |  |
 | 763. Partition Labels | min/max | [url](https://leetcode.com/problems/partition-labels/submissions/1591652094/) |  |
 | 2033. Minimum Operations to Make a Uni-Value Grid | median/accumrated sum | [url](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/submissions/1591410677/) |  |
 | 3394. Check if Grid can be Cut into Sections | sort/blute force | [url](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/submissions/1591397811/) |  |
