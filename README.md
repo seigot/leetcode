@@ -9,7 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
-| 2874. Maximum Value of an Ordered Triplet II | accumrated sum | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/submissions/1597936996/) |  |
+| 2874. Maximum Value of an Ordered Triplet II | cumulative sum/Greedy + Prefix Suffix Array | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/submissions/1597936996/) |  |
 | 1123. Lowest Common Ancestor of Deepest Leaves | depth first search/binary tree | [url](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/submissions/1597933032/) |  |
 | 2780. Minimum Index of a Valid Split | accumulate/count from both left and right | [url](https://leetcode.com/problems/minimum-index-of-a-valid-split/submissions/1591662160/) |  |
 | 763. Partition Labels | min/max | [url](https://leetcode.com/problems/partition-labels/submissions/1591652094/) |  |
