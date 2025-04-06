@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2140. Solving Questions With Brainpower | dynamic programming | [url](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/1597941577/) |  |
 | 2874. Maximum Value of an Ordered Triplet II | cumulative sum/Greedy + Prefix Suffix Array | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/submissions/1597936996/) |  |
 | 1123. Lowest Common Ancestor of Deepest Leaves | depth first search/binary tree | [url](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/submissions/1597933032/) |  |
 | 2780. Minimum Index of a Valid Split | accumulate/count from both left and right | [url](https://leetcode.com/problems/minimum-index-of-a-valid-split/submissions/1591662160/) |  |
