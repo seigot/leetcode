@@ -9,7 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
-| 368. Largest Divisible Subset | dynamic programing | [url](https://leetcode.com/problems/largest-divisible-subset/submissions/1598179928/) |  |
+| 368. Largest Divisible Subset | dynamic programing/back trace | [url](https://leetcode.com/problems/largest-divisible-subset/submissions/1598179928/) |  |
 | 1863. Sum of All Subset XOR Totals | Full bit search algorithm | [url](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1597947476/) |  |
 | 2140. Solving Questions With Brainpower | dynamic programming/update value and inherit the maximum value | [url](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/1597941577/) |  |
 | 2873. Maximum Value of an Ordered Triplet I | same as II | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/) |  |
