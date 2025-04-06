@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1863. Sum of All Subset XOR Totals | Full bit search algorithm | [url](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1597947476/) |  |
 | 2140. Solving Questions With Brainpower | dynamic programming/update value and inherit the maximum value | [url](https://leetcode.com/problems/solving-questions-with-brainpower/submissions/1597941577/) |  |
 | 2873. Maximum Value of an Ordered Triplet I | same as II | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/) |  |
 | 2874. Maximum Value of an Ordered Triplet II | cumulative sum/Greedy + Prefix Suffix Array | [url](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/submissions/1597936996/) |  |
