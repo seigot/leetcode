@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3396. Minimum Number of Operations to Make Elements in Array Distinct | defaultdict | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/submissions/1600903439/) |  |
 | 416. Partition Equal Subset Sum | dynamic programing/partial sum | [url](https://leetcode.com/problems/partition-equal-subset-sum/description/) |  |
 | 368. Largest Divisible Subset | dynamic programing/back trace | [url](https://leetcode.com/problems/largest-divisible-subset/submissions/1598179928/) |  |
 | 1863. Sum of All Subset XOR Totals | Full bit search algorithm | [url](https://leetcode.com/problems/sum-of-all-subset-xor-totals/submissions/1597947476/) |  |
