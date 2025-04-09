@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3375. Minimum Operations to Make Array Values Equal to K | set | [url](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/submissions/1601332092/) |  |
 | 3396. Minimum Number of Operations to Make Elements in Array Distinct | defaultdict | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/submissions/1600903439/) |  |
 | 416. Partition Equal Subset Sum | dynamic programing/partial sum | [url](https://leetcode.com/problems/partition-equal-subset-sum/description/) |  |
 | 368. Largest Divisible Subset | dynamic programing/back trace | [url](https://leetcode.com/problems/largest-divisible-subset/submissions/1598179928/) |  |
