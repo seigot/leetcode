@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 38. Count and Say | Recursive | [url](https://leetcode.com/problems/count-and-say/description/) |  |
 | 2563. Count the Number of Fair Pairs | binary search | [url](https://leetcode.com/problems/count-the-number-of-fair-pairs/description/) |  |
 | 781. Rabbits in Forest | patten/divide/mod | [url](https://leetcode.com/problems/rabbits-in-forest/submissions/1612901138/) |  |
 | 2843. Count Symmetric Integers | str/loop/while | [url](https://leetcode.com/problems/count-symmetric-integers/submissions/1604007623/) |  |
