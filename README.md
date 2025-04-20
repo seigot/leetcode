@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2179. Count Good Triplets in an Array | Binary Indexed Tree | [url](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) |  |
 | 1922. Count Good Numbers | pattern/count | [url](https://leetcode.com/problems/count-good-numbers/description/) |  |
 | 1534. Count Good Triplets | brute force approach | [url](https://leetcode.com/problems/count-good-triplets/submissions/1612928440/) |  |
 | 2537. Count the Number of Good Subarrays | sliding window/count pairs | [url](https://leetcode.com/problems/count-the-number-of-good-subarrays/description/) |  |
