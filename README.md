@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2145. Count the Hidden Sequences | min/max/array | [url](https://leetcode.com/problems/count-the-hidden-sequences/) |  |
 | 2179. Count Good Triplets in an Array | Binary Indexed Tree/Count left and right previously/index alignment | [url](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) |  |
 | 1922. Count Good Numbers | pattern/count | [url](https://leetcode.com/problems/count-good-numbers/description/) |  |
 | 1534. Count Good Triplets | brute force approach | [url](https://leetcode.com/problems/count-good-triplets/submissions/1612928440/) |  |
