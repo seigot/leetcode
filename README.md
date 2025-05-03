@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2302. Count Subarrays With Score Less Than K | sliding window | [url](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/submissions/1624792987/) |  |
 | 3392. Count Subarrays of Length Three With a Condition | sum | [url](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/) |  |
 | 2845. Count of Interesting Subarrays | accumlated sum | [url](https://leetcode.com/problems/count-of-interesting-subarrays/description/) |  |
 | 2799. Count Complete Subarrays in an Array | sliding window | [url](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) |  |
