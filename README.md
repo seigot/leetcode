@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2799. Count Complete Subarrays in an Array | sliding window | [url](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) |  |
 | 1399. Count Largest Group | defaultdict,str(),int(),max | [url](https://leetcode.com/problems/count-largest-group/submissions/1624777974/) |  |
 | 2145. Count the Hidden Sequences | min/max/array | [url](https://leetcode.com/problems/count-the-hidden-sequences/) |  |
 | 2179. Count Good Triplets in an Array | Binary Indexed Tree/Count left and right previously/index alignment | [url](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) |  |
