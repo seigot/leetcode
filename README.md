@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3392. Count Subarrays of Length Three With a Condition | sum | [url](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/) |  |
+| 2845. Count of Interesting Subarrays | accumlated sum | [url](https://leetcode.com/problems/count-of-interesting-subarrays/description/) |  |
 | 2799. Count Complete Subarrays in an Array | sliding window | [url](https://leetcode.com/problems/count-complete-subarrays-in-an-array/description/) |  |
 | 1399. Count Largest Group | defaultdict,str(),int(),max | [url](https://leetcode.com/problems/count-largest-group/submissions/1624777974/) |  |
 | 2145. Count the Hidden Sequences | min/max/array | [url](https://leetcode.com/problems/count-the-hidden-sequences/) |  |
