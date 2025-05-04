@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1128. Number of Equivalent Domino Pairs | defaultdict/combination | [url](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |  |
 | 1007. Minimum Domino Rotations For Equal Row | Brute force | [url](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/1625058567/) |  |
 | 838. Push Dominoes | Brute force | [url](https://leetcode.com/problems/push-dominoes/) |  |
 | 1295. Find Numbers with Even Number of Digits | odd/even | [url](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1625033400/) |  |
