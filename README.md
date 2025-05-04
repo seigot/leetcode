@@ -9,6 +9,10 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1007. Minimum Domino Rotations For Equal Row | Brute force | [url](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/1625058567/) |  |
+| 838. Push Dominoes | Brute force | [url](https://leetcode.com/problems/push-dominoes/) |  |
+| 1295. Find Numbers with Even Number of Digits | odd/even | [url](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1625033400/) |  |
+| 2962. Count Subarrays Where Max Element Appears at Least K Times | sliding window | [url](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/submissions/1625031999/) |  |
 | 2302. Count Subarrays With Score Less Than K | sliding window | [url](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/submissions/1624792987/) |  |
 | 3392. Count Subarrays of Length Three With a Condition | sum | [url](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/description/) |  |
 | 2845. Count of Interesting Subarrays | accumlated sum | [url](https://leetcode.com/problems/count-of-interesting-subarrays/description/) |  |
