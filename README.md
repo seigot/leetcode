@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 790. Domino and Tromino Tiling | Dynamic Programming | [url](https://leetcode.com/problems/domino-and-tromino-tiling/submissions/1625808880/) |  |
 | 2071. Maximum Number of Tasks You Can Assign | binary search/sort | [url](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/) |  |
 | 1128. Number of Equivalent Domino Pairs | defaultdict/combination | [url](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) |  |
 | 1007. Minimum Domino Rotations For Equal Row | Brute force | [url](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/submissions/1625058567/) |  |
