@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3342. Find Minimum Time to Reach Last Room II | heapq/djkstra algorithm | [url](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/submissions/1630482467/) |  |
 | 3341. Find Minimum Time to Reach Last Room I | Shortest Path + Dijkstra | [url](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/) |  |
 | 1920. Build Array from Permutation | array/for | [url](https://leetcode.com/problems/build-array-from-permutation/submissions/1626700570/) |  |
 | 790. Domino and Tromino Tiling | Dynamic Programming | [url](https://leetcode.com/problems/domino-and-tromino-tiling/submissions/1625808880/) |  |
