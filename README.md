@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 1550. Three Consecutive Odds | odd/even | [url](https://leetcode.com/problems/three-consecutive-odds/submissions/1630809951/) |  |
 | 3343. Count Number of Balanced Permutations | dynamic programming/combinations | [url](https://leetcode.com/problems/count-number-of-balanced-permutations/) |  |
 | 2918. Minimum Equal Sum of Two Arrays After Replacing Zeros | case division | [url](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/submissions/1630486414/) |  |
 | 3342. Find Minimum Time to Reach Last Room II | heapq/djkstra algorithm | [url](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/submissions/1630482467/) |  |
