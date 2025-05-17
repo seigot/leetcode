@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 75. Sort Colors | sort | [url](https://leetcode.com/problems/sort-colors/submissions/1636798740/) |  |
 | Longest Unequal Adjacent Groups Subsequence II | dynamic programming | [url](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/editorial/) |  |
 | 2900. Longest Unequal Adjacent Groups Subsequence I | count | [url](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/submissions/1636789331/) |  |
 | 3335. Total Characters in String After Transformations I | counter/26characters | [url](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/submissions/1632593938/) |  |
