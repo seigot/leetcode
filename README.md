@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2900. Longest Unequal Adjacent Groups Subsequence I | count | [url](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/submissions/1636789331/) |  |
 | 3335. Total Characters in String After Transformations I | counter/26characters | [url](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/submissions/1632593938/) |  |
 | 2094. Finding 3-Digit Even Numbers | brute force | [url](https://leetcode.com/problems/finding-3-digit-even-numbers/submissions/1631687427/) |  |
 | 1550. Three Consecutive Odds | odd/even | [url](https://leetcode.com/problems/three-consecutive-odds/submissions/1630809951/) |  |
