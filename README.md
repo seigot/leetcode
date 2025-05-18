@@ -9,9 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
-| 1931. Painting a Grid With Three Different Colors | DP | [url](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/submissions/1636942253/) |  |
-| Total Characters in String After Transformations II | Matrix Multiplication + Matrix Exponentiation By Squaring | [url](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/description/) |  |
-| 3337. Total Characters in String After Transformations II |  | [url](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/submissions/1636799619/) |  |
+| 1931. Painting a Grid With Three Different Colors | DP/check state transition | [url](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/submissions/1636942253/) |  |
+| 3337. Total Characters in String After Transformations II | Approach: Matrix Multiplication + Matrix Exponentiation By Squaring | [url](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/submissions/1636799619/) |  |
 | 75. Sort Colors | sort | [url](https://leetcode.com/problems/sort-colors/submissions/1636798740/) |  |
 | Longest Unequal Adjacent Groups Subsequence II | dynamic programming | [url](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/editorial/) |  |
 | 2900. Longest Unequal Adjacent Groups Subsequence I | count | [url](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/submissions/1636789331/) |  |
