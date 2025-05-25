@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3362. Zero Array Transformation III | sort/heapq/differencial sum | [url](https://leetcode.com/problems/zero-array-transformation-iii/submissions/1643653199/) |  |
 | 73. Set Matrix Zeroes | in-place zero flag | [url](https://leetcode.com/problems/set-matrix-zeroes/description/) |  |
 | 3355. Zero Array Transformation I | Difference Array(imos)| [url](https://leetcode.com/problems/zero-array-transformation-i/submissions/1643615620/) |  |
 | 3024. Type of Triangle | if/array/sort | [url](https://leetcode.com/problems/type-of-triangle/submissions/1643611671/) |  |
