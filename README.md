@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2942. Find Words Containing Character | if/array/enumerate | [url](https://leetcode.com/problems/find-words-containing-character/submissions/1643655811/) |  |
 | 3362. Zero Array Transformation III | sort/heapq/differencial sum | [url](https://leetcode.com/problems/zero-array-transformation-iii/submissions/1643653199/) |  |
 | 73. Set Matrix Zeroes | in-place zero flag | [url](https://leetcode.com/problems/set-matrix-zeroes/description/) |  |
 | 3355. Zero Array Transformation I | Difference Array(imos)| [url](https://leetcode.com/problems/zero-array-transformation-i/submissions/1643615620/) |  |
