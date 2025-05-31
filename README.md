@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 909. Snakes and Ladders | BFS | [url](https://leetcode.com/problems/snakes-and-ladders/submissions/1650151436/) |  |
 | 2359. Find Closest Node to Given Two Nodes | BFS | [url](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/submissions/1650145204/) |  |
 | 3373. Maximize the Number of Target Nodes After Connecting Trees II | BFS/binary tree capability,structure | [url](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/submissions/1650136554/) |  |
 | 3372. Maximize the Number of Target Nodes After Connecting Trees I | BFS/Tree structure | [url](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) |  |
