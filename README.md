@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3372. Maximize the Number of Target Nodes After Connecting Trees I | BFS/Tree structure | [url](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/) |  |
 | 2894. Divisible and Non-divisible Sums Difference | for/number sequence | [url](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/) |  |
 | 1857. Largest Color Value in a Directed Graph | topological sort/dp | [url](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/) |  |
 | 3068. Find the Maximum Sum of Node Values | pick up gain from sorted array | [url](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1643684296/) |  |
