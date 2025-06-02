@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 135. Candy | Greedy Algorithm/Bidirectional Scan/Local Optimization | [url](https://leetcode.com/problems/candy/submissions/1651316968/) |  |
 | 2929. Distribute Candies Among Children II | inclusion-exclusion principle | [url](https://leetcode.com/problems/distribute-candies-among-children-ii/submissions/1650380649/) |  |
 | 909. Snakes and Ladders | BFS | [url](https://leetcode.com/problems/snakes-and-ladders/submissions/1650151436/) |  |
 | 2359. Find Closest Node to Given Two Nodes | BFS | [url](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/submissions/1650145204/) |  |
