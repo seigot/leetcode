@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3403. Find the Lexicographically Largest String From the Box I | Lexicographically Large/Start from lerge char string | [url](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/submissions/1657068059/) |  |
 | 135. Candy | Greedy Algorithm/Bidirectional Scan/Local Optimization | [url](https://leetcode.com/problems/candy/submissions/1651316968/) |  |
 | 2929. Distribute Candies Among Children II | inclusion-exclusion principle | [url](https://leetcode.com/problems/distribute-candies-among-children-ii/submissions/1650380649/) |  |
 | 909. Snakes and Ladders | BFS | [url](https://leetcode.com/problems/snakes-and-ladders/submissions/1650151436/) |  |
