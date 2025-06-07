@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2434. Using a Robot to Print the Lexicographically Smallest String | stack/manage minimum charactor string | [url](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/submissions/1657074556/) |  |
 | 1061. Lexicographically Smallest Equivalent String | UnionFind | [url](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/submissions/1657071765/) |  |
 | 3403. Find the Lexicographically Largest String From the Box I | Lexicographically Large/Start from lerge char string | [url](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/submissions/1657068059/) |  |
 | 135. Candy | Greedy Algorithm/Bidirectional Scan/Local Optimization | [url](https://leetcode.com/problems/candy/submissions/1651316968/) |  |
