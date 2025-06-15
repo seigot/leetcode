@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2566. Maximum Difference by Remapping a Digit | replace | [url](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/submissions/1664597544/) |  |
 | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | index of Adjacent Elements | [url](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/) |  |
 | 3442. Maximum Difference Between Even and Odd Frequency I | odd/even | [url](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/submissions/1664577298/) |  |
 | 386. Lexicographical Numbers | increment Lexicographically | [url](https://leetcode.com/problems/lexicographical-numbers/) |  |
