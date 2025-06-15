@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3442. Maximum Difference Between Even and Odd Frequency I | odd/even | [url](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/submissions/1664577298/) |  |
 | 386. Lexicographical Numbers | increment Lexicographically | [url](https://leetcode.com/problems/lexicographical-numbers/) |  |
 | 1298. Maximum Candies You Can Get from Boxes | BFS(Broaden firsts search) | [url](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/submissions/1657080175/) |  |
 | 3170. Lexicographically Minimum String After Removing Stars | stack push(),pop() | [url](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/submissions/1657077155/) |  |
