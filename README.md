@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2016. Maximum Difference Between Increasing Elements | diff/brute force | [url](https://leetcode.com/problems/maximum-difference-between-increasing-elements/submissions/1665499974/) |  |
 | 1432. Max Difference You Can Get From Changing an Integer | replace integer/str.replace(s1,s2) | [url](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/description/) |  |
 | 2616. Minimize the Maximum Difference of Pairs | binary search | [url](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/) |  |
 | 2566. Maximum Difference by Remapping a Digit | replace | [url](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/submissions/1664597544/) |  |
