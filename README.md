@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 3443. Maximum Manhattan Distance After K Changes | step-by-step/count the maximum distance in each step by O(1) | [url](https://claude.ai/chat/9fe69945-2985-4557-8030-b2dc8702bfcb) |  |
 | 2294. Partition Array Such That Maximum Difference Is K | sort/brute force | [url](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/submissions/1672055238/) |  |
 | 2966. Divide Array Into Arrays With Max Difference | sort/brute force | [url](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1672053058/) |  |
 | 2016. Maximum Difference Between Increasing Elements | diff/brute force | [url](https://leetcode.com/problems/maximum-difference-between-increasing-elements/submissions/1665499974/) |  |
