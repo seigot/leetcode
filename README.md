@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2138. Divide a String Into Groups of Size k | brute force | [url](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672296262/) |  |
 | 3085. Minimum Deletions to Make String K-Special | brute force for all candidates | [url](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/submissions/1672077866/) |  |
 | 3443. Maximum Manhattan Distance After K Changes | step-by-step/count the maximum distance in each step by O(1) | [url](https://claude.ai/chat/9fe69945-2985-4557-8030-b2dc8702bfcb) |  |
 | 2294. Partition Array Such That Maximum Difference Is K | sort/brute force | [url](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/submissions/1672055238/) |  |
