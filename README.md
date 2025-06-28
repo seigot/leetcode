@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2311. Longest Binary Subsequence Less Than or Equal to K | brute force | [url](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/submissions/1679721687/) |  |
 | 2200. Find All K-Distant Indices in an Array | for/if/array | [url](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/submissions/1679718244/) |  |
 | 2138. Divide a String Into Groups of Size k | brute force | [url](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672296262/) |  |
 | 3085. Minimum Deletions to Make String K-Special | brute force for all candidates | [url](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/submissions/1672077866/) |  |
