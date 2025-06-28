@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2200. Find All K-Distant Indices in an Array | for/if/array | [url](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/submissions/1679718244/) |  |
 | 2138. Divide a String Into Groups of Size k | brute force | [url](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672296262/) |  |
 | 3085. Minimum Deletions to Make String K-Special | brute force for all candidates | [url](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/submissions/1672077866/) |  |
 | 3443. Maximum Manhattan Distance After K Changes | step-by-step/count the maximum distance in each step by O(1) | [url](https://claude.ai/chat/9fe69945-2985-4557-8030-b2dc8702bfcb) |  |
