@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2099. Find Subsequence of Length K With the Largest Sum | brute force | [url](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/submissions/1679723888/) |  |
 | 2311. Longest Binary Subsequence Less Than or Equal to K | brute force | [url](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/submissions/1679721687/) |  |
 | 2200. Find All K-Distant Indices in an Array | for/if/array | [url](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/submissions/1679718244/) |  |
 | 2138. Divide a String Into Groups of Size k | brute force | [url](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672296262/) |  |
