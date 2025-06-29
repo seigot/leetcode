@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | :--- | :--- | :--- | :--- |
+| 2040. Kth Smallest Product of Two Sorted Arrays | binary search/Divide and Conquer | [url](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/submissions/1679776518/) |  |
 | 2081. Sum of k-Mirror Numbers | palindrome/base-k/yeild | [url](https://leetcode.com/problems/sum-of-k-mirror-numbers/editorial/) |  |
 | 2099. Find Subsequence of Length K With the Largest Sum | brute force | [url](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/submissions/1679723888/) |  |
 | 2311. Longest Binary Subsequence Less Than or Equal to K | brute force | [url](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/submissions/1679721687/) |  |
