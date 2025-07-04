@@ -8,7 +8,7 @@ for practice
 ---
 
 | No. | 概要 | url | 備考 |
-| :--- | :--- | :--- | :--- |
+| 594. Longest Harmonious Subsequence | - | [url](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |  |
 | 1498. Number of Subsequences That Satisfy the Given Sum Condition | Double Pointer Sliding Window | [url](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |  |
 | 2014. Longest Subsequence Repeated k Times | iterator/BFS | [url](https://leetcode.com/problems/longest-subsequence-repeated-k-times/submissions/1679790480/) |  |
 | 2040. Kth Smallest Product of Two Sorted Arrays | binary search/Divide and Conquer | [url](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/submissions/1679776518/) |  |
