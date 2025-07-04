@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3333. Find the Original Typed String II | Dynamic Programming | [url](https://leetcode.com/problems/find-the-original-typed-string-ii/description/) |  |
 | 3304. Find the K-th Character in String Game I | while | [url](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/submissions/1685612886/) |  |
 | 3330. Find the Original Typed String I | array | [url](https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1685609386/) |  |
 | 594. Longest Harmonious Subsequence | array | [url](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |  |
