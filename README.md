@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3304. Find the K-th Character in String Game I | while | [url](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/submissions/1685612886/) |  |
+| 3330. Find the Original Typed String I | array | [url](https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1685609386/) |  |
 | 594. Longest Harmonious Subsequence | array | [url](https://leetcode.com/problems/longest-harmonious-subsequence/description/) |  |
 | 1498. Number of Subsequences That Satisfy the Given Sum Condition | Double Pointer Sliding Window | [url](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) |  |
 | 2014. Longest Subsequence Repeated k Times | iterator/BFS | [url](https://leetcode.com/problems/longest-subsequence-repeated-k-times/submissions/1679790480/) |  |
