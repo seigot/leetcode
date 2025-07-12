@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| - | - | [url](-) |  |
+| 3602. Hexadecimal and Hexatrigesimal Conversion | base16 | [url](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/submissions/1695560782/) |  |
 | 3333. Find the Original Typed String II | Dynamic Programming/after-effects/cumulative sum | [url](https://leetcode.com/problems/find-the-original-typed-string-ii/description/) |  |
 | 3304. Find the K-th Character in String Game I | while | [url](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/submissions/1685612886/) |  |
 | 3330. Find the Original Typed String I | array | [url](https://leetcode.com/problems/find-the-original-typed-string-i/submissions/1685609386/) |  |
