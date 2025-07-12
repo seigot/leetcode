@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1353. Maximum Number of Events That Can Be Attended | Heap/Greedy Algorithm | [url](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) |  |
 | 1865. Finding Pairs With a Certain Sum | freq/defaultdict | [url](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |  |
 | 3579. Minimum Steps to Convert String with Operations | DynamicProgramming/Substring partitioning with recursive optimization of reverse, swap, and replace operations | [url](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/) |  |
 | 3597. Partition String  | set/string | [url](https://leetcode.com/problems/partition-string/submissions/1695567624/) |  |
