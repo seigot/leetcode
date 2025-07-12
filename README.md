@@ -9,7 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| - | - | [url](-) |  |
+| 3597. Partition String  | set/string | [url](https://leetcode.com/problems/partition-string/submissions/1695567624/) |  |
+| 1394. Find Lucky Integer in an Array | defaultdict | [url](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1695572700/) |  |
 | 3602. Hexadecimal and Hexatrigesimal Conversion | base16 | [url](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/submissions/1695560782/) |  |
 | 3333. Find the Original Typed String II | Dynamic Programming/after-effects/cumulative sum | [url](https://leetcode.com/problems/find-the-original-typed-string-ii/description/) |  |
 | 3304. Find the K-th Character in String Game I | while | [url](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/submissions/1685612886/) |  |
