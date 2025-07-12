@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3440. Reschedule Meetings for Maximum Free Time II | accumulated sum/window search  | [url](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/submissions/1695660723/) |  |
 | 3439. Reschedule Meetings for Maximum Free Time I | accumulated sum/window search | [url](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/) |  |
 | 1353. Maximum Number of Events That Can Be Attended | Heap/Greedy Algorithm | [url](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/) |  |
 | 1865. Finding Pairs With a Certain Sum | freq/defaultdict | [url](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) |  |
