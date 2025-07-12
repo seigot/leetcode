@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3579. Minimum Steps to Convert String with Operations | dp/string | [url](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/) |  |
 | 3597. Partition String  | set/string | [url](https://leetcode.com/problems/partition-string/submissions/1695567624/) |  |
 | 1394. Find Lucky Integer in an Array | defaultdict | [url](https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1695572700/) |  |
 | 3602. Hexadecimal and Hexatrigesimal Conversion | base16 | [url](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/submissions/1695560782/) |  |
