@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1290. Convert Binary Number in a Linked List to Integer | list/bit length | [url](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |  |
 | 2410. Maximum Matching of Players With Trainers | greedy/sort | [url](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) |  |
 | 3440. Reschedule Meetings for Maximum Free Time II | accumulated sum/window search  | [url](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/submissions/1695660723/) |  |
 | 3439. Reschedule Meetings for Maximum Free Time I | accumulated sum/window search | [url](https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/description/) |  |
