@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2210. Count Hills and Valleys in an Array | for/if | [url](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |  |
 | 1717. Maximum Score From Removing Substrings | greedy approach | [url](https://leetcode.com/problems/maximum-score-from-removing-substrings/submissions/1712707498/) |  |
 | 1695. Maximum Erasure Value | sliding window approach | [url](https://leetcode.com/problems/maximum-erasure-value/) |  |
 | 1957. Delete Characters to Make Fancy String | if/len | [url](https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1712703752/) |  |
