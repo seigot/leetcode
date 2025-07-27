@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3487. Maximum Unique Subarray Sum After Deletion | sliding window/set | [url](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/) |  |
 | 3136. Valid Word | set/if/for/isdigit()/isalpha() | [url](https://leetcode.com/problems/valid-word/submissions/1712690134/) |  |
 | 1290. Convert Binary Number in a Linked List to Integer | list/bit length | [url](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) |  |
 | 2410. Maximum Matching of Players With Trainers | greedy/sort | [url](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) |  |
