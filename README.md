@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1717. Maximum Score From Removing Substrings | greedy approach | [url](https://leetcode.com/problems/maximum-score-from-removing-substrings/submissions/1712707498/) |  |
 | 1695. Maximum Erasure Value | sliding window approach | [url](https://leetcode.com/problems/maximum-erasure-value/) |  |
 | 1957. Delete Characters to Make Fancy String | if/len | [url](https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1712703752/) |  |
 | 1233. Remove Sub-Folders from the Filesystem | sort/startwith() | [url](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/submissions/1712702076/) |  |
