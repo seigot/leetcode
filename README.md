@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1957. Delete Characters to Make Fancy String | if/len | [url](https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1712703752/) |  |
 | 1233. Remove Sub-Folders from the Filesystem | sort/startwith() | [url](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/submissions/1712702076/) |  |
 | 3202. Find the Maximum Length of Valid Subsequence II | dp(mod k) | [url](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/submissions/1712700813/) |  |
 | 3201. Find the Maximum Length of Valid Subsequence I | brute force(odd+odd/even+even/odd+even/even+odd) | [url](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/) |  |
