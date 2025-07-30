@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2419. Longest Subarray With Maximum Bitwise AND | Greedy search | [url](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/submissions/1716778319/) |  |
 | 2411. Smallest Subarrays With Maximum Bitwise OR | Bit Manipulation / Greedy Algorithm / Reverse Iteration / Bit Tracking | [url](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/submissions/1716774326/) |  |
 | 2044. Count Number of Maximum Bitwise-OR Subsets | brute-force search with bit manipulation | [url](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/submissions/1714023795/) |  |
 | 2210. Count Hills and Valleys in an Array | for/if | [url](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) |  |
