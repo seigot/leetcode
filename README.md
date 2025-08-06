@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3477. Fruits Into Baskets II | brute force search | [url](https://leetcode.com/problems/fruits-into-baskets-ii/submissions/1725098910/) |  |
 | 3479. Fruits Into Baskets III | segment tree/Efficient range maximum,minimum query under 'left-to-right' constraint | [url](https://leetcode.com/problems/fruits-into-baskets-iii/) |  |
 | 2419. Longest Subarray With Maximum Bitwise AND | Greedy search | [url](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/submissions/1716778319/) |  |
 | 2411. Smallest Subarrays With Maximum Bitwise OR | Bit Manipulation / Greedy Algorithm / Reverse Iteration / Bit Tracking | [url](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/submissions/1716774326/) |  |
