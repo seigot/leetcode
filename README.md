@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 898. Bitwise ORs of Subarrays | Dynamic Programming, Monotonic increasing | [url](https://leetcode.com/problems/bitwise-ors-of-subarrays/) |  |
+| 118. Pascal's Triangle | for/if | [url](https://leetcode.com/problems/pascals-triangle/submissions/1725107291/) |  |
 | 904. Fruit Into Baskets | sliding window | [url](https://leetcode.com/problems/fruit-into-baskets/submissions/1725106446/) |  |
 | 3477. Fruits Into Baskets II | brute force search | [url](https://leetcode.com/problems/fruits-into-baskets-ii/submissions/1725098910/) |  |
 | 3479. Fruits Into Baskets III | segment tree/Efficient range maximum,minimum query under 'left-to-right' constraint | [url](https://leetcode.com/problems/fruits-into-baskets-iii/) |  |
