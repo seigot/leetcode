@@ -9,6 +9,9 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 837. New 21 Game | Dynamic Programming/Probability | [url](https://leetcode.com/problems/new-21-game/submissions/1738119169/) |  |
+| 342. Power of Four | devided by three | [url](https://leetcode.com/problems/power-of-four/submissions/1738100749/) |  |
+| 2264. Largest 3-Same-Digit Number in String | for/maximum string | [url](https://leetcode.com/problems/largest-3-same-digit-number-in-string/submissions/1738098975/) |  |
 | 326. Power of Three | devided by three | [url](https://leetcode.com/problems/power-of-three/) |  |
 | 2787. Ways to Express an Integer as Sum of Powers | Dynamic Programming | [url](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) |  |
 | 2438. Range Product Queries of Powers | Prefix Product Preprocessing/modular inverses | [url](https://leetcode.com/problems/range-product-queries-of-powers/submissions/1738087512/) |  |
