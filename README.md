@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1323. Maximum 69 Number | string.replace("6","9",1) | [url](https://leetcode.com/problems/maximum-69-number/submissions/1737915342/) |  |
+| 808. Soup Servings | dp/probability | [url](https://leetcode.com/problems/soup-servings/submissions/1737917725/) |  |
 | 898. Bitwise ORs of Subarrays | Dynamic Programming, Monotonic increasing | [url](https://leetcode.com/problems/bitwise-ors-of-subarrays/) |  |
 | 118. Pascal's Triangle | for/if | [url](https://leetcode.com/problems/pascals-triangle/submissions/1725107291/) |  |
 | 904. Fruit Into Baskets | sliding window | [url](https://leetcode.com/problems/fruit-into-baskets/submissions/1725106446/) |  |
