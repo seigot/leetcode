@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 326. Power of Three | devided by three | [url](https://leetcode.com/problems/power-of-three/) |  |
 | 2787. Ways to Express an Integer as Sum of Powers | Dynamic Programming | [url](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) |  |
 | 2438. Range Product Queries of Powers | Prefix Product Preprocessing/modular inverses | [url](https://leetcode.com/problems/range-product-queries-of-powers/submissions/1738087512/) |  |
 | 869. Reordered Power of 2 | counter | [url](https://leetcode.com/problems/reordered-power-of-2/submissions/1738069837/) |  |
