@@ -9,6 +9,8 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2787. Ways to Express an Integer as Sum of Powers | Dynamic Programming | [url](https://leetcode.com/problems/ways-to-express-an-integer-as-sum-of-powers/) |  |
+| 2438. Range Product Queries of Powers | Prefix Product Preprocessing/modular inverses | [url](https://leetcode.com/problems/range-product-queries-of-powers/submissions/1738087512/) |  |
 | 869. Reordered Power of 2 | counter | [url](https://leetcode.com/problems/reordered-power-of-2/submissions/1738069837/) |  |
 | 231. Power of Two | n&(n-1)=0 | [url](https://leetcode.com/problems/power-of-two/solutions/7059453/2-approaches-explained-in-depth-with-images-c-python-java/) |  |
 | 1323. Maximum 69 Number | string.replace("6","9",1) | [url](https://leetcode.com/problems/maximum-69-number/submissions/1737915342/) |  |
