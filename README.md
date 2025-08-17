@@ -9,6 +9,7 @@ for practice
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 231. Power of Two | n&(n-1)=0 | [url](https://leetcode.com/problems/power-of-two/solutions/7059453/2-approaches-explained-in-depth-with-images-c-python-java/) |  |
 | 1323. Maximum 69 Number | string.replace("6","9",1) | [url](https://leetcode.com/problems/maximum-69-number/submissions/1737915342/) |  |
 | 808. Soup Servings | dp/probability | [url](https://leetcode.com/problems/soup-servings/submissions/1737917725/) |  |
 | 898. Bitwise ORs of Subarrays | Dynamic Programming, Monotonic increasing | [url](https://leetcode.com/problems/bitwise-ors-of-subarrays/) |  |
