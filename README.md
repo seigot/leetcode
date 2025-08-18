@@ -1,6 +1,9 @@
 # leetcode
 for practice
 
+- leet code weekly/bi-weekly contest  
+https://leetcode.com/contest/  
+weekly/bi-weekly  
 
 ---
 | - | - | [url](-) |  |
