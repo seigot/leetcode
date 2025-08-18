@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 679. 24 Game | Brute force/Recursive search | [url](https://leetcode.com/problems/24-game/submissions/1739263316/) |  |
 | 837. New 21 Game | Dynamic Programming/Probability/window sum | [url](https://leetcode.com/problems/new-21-game/submissions/1738119169/) |  |
 | 342. Power of Four | devided by three | [url](https://leetcode.com/problems/power-of-four/submissions/1738100749/) |  |
 | 2264. Largest 3-Same-Digit Number in String | for/maximum string | [url](https://leetcode.com/problems/largest-3-same-digit-number-in-string/submissions/1738098975/) |  |
