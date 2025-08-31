@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2348. Number of Zero-Filled Subarrays | calculate the contiguous sequence of elements | [url](https://leetcode.com/problems/number-of-zero-filled-subarrays/submissions/1754134377/) |  |
 | 3000. Maximum Area of Longest Diagonal Rectangle | calculate the area/diagonal | [url](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/submissions/1754132693/) |  |
 | 679. 24 Game | Brute force/Recursive search | [url](https://leetcode.com/problems/24-game/submissions/1739263316/) |  |
 | 837. New 21 Game | Dynamic Programming/Probability/window sum | [url](https://leetcode.com/problems/new-21-game/submissions/1738119169/) |  |
