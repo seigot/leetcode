@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1493. Longest Subarray of 1's After Deleting One Element | window search | [url](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) |  |
 | 3195. Find the Minimum Area to Cover All Ones I | max/min, row/height | [url](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/submissions/1754167997/) |  |
 | 1504. Count Submatrices With All Ones |  | [url](https://leetcode.com/problems/count-submatrices-with-all-ones/submissions/1754155241/) |  |
 | 1277. Count Square Submatrices with All Ones | DP for the number of areas | [url](https://leetcode.com/problems/count-square-submatrices-with-all-ones/submissions/1754135330/) |  |
