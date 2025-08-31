@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1277. Count Square Submatrices with All Ones | DP for the number of areas | [url](https://leetcode.com/problems/count-square-submatrices-with-all-ones/submissions/1754135330/) |  |
 | 2348. Number of Zero-Filled Subarrays | calculate the contiguous sequence of elements | [url](https://leetcode.com/problems/number-of-zero-filled-subarrays/submissions/1754134377/) |  |
 | 3000. Maximum Area of Longest Diagonal Rectangle | calculate the area/diagonal | [url](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/submissions/1754132693/) |  |
 | 679. 24 Game | Brute force/Recursive search | [url](https://leetcode.com/problems/24-game/submissions/1739263316/) |  |
