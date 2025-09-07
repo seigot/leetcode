@@ -12,6 +12,8 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2749. Minimum Operations to Make the Integer Zero | bit operation/formulate | [url](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/submissions/1762013239/) |  |
+| 3516. Find Closest Person | absolute value | [url](https://leetcode.com/problems/find-closest-person/submissions/1762012272/) |  |
 | 3027. Find the Number of Ways to Place People II | sort[x Ascending order,y Descending order]/ | [url](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |  |
 | 3025. Find the Number of Ways to Place People I | brute force/for | [url](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/submissions/1762005184/) |  |
 | 1792. Maximum Average Pass Ratio | heap/calculate future gain | [url](https://leetcode.com/problems/maximum-average-pass-ratio/description/) |  |
