@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3495. Minimum Operations to Make Array Elements Zero | min | [url](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/submissions/1762018013/) |  |
 | 2749. Minimum Operations to Make the Integer Zero | bit operation/formulate | [url](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/submissions/1762013239/) |  |
 | 3516. Find Closest Person | absolute value | [url](https://leetcode.com/problems/find-closest-person/submissions/1762012272/) |  |
 | 3027. Find the Number of Ways to Place People II | sort[x Ascending order,y Descending order]/ | [url](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |  |
