@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3027. Find the Number of Ways to Place People II | sort[x Ascending order,y Descending order]/ | [url](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/) |  |
 | 3025. Find the Number of Ways to Place People I | brute force/for | [url](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/submissions/1762005184/) |  |
 | 1792. Maximum Average Pass Ratio | heap/calculate future gain | [url](https://leetcode.com/problems/maximum-average-pass-ratio/description/) |  |
 | 37. Sudoku Solver | recursive serarch | [url](https://leetcode.com/problems/sudoku-solver/submissions/1754230021/) |  |
