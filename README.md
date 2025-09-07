@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1792. Maximum Average Pass Ratio | heap/calculate future gain | [url](https://leetcode.com/problems/maximum-average-pass-ratio/description/) |  |
 | 37. Sudoku Solver | recursive serarch | [url](https://leetcode.com/problems/sudoku-solver/submissions/1754230021/) |  |
 | 36. Valid Sudoku | set() | [url](https://leetcode.com/problems/valid-sudoku/submissions/1754212140/) |  |
 | 3021. Alice and Bob Playing Flower Game | odd/even | [url](https://leetcode.com/problems/alice-and-bob-playing-flower-game/submissions/1754207936/) |  |
