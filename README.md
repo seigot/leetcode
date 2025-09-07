@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1304. Find N Unique Integers Sum up to Zero | for | [url](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/submissions/1762415910/) |  |
 | 3495. Minimum Operations to Make Array Elements Zero | min | [url](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/submissions/1762018013/) |  |
 | 2749. Minimum Operations to Make the Integer Zero | bit operation/formulate | [url](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/submissions/1762013239/) |  |
 | 3516. Find Closest Person | absolute value | [url](https://leetcode.com/problems/find-closest-person/submissions/1762012272/) |  |
