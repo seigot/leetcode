@@ -5,6 +5,13 @@ for practice
 https://leetcode.com/contest/  
 weekly/bi-weekly  
 
+--- 
+statistics
+
+| easy | midium | hard |
+| --- | --- | --- |
+| - | - | - |
+
 ---
 | - | - | [url](-) |  |
 
