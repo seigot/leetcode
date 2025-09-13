@@ -12,6 +12,7 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3227. Vowels Game in a String | greedy | [url](https://leetcode.com/problems/vowels-game-in-a-string/) |  |
 | 2785. Sort Vowels in a String | vowels/consonent/sort | [url](https://leetcode.com/problems/sort-vowels-in-a-string/submissions/1768960179/) |  |
 | 1733. Minimum Number of People to Teach | set/min/greedy or brute force approach | [url](https://leetcode.com/problems/minimum-number-of-people-to-teach/submissions/1768955169/) |  |
 | 3541. Find Most Frequent Vowel and Consonant | set | [url](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/submissions/1768836972/) |  |
