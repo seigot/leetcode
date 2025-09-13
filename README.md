@@ -12,6 +12,8 @@ weekly/bi-weekly
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3541. Find Most Frequent Vowel and Consonant | set | [url](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/submissions/1768836972/) |  |
+| 2327. Number of People Aware of a Secret | dp | [url](https://leetcode.com/problems/number-of-people-aware-of-a-secret/submissions/1768835874/) |  |
 | 1317. Convert Integer to the Sum of Two No-Zero Integers | for/brute force | [url](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/submissions/1763343481/) |  |
 | 1304. Find N Unique Integers Sum up to Zero | for | [url](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/submissions/1762415910/) |  |
 | 3495. Minimum Operations to Make Array Elements Zero | min | [url](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/submissions/1762018013/) |  |
