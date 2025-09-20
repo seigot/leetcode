@@ -19,6 +19,7 @@ statistics
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3484. Design Spreadsheet | dict()/string.sprit() | [url](https://leetcode.com/problems/design-spreadsheet/submissions/1777404044/) |  |
 | 3408. Design Task Manager | heap() | [url](https://leetcode.com/problems/design-task-manager/submissions/1777399267/) |  |
 | 2197. Replace Non-Coprime Numbers in Array | heap()/latest value management | [url](https://leetcode.com/problems/design-a-food-rating-system/submissions/1777394083/) |  |
 | 1935. Maximum Number of Words You Can Type | set()/charactor | [url](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/1777386977/) |  |
