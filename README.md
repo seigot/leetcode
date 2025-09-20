@@ -19,6 +19,7 @@ statistics
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3508. Implement Router | defaultdict(list)/binary_search() | [url](https://leetcode.com/problems/implement-router/submissions/1777422179/) |  |
 | 3484. Design Spreadsheet | dict()/string.sprit() | [url](https://leetcode.com/problems/design-spreadsheet/submissions/1777404044/) |  |
 | 3408. Design Task Manager | heap() | [url](https://leetcode.com/problems/design-task-manager/submissions/1777399267/) |  |
 | 2197. Replace Non-Coprime Numbers in Array | heap()/latest value management | [url](https://leetcode.com/problems/design-a-food-rating-system/submissions/1777394083/) |  |
