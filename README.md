@@ -10,7 +10,7 @@ statistics
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 58 | 137 | 49 |
+| 59 | 137 | 49 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ statistics
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1935. Maximum Number of Words You Can Type | set()/charactor | [url](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/1777386977/) |  |
 | 966. Vowel Spellchecker | pattern matching | [url](https://leetcode.com/problems/vowel-spellchecker/submissions/1770171023/) |  |
 | 3227. Vowels Game in a String | greedy | [url](https://leetcode.com/problems/vowels-game-in-a-string/) |  |
 | 2785. Sort Vowels in a String | vowels/consonent/sort | [url](https://leetcode.com/problems/sort-vowels-in-a-string/submissions/1768960179/) |  |
