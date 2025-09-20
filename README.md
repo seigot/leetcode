@@ -6,11 +6,11 @@ https://leetcode.com/contest/
 weekly/bi-weekly  
 
 --- 
-statistics
+Progress [url](https://leetcode.com/progress/)  
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 59 | 137 | 49 |
+| 66 | 157 | 31 |
 
 ---
 | - | - | [url](-) |  |
