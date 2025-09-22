@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 66 | 157 | 32 |
+| 67 | 157 | 32 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3005. Count Elements With Maximum Frequency | defaultdict | [url](https://leetcode.com/problems/count-elements-with-maximum-frequency/submissions/1778683831/) |  |
 | 1912. Design Movie Rental System | heap()/sort()/defaultdict(list) | [url](https://leetcode.com/problems/design-movie-rental-system/) |  |
 | 3508. Implement Router | defaultdict(list)/binary_search() | [url](https://leetcode.com/problems/implement-router/submissions/1777422179/) |  |
 | 3484. Design Spreadsheet | dict()/string.sprit() | [url](https://leetcode.com/problems/design-spreadsheet/submissions/1777404044/) |  |
