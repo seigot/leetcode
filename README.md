@@ -19,7 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1912. Design Movie Rental System | heap()/sort() | [url](https://leetcode.com/problems/design-movie-rental-system/) |  |
+| 1912. Design Movie Rental System | heap()/sort()/defaultdict(list) | [url](https://leetcode.com/problems/design-movie-rental-system/) |  |
 | 3508. Implement Router | defaultdict(list)/binary_search() | [url](https://leetcode.com/problems/implement-router/submissions/1777422179/) |  |
 | 3484. Design Spreadsheet | dict()/string.sprit() | [url](https://leetcode.com/problems/design-spreadsheet/submissions/1777404044/) |  |
 | 3408. Design Task Manager | heap() | [url](https://leetcode.com/problems/design-task-manager/submissions/1777399267/) |  |
