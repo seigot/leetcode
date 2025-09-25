@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 67 | 159 | 32 |
+| 67 | 160 | 32 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,7 +19,8 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 166. Fraction to Recurring Decimal | - | [url](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/1780834942/) |  |
+| 120. Triangle | DP (The bottom-up approach) | [url](https://leetcode.com/problems/triangle/submissions/1781946662/) |  |
+| 166. Fraction to Recurring Decimal/long division | - | [url](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/1780834942/) |  |
 | 165. Compare Version Numbers | char.split()/int() | [url](https://leetcode.com/problems/compare-version-numbers/) |  |
 | 3005. Count Elements With Maximum Frequency | defaultdict | [url](https://leetcode.com/problems/count-elements-with-maximum-frequency/submissions/1778683831/) |  |
 | 1912. Design Movie Rental System | heap()/sort()/defaultdict(list) | [url](https://leetcode.com/problems/design-movie-rental-system/) |  |
