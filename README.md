@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 68 | 161 | 32 |
+| 69 | 161 | 32 |
 
 ---
 | - | - | [url](-) |  |
