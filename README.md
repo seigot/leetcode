@@ -19,7 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 812. Largest Triangle Area | brute force/area of triangle | [url](https://leetcode.com/problems/largest-triangle-area/submissions/1791548489/) |  |
+| 812. Largest Triangle Area | brute force/area of triangle(Surveyor's Formula) | [url](https://leetcode.com/problems/largest-triangle-area/submissions/1791548489/) |  |
 | 611. Valid Triangle Number | sort/brute force search | [url](https://leetcode.com/problems/valid-triangle-number/) |  |
 | 120. Triangle | DP (The bottom-up approach) | [url](https://leetcode.com/problems/triangle/submissions/1781946662/) |  |
 | 166. Fraction to Recurring Decimal/long division | - | [url](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/1780834942/) |  |
