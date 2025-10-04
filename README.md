@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 976. Largest Perimeter Triangle | Perimeter of Triangle | [url](https://leetcode.com/problems/largest-perimeter-triangle/) |  |
 | 812. Largest Triangle Area | brute force/area of triangle(Surveyor's Formula) | [url](https://leetcode.com/problems/largest-triangle-area/submissions/1791548489/) |  |
 | 611. Valid Triangle Number | sort/brute force search | [url](https://leetcode.com/problems/valid-triangle-number/) |  |
 | 120. Triangle | DP (The bottom-up approach) | [url](https://leetcode.com/problems/triangle/submissions/1781946662/) |  |
