@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 67 | 160 | 32 |
+| 67 | 161 | 32 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 611. Valid Triangle Number | sort/brute force search | [url](https://leetcode.com/problems/valid-triangle-number/) |  |
 | 120. Triangle | DP (The bottom-up approach) | [url](https://leetcode.com/problems/triangle/submissions/1781946662/) |  |
 | 166. Fraction to Recurring Decimal/long division | - | [url](https://leetcode.com/problems/fraction-to-recurring-decimal/submissions/1780834942/) |  |
 | 165. Compare Version Numbers | char.split()/int() | [url](https://leetcode.com/problems/compare-version-numbers/) |  |
