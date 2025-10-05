@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 69 | 162 | 32 |
+| 69 | 163 | 32 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2221. Find Triangular Sum of an Array | dynamic programming | [url](https://leetcode.com/problems/find-triangular-sum-of-an-array/submissions/1791568146/) |  |
 | 1039. Minimum Score Triangulation of Polygon | Interval Dynamic Programming | [url](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/submissions/1791555568/) |  |
 | 976. Largest Perimeter Triangle | Perimeter of Triangle | [url](https://leetcode.com/problems/largest-perimeter-triangle/) |  |
 | 812. Largest Triangle Area | brute force/area of triangle(Surveyor's Formula) | [url](https://leetcode.com/problems/largest-triangle-area/submissions/1791548489/) |  |
