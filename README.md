@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 70 | 165 | 33 |
+| 70 | 166 | 33 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1488. Avoid Flood in The City | bisect/list/set/brute force | [url](https://leetcode.com/problems/avoid-flood-in-the-city/description/) |  |
 | 778. Swim in Rising Water | Modified Dijkstra's Algorithm | [url](https://leetcode.com/problems/swim-in-rising-water/) |  |
 | 11. Container With Most Water | two pointer approach (Greedy Two Pointers Algorithm) | [url](https://leetcode.com/problems/container-with-most-water/submissions/1791575216/) |  |
 | 3100. Water Bottles II | caluculate division/while | [url](https://leetcode.com/problems/water-bottles-ii/submissions/1791573473/) |  |
