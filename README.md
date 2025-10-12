@@ -10,7 +10,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 70 | 168 | 33 |
+| 70 | 170 | 33 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,7 +19,9 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3494. Find the Minimum Amount of Time to Brew Potions | accumulated sum/simulate | [url](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) |  |
+| 3186. Maximum Total Damage With Spell Casting | dynamic programming | [url](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/submissions/1798808853/) |  |
+| 3147. Taking Maximum Energy From the Mystic Dungeon | dynamic programming/reverse way | [url](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/submissions/1798799835/) |  |
+| 3494. Find the Minimum Amount of Time to Brew Potions | accumulated sum/simulate,calculate the earliest start time. | [url](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) |  |
 | 2300. Successful Pairs of Spells and Potions | bisect | [url](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/1795046951/) |  |
 | 1488. Avoid Flood in The City | bisect/list/set/brute force | [url](https://leetcode.com/problems/avoid-flood-in-the-city/description/) |  |
 | 778. Swim in Rising Water | Modified Dijkstra's Algorithm | [url](https://leetcode.com/problems/swim-in-rising-water/) |  |
