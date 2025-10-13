@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2273. Find Resultant Array After Removing Anagrams | set()/string() | [url](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/1799940360/) |  |
 | 3186. Maximum Total Damage With Spell Casting | dynamic programming | [url](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/submissions/1798808853/) |  |
 | 3147. Taking Maximum Energy From the Mystic Dungeon | dynamic programming/reverse way | [url](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/submissions/1798799835/) |  |
 | 3494. Find the Minimum Amount of Time to Brew Potions | accumulated sum/simulate,calculate the earliest start time. | [url](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/) |  |
