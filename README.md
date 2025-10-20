@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3350. Adjacent Increasing Subarrays Detection II | pre-calculate | [url](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/submissions/1806304514/) |  |
 | 3349. Adjacent Increasing Subarrays Detection I | list/for | [url](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/) |  |
 | 2273. Find Resultant Array After Removing Anagrams | set()/string() | [url](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/1799940360/) |  |
 | 3186. Maximum Total Damage With Spell Casting | dynamic programming | [url](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/submissions/1798808853/) |  |
