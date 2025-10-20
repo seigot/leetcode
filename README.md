@@ -19,6 +19,7 @@ Progress [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3397. Maximum Number of Distinct Elements After Operations | sort/min/max | [url](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/submissions/1806310258/) |  |
 | 2598. Smallest Missing Non-negative Integer After Operations | mex/modulo operation | [url](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/submissions/1806308241/) |  |
 | 3350. Adjacent Increasing Subarrays Detection II | pre-calculate | [url](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/submissions/1806304514/) |  |
 | 3349. Adjacent Increasing Subarrays Detection I | list/for | [url](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/description/) |  |
