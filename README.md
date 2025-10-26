@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2048. Next Greater Numerically Balanced Number | brute force | [url](https://leetcode.com/problems/next-greater-numerically-balanced-number/editorial/) |  |
 | 3461. Check If Digits Are Equal in String After Operations I | sum/mod | [url](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/submissions/1811981538/) |  |
 | 3346. Maximum Frequency of an Element After Performing Operations I | sort/binary search | [url](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) |  |
 | 2011. Final Value of Variable After Performing Operations | pattern match | [url](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1811960078/) |  |
