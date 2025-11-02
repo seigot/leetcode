@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2125. Number of Laser Beams in a Bank | list | [url](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1818348422/) |  |
 | 2043. Simple Bank System | class/error check | [url](https://leetcode.com/problems/simple-bank-system/submissions/1811994690/) |  |
 | 2048. Next Greater Numerically Balanced Number | brute force | [url](https://leetcode.com/problems/next-greater-numerically-balanced-number/editorial/) |  |
 | 3461. Check If Digits Are Equal in String After Operations I | sum/mod | [url](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/submissions/1811981538/) |  |
