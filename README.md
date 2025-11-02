@@ -19,6 +19,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1526. Minimum Number of Increments on Subarrays to Form a Target Array | focus on diff | [url](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/submissions/1818369878/) |  |
+| 2257. Count Unguarded Cells in the Grid | broden first search | [url](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1818367424/) |  |
 | 3217. Delete Nodes From Linked List Present in Array | linked list | [url](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/1818365328/) |  |
 | 3289. The Two Sneaky Numbers of Digitville | set | [url](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/submissions/1818364338/) |  |
 | 3370. Smallest Number With All Set Bits | n.bit_length() | [url](https://leetcode.com/problems/smallest-number-with-all-set-bits/submissions/1818362480/) |  |
