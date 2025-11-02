@@ -19,6 +19,10 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3217. Delete Nodes From Linked List Present in Array | linked list | [url](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/1818365328/) |  |
+| 3289. The Two Sneaky Numbers of Digitville | set | [url](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/submissions/1818364338/) |  |
+| 3370. Smallest Number With All Set Bits | n.bit_length() | [url](https://leetcode.com/problems/smallest-number-with-all-set-bits/submissions/1818362480/) |  |
+| 3354. Make Array Elements Equal to Zero | simulate | [url](https://leetcode.com/problems/make-array-elements-equal-to-zero/submissions/1818359724/) |  |
 | 2125. Number of Laser Beams in a Bank | list | [url](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/submissions/1818348422/) |  |
 | 2043. Simple Bank System | class/error check | [url](https://leetcode.com/problems/simple-bank-system/submissions/1811994690/) |  |
 | 2048. Next Greater Numerically Balanced Number | brute force | [url](https://leetcode.com/problems/next-greater-numerically-balanced-number/editorial/) |  |
