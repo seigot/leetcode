@@ -10,7 +10,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 79 | 182 | 38 |
+| 80 | 182 | 38 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2169. Count Operations to Obtain Zero | substruction | [url](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/1824602378/) |  |
 | 3321. Find X-Sum of All K-Long Subarrays II | defaultdict/window search/sortedlist | [url](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/submissions/1824600287/) |  |
 | 2528. Maximize the Minimum Powered City | Window search/binary search/diff matrix | [url](https://leetcode.com/problems/maximize-the-minimum-powered-city/submissions/1824591222/) |  |
 | 1611. Minimum One Bit Operations to Make Integers Zero | minimumOneBitOperations/GrayCode | [url](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/submissions/1824571747/) |  |
