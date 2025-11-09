@@ -10,7 +10,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 78 | 180 | 35 |
+| 79 | 182 | 35 |
 
 ---
 | - | - | [url](-) |  |
@@ -19,6 +19,9 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3607. Power Grid Maintenance | union-find/sorted list(sortedlist.add(),sortedlist.remove(),sortedlist[0]) | [url](https://leetcode.com/problems/power-grid-maintenance/submissions/1824569716/) |  |
+| 3318. Find X-Sum of All K-Long Subarrays I | brute force | [url](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/solutions/) |  |
+| 1578. Minimum Time to Make Rope Colorful | brute force | [url](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/submissions/1824560113/) |  |
 | 1526. Minimum Number of Increments on Subarrays to Form a Target Array | focus on diff | [url](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/submissions/1818369878/) |  |
 | 2257. Count Unguarded Cells in the Grid | broden first search | [url](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/submissions/1818367424/) |  |
 | 3217. Delete Nodes From Linked List Present in Array | linked list | [url](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/submissions/1818365328/) |  |
