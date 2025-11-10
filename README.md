@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 7. Reverse Integer | reverse number | [url](https://leetcode.com/problems/reverse-integer/submissions/1825565859/) |  |
 | 6. Zigzag Conversion | zigzag/list/index control | [url](https://leetcode.com/problems/zigzag-conversion/submissions/1825564446/) |  |
 | 5. Longest Palindromic Substring | expand_around_center | [url](https://leetcode.com/problems/longest-palindromic-substring) |  |
 | 3. Longest Substring Without Repeating Characters | window search | [url](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1825561241/) |  |
