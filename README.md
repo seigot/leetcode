@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 102. Binary Tree Level Order Traversal | list/broden first search | [url](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1825758398/) |  |
+| 15. 3Sum | 2 pointer | [url](https://leetcode.com/problems/3sum/submissions/1825756329/) |  |
 | 973. K Closest Points to Origin | sort/square | [url](https://leetcode.com/problems/k-closest-points-to-origin/submissions/1825732918/) |  |
 | 542. 01 Matrix | broden first search | [url](https://leetcode.com/problems/01-matrix/submissions/1825730922/) |  |
 | 57. Insert Interval | while/range | [url](https://leetcode.com/problems/insert-interval/submissions/1825728991/) |  |
