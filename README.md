@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2. Add Two Numbers | listNode/Linkedlist/class | [url](https://leetcode.com/problems/add-two-numbers/submissions/1825558714/) |  |
 | 3542. Minimum Operations to Convert All Elements to Zero | Monotonic stack | [url](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/submissions/1825555502/?envType=daily-question&envId=2025-11-10) |  |
 | 2169. Count Operations to Obtain Zero | substruction | [url](https://leetcode.com/problems/count-operations-to-obtain-zero/submissions/1824602378/) |  |
 | 3321. Find X-Sum of All K-Long Subarrays II | defaultdict/window search/sortedlist | [url](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/submissions/1824600287/) |  |
