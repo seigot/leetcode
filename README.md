@@ -5,6 +5,9 @@ for practice
 https://leetcode.com/contest/  
 weekly/bi-weekly  
 
+Glind 75 (Frequent Asked Leetcode problem sets)  
+[https://www.techinterviewhandbook.org/grind75/](https://www.techinterviewhandbook.org/grind75/)  
+
 --- 
 Total solved [url](https://leetcode.com/progress/)  
 
