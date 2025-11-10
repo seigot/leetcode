@@ -19,6 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 5. Longest Palindromic Substring | expand_around_center | [url](https://leetcode.com/problems/longest-palindromic-substring) |  |
 | 3. Longest Substring Without Repeating Characters | window search | [url](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1825561241/) |  |
 | 2. Add Two Numbers | listNode/Linkedlist/class | [url](https://leetcode.com/problems/add-two-numbers/submissions/1825558714/) |  |
 | 3542. Minimum Operations to Convert All Elements to Zero | Monotonic stack | [url](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/submissions/1825555502/?envType=daily-question&envId=2025-11-10) |  |
