@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 973. K Closest Points to Origin | sort/square | [url](https://leetcode.com/problems/k-closest-points-to-origin/submissions/1825732918/) |  |
 | 542. 01 Matrix | broden first search | [url](https://leetcode.com/problems/01-matrix/submissions/1825730922/) |  |
 | 57. Insert Interval | while/range | [url](https://leetcode.com/problems/insert-interval/submissions/1825728991/) |  |
 | 53. Maximum Subarray | kanade-algorithm,dynamic programming | [url](https://leetcode.com/problems/maximum-subarray/submissions/1825723481/) |  |
