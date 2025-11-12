@@ -13,7 +13,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 80 | 198 | 38 |
+| 80 | 199 | 38 |
 
 ---
 | - | - | [url](-) |  |
@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 474. Ones and Zeroes | knapsack problem | [url](https://leetcode.com/problems/ones-and-zeroes/description/) |  |
 | 150. Evaluate Reverse Polish Notation | Reverse Polish Notation (RPN) | [url](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1825776154/) |  |
 | 133. Clone Graph | graph/broden first search | [url](https://leetcode.com/problems/clone-graph/submissions/1825769152/) |  |
 | 102. Binary Tree Level Order Traversal | list/broden first search | [url](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/1825758398/) |  |
