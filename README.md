@@ -13,7 +13,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 80 | 207 | 38 |
+| 80 | 208 | 38 |
 
 ---
 | - | - | [url](-) |  |
