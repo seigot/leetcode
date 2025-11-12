@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 155. Min Stack | manage the current/current minumum value | [url](https://leetcode.com/problems/min-stack/submissions/1827383346/) |  |
+| 238. Product of Array Except Self | product calculations | [url](https://leetcode.com/problems/product-of-array-except-self/submissions/1827381531/) |  |
 | 322. Coin Change | dynamic programming | [url](https://leetcode.com/problems/coin-change/submissions/1827380041/) |  |
 | 208. Implement Trie (Prefix Tree) | Class/Tree | [url](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/1827378145/) |  |
 | 207. Course Schedule | Topological Sorting | [url](https://leetcode.com/problems/course-schedule/submissions/1827370065/) |  |
