@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 994. Rotting Oranges | Broden First Search | [url](https://leetcode.com/problems/rotting-oranges/submissions/1827396102/) |  |
 | 200. Number of Islands | Union-Find | [url](https://leetcode.com/problems/number-of-islands/submissions/1827394595/) |  |
 | 98. Validate Binary Search Tree | Node, Class | [url](https://leetcode.com/problems/validate-binary-search-tree/description/) |  |
 | 155. Min Stack | manage the current/current minumum value | [url](https://leetcode.com/problems/min-stack/submissions/1827383346/) |  |
