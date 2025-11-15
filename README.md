@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 46. Permutations | backtracking | [url](https://leetcode.com/problems/permutations/submissions/1830766667/) |  |
 | 56. Merge Intervals | list | [url](https://leetcode.com/problems/merge-intervals/submissions/1830765928/) |  |
 | 236. Lowest Common Ancestor of a Binary Tree | Lowest Common Ancestor | [url](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  |
 | 981. Time Based Key-Value Store | set()/list | [url](https://leetcode.com/problems/accounts-merge/submissions/1830760970/) |  |
