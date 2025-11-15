@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2536. Increment Submatrices by One | 2D Difference Array | [url](https://leetcode.com/problems/increment-submatrices-by-one/) |  |
 | 3228. Maximum Number of Operations to Move Ones to the End | Dynamic Programming | [url](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/submissions/1830682133/) |  |
 | 3234. Count the Number of Substrings With Dominant Ones | pre-processing/calc 0(1) | [url](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/submissions/1830645151/) |  |
 | 2654. Minimum Number of Operations to Make All Array Elements Equal to 1 | GCD | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/submissions/1827440552/) |  |
