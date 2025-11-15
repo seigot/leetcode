@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3234. Count the Number of Substrings With Dominant Ones | pre-processing/calc 0(1) | [url](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/submissions/1830645151/) |  |
 | 2654. Minimum Number of Operations to Make All Array Elements Equal to 1 | GCD | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/submissions/1827440552/) |  |
 | 994. Rotting Oranges | Broden First Search | [url](https://leetcode.com/problems/rotting-oranges/submissions/1827396102/) |  |
 | 200. Number of Islands | Union-Find | [url](https://leetcode.com/problems/number-of-islands/submissions/1827394595/) |  |
