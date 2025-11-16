@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1235. Maximum Profit in Job Scheduling | binary search/ | [url](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1830795070/) |  |
 | 23. Merge k Sorted Lists | priority queue | [url](https://leetcode.com/problems/merge-k-sorted-lists/) |  |
 | 84. Largest Rectangle in Histogram | Height management/dynamic programming | [url](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1830788999/) |  |
 | 124. Binary Tree Maximum Path Sum Solved | Recursive DFS | [url](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1830783917/) |  |
