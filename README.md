@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 39. Combination Sum | BFS/backtrack/DP | [url](https://leetcode.com/problems/combination-sum/submissions/1830774361/) |  |
 | 33. Search in Rotated Sorted Array | binary-search | [url](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1830770964/) |  |
 | 46. Permutations | backtracking | [url](https://leetcode.com/problems/permutations/submissions/1830766667/) |  |
 | 56. Merge Intervals | list | [url](https://leetcode.com/problems/merge-intervals/submissions/1830765928/) |  |
