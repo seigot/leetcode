@@ -15,13 +15,14 @@ Total solved [url](https://leetcode.com/progress/)
 | --- | --- | --- |
 | 80 | 211 | 38 |
 
----
+--
 | - | - | [url](-) |  |
 
 ---
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 84. Largest Rectangle in Histogram | Height management/dynamic programming | [url](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1830788999/) |  |
 | 124. Binary Tree Maximum Path Sum Solved | Recursive DFS | [url](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/1830783917/) |  |
 | 895. Maximum Frequency Stack | stack/defaultdict(manage frequency of the numbers.) | [url](https://leetcode.com/problems/maximum-frequency-stack/submissions/1830777991/) |  |
 | 39. Combination Sum | BFS/backtrack/DP | [url](https://leetcode.com/problems/combination-sum/submissions/1830774361/) |  |
