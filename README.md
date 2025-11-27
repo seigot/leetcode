@@ -22,6 +22,10 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1018. Binary Prefix Divisible By 5 | binary, bit operation | [url](https://leetcode.com/problems/binary-prefix-divisible-by-5/submissions/1840638856/) |  |
+| 1262. Greatest Sum Divisible by Three | dynamic programming | [url](https://leetcode.com/problems/greatest-sum-divisible-by-three/submissions/1840637593/) |  |
+| 3190. Find Minimum Operations to Make All Elements Divisible by Three | mod 3 | [url](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1840636233/) |  |
+| 1930. Unique Length-3 Palindromic Subsequences | set/greedy search | [url](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/submissions/1840633104/) |  |
 | 2154. Keep Multiplying Found Values by Two Solved | while | [url](https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1840632461/) |  |
 | 717. 1-bit and 2-bit Characters | flag | [url](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |  |
 | 1437. Check If All 1's Are at Least Length K Places Away | count the number of zeros. | [url](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) |  |
