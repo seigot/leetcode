@@ -22,6 +22,10 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 54. Spiral Matrix | matrix control | [url](https://leetcode.com/problems/spiral-matrix/submissions/1840659584/) |  |
+| 8. String to Integer (atoi) | atoi | [url](https://leetcode.com/problems/string-to-integer-atoi/description/) |  |
+| 416. Partition Equal Subset Sum | dynamic programming | [url](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1840656021/) |  |
+| 139. Word Break | dynamic programming | [url](https://leetcode.com/problems/word-break/submissions/1840655205/) |  |
 | 757. Set Intersection Size At Least Two | greedy | [url](https://leetcode.com/problems/set-intersection-size-at-least-two/) |  |
 | 2435. Paths in Matrix Whose Sum Is Divisible by K | dynamic programming | [url](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) |  |
 | 1015. Smallest Integer Divisible by K | Repunit Number | [url](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |  |
