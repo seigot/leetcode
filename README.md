@@ -22,6 +22,9 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2154. Keep Multiplying Found Values by Two Solved | while | [url](https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1840632461/) |  |
+| 717. 1-bit and 2-bit Characters | flag | [url](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) |  |
+| 1437. Check If All 1's Are at Least Length K Places Away | count the number of zeros. | [url](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) |  |
 | 1513. Number of Substrings With Only 1s | count the number of coutinuous ones. | [url](https://leetcode.com/problems/number-of-substrings-with-only-1s/submissions/1840628099/) |  |
 | 1235. Maximum Profit in Job Scheduling | binary search/ | [url](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1830795070/) |  |
 | 23. Merge k Sorted Lists | priority queue | [url](https://leetcode.com/problems/merge-k-sorted-lists/) |  |
