@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3381. Maximum Subarray Sum With Length Divisible by K | dynamic programming | [url](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/submissions/1840751917/) |  |
 | 76. Minimum Window Substring | two pointer approach | [url](https://leetcode.com/problems/minimum-window-substring/submissions/1840687289/) |  |
 | 297. Serialize and Deserialize Binary Tree | serialize/deserialize | [url](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/1840684919/) |  |
 | 42. Trapping Rain Water | pre-calculation | [url](https://leetcode.com/problems/trapping-rain-water/submissions/1840683677/) |  |
