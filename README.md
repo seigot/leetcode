@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 224. Basic Calculator | stack/while/calculation | [url](https://leetcode.com/problems/basic-calculator/submissions/1840668705/) |  |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal | - | [url](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  |
 | 62. Unique Paths | dynamic programming/bfs | [url](https://leetcode.com/problems/unique-paths/submissions/1840663313/) |  |
 | 199. Binary Tree Right Side View | bfs, binary tree | [url](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1840662329/) |  |
