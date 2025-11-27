@@ -22,6 +22,9 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 757. Set Intersection Size At Least Two | greedy | [url](https://leetcode.com/problems/set-intersection-size-at-least-two/) |  |
+| 2435. Paths in Matrix Whose Sum Is Divisible by K | dynamic programming | [url](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) |  |
+| 1015. Smallest Integer Divisible by K | Repunit Number | [url](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |  |
 | 1018. Binary Prefix Divisible By 5 | binary, bit operation | [url](https://leetcode.com/problems/binary-prefix-divisible-by-5/submissions/1840638856/) |  |
 | 1262. Greatest Sum Divisible by Three | dynamic programming | [url](https://leetcode.com/problems/greatest-sum-divisible-by-three/submissions/1840637593/) |  |
 | 3190. Find Minimum Operations to Make All Elements Divisible by Three | mod 3 | [url](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1840636233/) |  |
