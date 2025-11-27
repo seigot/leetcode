@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 199. Binary Tree Right Side View | bfs, binary tree | [url](https://leetcode.com/problems/binary-tree-right-side-view/submissions/1840662329/) |  |
+| 78. Subsets | bfs, list | [url](https://leetcode.com/problems/subsets/) |  |
 | 54. Spiral Matrix | matrix control | [url](https://leetcode.com/problems/spiral-matrix/submissions/1840659584/) |  |
 | 8. String to Integer (atoi) | atoi | [url](https://leetcode.com/problems/string-to-integer-atoi/description/) |  |
 | 416. Partition Equal Subset Sum | dynamic programming | [url](https://leetcode.com/problems/partition-equal-subset-sum/submissions/1840656021/) |  |
