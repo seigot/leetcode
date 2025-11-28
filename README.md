@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 36. Valid Sudoku | set/for | [url](https://leetcode.com/problems/valid-sudoku/submissions/1842067564/) |  |
 | 49. Group Anagrams | dictionaly/set/append | [url](https://leetcode.com/problems/group-anagrams/submissions/1842065582/) |  |
 | 152. Maximum Product Subarray | Dynamic Programming/keep both max and min valude.  | [url](https://leetcode.com/problems/maximum-product-subarray/submissions/1842064842/) |  |
 | 211. Design Add and Search Words Data Structure | Trie Tree/Data structure for String Search | [url](https://leetcode.com/problems/design-add-and-search-words-data-structure/submissions/1842062660/) |  |
