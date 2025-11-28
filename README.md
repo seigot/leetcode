@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 287. Find the Duplicate Number | binary search | [url](https://leetcode.com/problems/find-the-duplicate-number/submissions/1841471252/) |  |
+| 19. Remove Nth Node From End of List | LinkedList | [url](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  |
 | 692. Top K Frequent Words | Counter/Heap | [url](https://leetcode.com/problems/top-k-frequent-words/submissions/1841466217/) |  |
 | 146. LRU Cache | HashList/Queue | [url]([https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/submissions/1841459916/)) |  |
 | 621. Task Scheduler | Greedy Algorithm | [url](https://leetcode.com/problems/task-scheduler/description/) |  |
