@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 739. Daily Temperatures | monotonic stack | [url](https://leetcode.com/problems/daily-temperatures/submissions/1842081784/) |  |
 | 198. House Robber | Dynamic Programming | [url](https://leetcode.com/problems/house-robber/submissions/1842081023/) |  |
 | 134. Gas Station | greedy | [url](https://leetcode.com/problems/gas-station/submissions/1842078233/) |  |
 | 31. Next Permutation | Find next permutation | [url](https://leetcode.com/problems/next-permutation/submissions/1842074590/) |  |
