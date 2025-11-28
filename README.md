@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 146. LRU Cache | HashList/Queue | [url]([https://leetcode.com/problems/lru-cache/](https://leetcode.com/problems/lru-cache/submissions/1841459916/)) |  |
+| 621. Task Scheduler | Greedy Algorithm | [url](https://leetcode.com/problems/task-scheduler/description/) |  |
 | 310. Minimum Height Trees | Tree/Extract leave | [url](https://leetcode.com/problems/minimum-height-trees/submissions/1841448371/) |  |
 | 438. Find All Anagrams in a String | Window Search | [url](https://leetcode.com/problems/find-all-anagrams-in-a-string/submissions/1841445481/) |  |
 | 79. Word Search | dfs | [url](https://leetcode.com/problems/word-search/submissions/1841443952/) |  |
