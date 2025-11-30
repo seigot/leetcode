@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1590. Make Sum Divisible by P | mod/subarray | [url](https://leetcode.com/problems/make-sum-divisible-by-p/submissions/1843608907/) |  |
 | 230. Kth Smallest Element in a BST | binary tree | [url](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/1842084934/) |  |
 | 739. Daily Temperatures | monotonic stack | [url](https://leetcode.com/problems/daily-temperatures/submissions/1842081784/) |  |
 | 198. House Robber | Dynamic Programming | [url](https://leetcode.com/problems/house-robber/submissions/1842081023/) |  |
