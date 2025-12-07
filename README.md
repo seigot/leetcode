@@ -22,7 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 210. Course Schedule II | Sort/BFS | [url](https://leetcode.com/problems/course-schedule-ii/submissions/1849089239/) |  |
+| 210. Course Schedule II | toporogical Sort/BFS | [url](https://leetcode.com/problems/course-schedule-ii/submissions/1849089239/) |  |
 | 24. Swap Nodes in Pairs | 2 pointer | [url](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1849083668/) |  |
 | 113. Path Sum II | BFS/DFS | [url](https://leetcode.com/problems/path-sum-ii/submissions/1849082585/) |  |
 | 128. Longest Consecutive Sequence | hash set | [url](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1849077231/) |  |
