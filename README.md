@@ -22,7 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 662. Maximum Width of Binary Tree | binary tree | [url](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/1849599453/) |  |
+| 662. Maximum Width of Binary Tree | binary tree/calculate index on TreeNode | [url](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/1849599453/) |  |
 | 658. Find K Closest Elements | Binary search/Sliding window | [url](https://leetcode.com/problems/find-k-closest-elements/submissions/1849598569/) |  |
 | 424. Longest Repeating Character Replacement | Sliding window search | [url](https://leetcode.com/problems/longest-repeating-character-replacement/submissions/1849592930/) |  |
 | 55. Jump Game | Greedy | [url](https://leetcode.com/problems/jump-game/submissions/1849588634/) |  |
