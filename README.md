@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 128. Longest Consecutive Sequence | hash set | [url](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1849077231/) |  |
 | 189. Rotate Array | reverse | [url](https://leetcode.com/problems/rotate-array/submissions/1849067154/) |  |
 | 328. Odd Even Linked List | Pointer | [url](https://leetcode.com/problems/odd-even-linked-list/submissions/1849062252/) |  |
 | 394. Decode String | encode/decode/stack | [url](https://leetcode.com/problems/decode-string/submissions/1849059554/) |  |
