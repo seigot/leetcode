@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1523. Count Odd Numbers in an Interval Range | Odd | [url](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |  |
 | 3578. Count Partitions With Max-Min Difference at Most K | DP/Sliding window | [url](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/submissions/1848772923/) |  |
 | 3432. Count Partitions with Even Sum Difference | Count/Brute Force | [url](https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/1848771151/) |  |
 | 2211. Count Collisions on a Road | Simplify the problem | [url](https://leetcode.com/problems/count-collisions-on-a-road/submissions/1848770517/) |  |
