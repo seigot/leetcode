@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 24. Swap Nodes in Pairs | 2 pointer | [url](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1849083668/) |  |
 | 113. Path Sum II | BFS/DFS | [url](https://leetcode.com/problems/path-sum-ii/submissions/1849082585/) |  |
 | 128. Longest Consecutive Sequence | hash set | [url](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1849077231/) |  |
 | 189. Rotate Array | reverse | [url](https://leetcode.com/problems/rotate-array/submissions/1849067154/) |  |
