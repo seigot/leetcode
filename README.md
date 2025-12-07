@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 55. Jump Game | Greedy | [url](https://leetcode.com/problems/jump-game/submissions/1849588634/) |  |
 | 300. Longest Increasing Subsequence | bisect()/optimization | [url](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1849094030/) |  |
 | 210. Course Schedule II | toporogical Sort/BFS | [url](https://leetcode.com/problems/course-schedule-ii/submissions/1849089239/) |  |
 | 24. Swap Nodes in Pairs | 2 pointer | [url](https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1849083668/) |  |
