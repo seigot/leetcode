@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 394. Decode String | encode/decode/stack | [url](https://leetcode.com/problems/decode-string/submissions/1849059554/) |  |
 | 525. Contiguous Array | window search/memory left side | [url](https://leetcode.com/problems/contiguous-array/submissions/1849050601/) |  |
 | 1523. Count Odd Numbers in an Interval Range | Odd | [url](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) |  |
 | 3578. Count Partitions With Max-Min Difference at Most K | DP/Sliding window | [url](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/submissions/1848772923/) |  |
