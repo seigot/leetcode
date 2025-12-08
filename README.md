@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 148. Sort List | merge sort | [url](https://leetcode.com/problems/sort-list/submissions/1849720339/) |  |
 | 22. Generate Parentheses | BFS | [url](https://leetcode.com/problems/generate-parentheses/submissions/1849716877/) |  |
 | 662. Maximum Width of Binary Tree | binary tree/calculate index on TreeNode | [url](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/1849599453/) |  |
 | 658. Find K Closest Elements | Binary search/Sliding window | [url](https://leetcode.com/problems/find-k-closest-elements/submissions/1849598569/) |  |
