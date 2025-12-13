@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 735. Asteroid Collision | stack, pop/append | [url](https://leetcode.com/problems/asteroid-collision/submissions/1854884247/) |  |
 | 3433. Count Mentions Per User | Message Data Processing | [url](https://leetcode.com/problems/count-mentions-per-user/submissions/1854867477/) |  |
 | 3606. Coupon Code Validator | isalnum | [url](https://leetcode.com/problems/coupon-code-validator/submissions/1854860946/) |  |
 | 3531. Count Covered Buildings | Check each maximum building blocks | [url](https://leetcode.com/problems/count-covered-buildings/submissions/1854859102/) |  |
