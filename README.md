@@ -22,6 +22,11 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3433. Count Mentions Per User | Message Data Processing | [url](https://leetcode.com/problems/count-mentions-per-user/submissions/1854867477/) |  |
+| 3606. Coupon Code Validator | isalnum | [url](https://leetcode.com/problems/coupon-code-validator/submissions/1854860946/) |  |
+| 3531. Count Covered Buildings | Check each maximum building blocks | [url](https://leetcode.com/problems/count-covered-buildings/submissions/1854859102/) |  |
+| 3577. Count the Number of Computer Unlocking Permutations | Check the problen condition carefully | [url](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/submissions/1854857124/) |  |
+| 3583. Count Special Triplets | Counter/Counting from the middle | [url](https://leetcode.com/problems/count-special-triplets/submissions/1854843750/) |  |
 | 435. Non-overlapping Intervals | sort/brute force | [url](https://leetcode.com/problems/non-overlapping-intervals/submissions/1849798264/) |  |
 | 380. Insert Delete GetRandom O(1) | insert/delete/hashmap | [url](https://leetcode.com/problems/insert-delete-getrandom-o1/submissions/1849775631/) |  |
 | 377. Combination Sum IV | Dynamic Programming | [url](https://leetcode.com/problems/combination-sum-iv/submissions/1849761578/) |  |
