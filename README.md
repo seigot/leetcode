@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 221. Maximal Square | dynamic programming | [url](https://leetcode.com/problems/maximal-square/submissions/1855172429/) |  |
 | 215. Kth Largest Element in an Array | heapreplace, heappop()/heappush() | [url](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1855165842/) |  |
 | 528. Random Pick with Weight | rand() | [url](https://leetcode.com/problems/random-pick-with-weight/submissions/1855162680/) |  |
 | 735. Asteroid Collision | stack, pop/append | [url](https://leetcode.com/problems/asteroid-collision/submissions/1854884247/) |  |
