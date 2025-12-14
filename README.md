@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 143. Reorder List |  | [url](https://leetcode.com/problems/reorder-list/submissions/1855188264/) |  |
 | 103. Binary Tree Zigzag Level Order Traversal | Binary Tree | [url](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/1855186530/) |  |
 | 48. Rotate Image | rotate | [url](https://leetcode.com/problems/rotate-image/submissions/1855184511/) |  |
 | 221. Maximal Square | dynamic programming | [url](https://leetcode.com/problems/maximal-square/submissions/1855172429/) |  |
