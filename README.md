@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 74. Search a 2D Matrix | binary search | [url](https://leetcode.com/problems/search-a-2d-matrix/submissions/1855775534/) |  |
 | 50. Pow(x, n) | Binary Exponentiation | [url](https://leetcode.com/problems/powx-n/submissions/1855773051/) |  |
 | 437. Path Sum III | DFS/prefix_sum | [url](https://leetcode.com/problems/path-sum-iii/submissions/1855772083/) |  |
 | 143. Reorder List | reverse | [url](https://leetcode.com/problems/reorder-list/submissions/1855188264/) |  |
