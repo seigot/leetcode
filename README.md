@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 16. 3Sum Closest | Double Pointer algorithm | [url](https://leetcode.com/problems/3sum-closest/submissions/1855795615/) |  |
+| 863. All Nodes Distance K in Binary Tree | adjacent list/bfs | [url](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/1855794190/) |  |
 | 787. Cheapest Flights Within K Stops | djkstra algorithm | [url](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/1855792984/) |  |
 | 73. Set Matrix Zeroes | matrix processing | [url](https://leetcode.com/problems/set-matrix-zeroes/submissions/1855784040/) |  |
 | 7. Reverse Integer | reverse | [url](https://leetcode.com/problems/reverse-integer/submissions/1855783168/) |  |
