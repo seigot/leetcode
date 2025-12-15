@@ -22,6 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 787. Cheapest Flights Within K Stops | djkstra algorithm | [url](https://leetcode.com/problems/cheapest-flights-within-k-stops/submissions/1855792984/) |  |
 | 73. Set Matrix Zeroes | matrix processing | [url](https://leetcode.com/problems/set-matrix-zeroes/submissions/1855784040/) |  |
 | 7. Reverse Integer | reverse | [url](https://leetcode.com/problems/reverse-integer/submissions/1855783168/) |  |
 | 91. Decode Ways | Dynamic Programming | [url](https://leetcode.com/problems/decode-ways/submissions/1855782892/) |  |
