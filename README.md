@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 227. Basic Calculator II | Basic Operation / plug translation | [url](https://leetcode.com/problems/basic-calculator-ii/submissions/1855806289/) |  |
+| 153. Find Minimum in Rotated Sorted Array | binary search | [url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1855802624/) |  |
 | 61. Rotate List | List, Head/Tail | [url](https://leetcode.com/problems/rotate-list/submissions/1855796725/) |  |
 | 16. 3Sum Closest | Double Pointer algorithm | [url](https://leetcode.com/problems/3sum-closest/submissions/1855795615/) |  |
 | 863. All Nodes Distance K in Binary Tree | adjacent list/bfs | [url](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/1855794190/) |  |
