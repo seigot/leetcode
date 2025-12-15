@@ -22,7 +22,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 73. Set Matrix Zeroes | matrix | [url](https://leetcode.com/problems/set-matrix-zeroes/submissions/1855784040/) |  |
+| 73. Set Matrix Zeroes | matrix processing | [url](https://leetcode.com/problems/set-matrix-zeroes/submissions/1855784040/) |  |
 | 7. Reverse Integer | reverse | [url](https://leetcode.com/problems/reverse-integer/submissions/1855783168/) |  |
 | 91. Decode Ways | Dynamic Programming | [url](https://leetcode.com/problems/decode-ways/submissions/1855782892/) |  |
 | 179. Largest Number | compare_func, custom sort | [url](https://leetcode.com/problems/largest-number/submissions/1855780503/) |  |
