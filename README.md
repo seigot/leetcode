@@ -22,6 +22,8 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 91. Decode Ways | Dynamic Programming | [url](https://leetcode.com/problems/decode-ways/submissions/1855782000/) |  |
+| 179. Largest Number | compare_func, custom sort | [url](https://leetcode.com/problems/largest-number/submissions/1855780503/) |  |
 | 74. Search a 2D Matrix | binary search | [url](https://leetcode.com/problems/search-a-2d-matrix/submissions/1855775534/) |  |
 | 50. Pow(x, n) | Binary Exponentiation | [url](https://leetcode.com/problems/powx-n/submissions/1855773051/) |  |
 | 437. Path Sum III | DFS/prefix_sum | [url](https://leetcode.com/problems/path-sum-iii/submissions/1855772083/) |  |
