@@ -22,6 +22,9 @@ Total solved [url](https://leetcode.com/progress/)
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 944. Delete Columns to Make Sorted | row/col | [url](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/1861404234/) |  |
+| 3573. Best Time to Buy and Sell Stock V | Dynamic Programming | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/submissions/1861388200/) |  |
+| 2110. Number of Smooth Descent Periods of a Stock | Dynamic Programming | [url](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/submissions/1861371941/) |  |
 | 227. Basic Calculator II | Basic Operation / plug translation | [url](https://leetcode.com/problems/basic-calculator-ii/submissions/1855806289/) |  |
 | 153. Find Minimum in Rotated Sorted Array | binary search | [url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/1855802624/) |  |
 | 61. Rotate List | List, Head/Tail | [url](https://leetcode.com/problems/rotate-list/submissions/1855796725/) |  |
