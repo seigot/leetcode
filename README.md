@@ -36,6 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Two Sum | for | [url](-) |  |
+| Valid Anagram | sort | [url](-) |  |
+| Contains Duplicate | set | [url](-) |  |
 | Longest Consecutive Sequence | set | [url](-) |  |
 | Valid Sudoku | for | [url](-) |  |
 | Products of Array Except Self | accumulated sum | [url](-) |  |
