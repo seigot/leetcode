@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Trapping Rain Water | 2 pointer | [url](-) |  |
 | Two Sum | for | [url](-) |  |
 | Valid Anagram | sort | [url](-) |  |
 | Contains Duplicate | set | [url](-) |  |
