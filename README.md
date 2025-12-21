@@ -16,7 +16,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 88 | 290 | 52 |
+| 89 | 294 | 52 |
 
 --
 | - | - | [url](-) |  |
