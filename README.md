@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Encode and Decode Strings | - | [url](-) |  |
 | Top K Frequent Elements | freq | [url](-) |  |
 | Group Anagrams | compare the orger of strings | [url](-) |  |
 
