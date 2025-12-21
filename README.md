@@ -36,7 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| Group Anagrams | compare the orger of strings | [url](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/submissions/1861427076/) |  |
+| Top K Frequent Elements | freq | [url](-) |  |
+| Group Anagrams | compare the orger of strings | [url](-) |  |
 
 LeetCode
 
