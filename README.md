@@ -1,4 +1,5 @@
-# leetcode
+# leetcode/NeetCode
+
 for practice
 
 - leet code weekly/bi-weekly contest  
@@ -20,7 +21,7 @@ Total solved [url](https://leetcode.com/progress/)
 | 89 | 294 | 52 |
 
 - NeetCode
-Total solved [url](https://neetcode.io/practice/practice/neetcode150)  
+Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)
 
 | easy | midium | hard |
 | --- | --- | --- |
@@ -29,10 +30,15 @@ Total solved [url](https://neetcode.io/practice/practice/neetcode150)
 --
 | - | - | [url](-) |  |
 
---
-| - | - | [url](-) |  |
-
 ---
+
+NeetCode
+
+| No. | 概要 | url | 備考 |
+| --- | --- | --- | --- |
+| Group Anagrams | compare the orger of strings | [url](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/submissions/1861427076/) |  |
+
+LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
