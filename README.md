@@ -12,11 +12,22 @@ NeetCode
 [https://neetcode.io/practice/practice/neetcode150](https://neetcode.io/practice/practice/neetcode150)  
 
 --- 
+- LeetCode
 Total solved [url](https://leetcode.com/progress/)  
 
 | easy | midium | hard |
 | --- | --- | --- |
 | 89 | 294 | 52 |
+
+- NeetCode
+Total solved [url](https://neetcode.io/practice/practice/neetcode150)  
+
+| easy | midium | hard |
+| --- | --- | --- |
+| 0 | 1 | 0 |
+
+--
+| - | - | [url](-) |  |
 
 --
 | - | - | [url](-) |  |
