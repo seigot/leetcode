@@ -36,7 +36,10 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| Encode and Decode Strings | - | [url](-) |  |
+| Longest Consecutive Sequence | set | [url](-) |  |
+| Valid Sudoku | for | [url](-) |  |
+| Products of Array Except Self | accumulated sum | [url](-) |  |
+| Encode and Decode Strings | special charactor | [url](-) |  |
 | Top K Frequent Elements | freq | [url](-) |  |
 | Group Anagrams | compare the orger of strings | [url](-) |  |
 
