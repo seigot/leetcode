@@ -25,7 +25,7 @@ Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 0 | 1 | 0 |
+| 3 | 6 | 1 |
 
 --
 | - | - | [url](-) |  |
