@@ -36,6 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Frequency Stack | manage stack value | [url](-) |  |
+| Sliding Window Maximum | Put the maximum num in the front of que always | [url](-) |  |
+| Minimum Window Substring | Window Search, based on r | [url](-) |  |
 | Trapping Rain Water | 2 pointer | [url](-) |  |
 | Two Sum | for | [url](-) |  |
 | Valid Anagram | sort | [url](-) |  |
