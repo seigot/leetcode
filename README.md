@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Largest Rectangle In Histogram | Check the high,low value/for | [url](-) |  |
 | Maximum Frequency Stack | manage stack value | [url](-) |  |
 | Sliding Window Maximum | Put the maximum num in the front of que always | [url](-) |  |
 | Minimum Window Substring | Window Search, based on r | [url](-) |  |
