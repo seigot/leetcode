@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Reverse Nodes in K-Group | Linked Lists/Recursive,reverse | [url](-) |  |
 | Merge K Sorted Linked Lists | Linked Lists | [url](-) |  |
 | LFU Cache | Least Frequency Used Cache/OrderedDict | [url](-) |  |
 | Find in Mountain Array | Binary Search | [url](-) |  |
