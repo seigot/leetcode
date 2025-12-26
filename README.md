@@ -55,6 +55,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3075. Maximize Happiness of Selected Children | sort/for | [url](https://leetcode.com/problems/maximize-happiness-of-selected-children/submissions/1865506914/) |  |
 | 3074. Apple Redistribution into Boxes | sort | [url](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1865498328/) |  |
 | 2054. Two Best Non-Overlapping Events | Sort/Binary Search | [url](https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1865484118/) |  |
 | 955. Delete Columns to Make Sorted II | compare the orger of strings | [url](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/submissions/1861427076/) |  |
