@@ -55,6 +55,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2483. Minimum Penalty for a Shop | brute force | [url](https://leetcode.com/problems/minimum-penalty-for-a-shop/submissions/1865511216/) |  |
 | 3075. Maximize Happiness of Selected Children | sort/for | [url](https://leetcode.com/problems/maximize-happiness-of-selected-children/submissions/1865506914/) |  |
 | 3074. Apple Redistribution into Boxes | sort | [url](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1865498328/) |  |
 | 2054. Two Best Non-Overlapping Events | Sort/Binary Search | [url](https://leetcode.com/problems/two-best-non-overlapping-events/submissions/1865484118/) |  |
