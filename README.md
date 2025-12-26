@@ -25,7 +25,7 @@ Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 3 | 6 | 5 |
+| 3 | 6 | 6 |
 
 --
 | - | - | [url](-) |  |
@@ -36,6 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Median of Two Sorted Arrays | Binary search/left,right array | [url](-) |  |
+| Split Array Largest Sum | Binary Search | [url](-) |  |
 | Largest Rectangle In Histogram | Check the high,low value/for | [url](-) |  |
 | Maximum Frequency Stack | manage stack value | [url](-) |  |
 | Sliding Window Maximum | Put the maximum num in the front of que always | [url](-) |  |
