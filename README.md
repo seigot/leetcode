@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| N-Queens | Recursive, (r,c) | [url](-) |  |
 | IPO | Project, Heap(log(N)) | [url](-) |  |
 | Find Median From Data Stream | 2 heaps | [url](-) |  |
 | Serialize and Deserialize Binary Tree | Tree, Search | [url](-) |  |
