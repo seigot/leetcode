@@ -36,6 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| LFU Cache | Least Frequency Used Cache/OrderedDict | [url](-) |  |
+| Find in Mountain Array | Binary Search | [url](-) |  |
 | Median of Two Sorted Arrays | Binary search/left,right array | [url](-) |  |
 | Split Array Largest Sum | Binary Search | [url](-) |  |
 | Largest Rectangle In Histogram | Check the high,low value/for | [url](-) |  |
