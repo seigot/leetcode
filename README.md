@@ -36,6 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Stone Game III | dp | [url](-) |  |
+| Reconstruct Flight Path | stack,pop,dfs | [url](-) |  |
+| Word Ladder | BFS | [url](-) |  |
 | Word Search II | Trie Tree | [url](-) |  |
 | N-Queens | Recursive, (r,c) | [url](-) |  |
 | IPO | Project, Heap(log(N)) | [url](-) |  |
