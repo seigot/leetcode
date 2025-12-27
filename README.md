@@ -36,7 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| Stone Game III | dp | [url](-) |  |
+| Candy | brute force algorithm | [url](-) |  |
+| Longest Increasing Path in Matrix | BFS, calculate the contributed value | [url](-) |  |
+| Stone Game III | dp, bottom up | [url](-) |  |
 | Reconstruct Flight Path | stack,pop,dfs | [url](-) |  |
 | Word Ladder | BFS | [url](-) |  |
 | Word Search II | Trie Tree | [url](-) |  |
