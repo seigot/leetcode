@@ -73,6 +73,11 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 961. N-Repeated Element in Size 2N Array | set/defaultdict | [url](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/1872611237/) |  |
+| 66. Plus One | for/digit/add | [url](https://leetcode.com/problems/plus-one/submissions/1872610205/) |  |
+| 840. Magic Squares In Grid | Brute Force | [url](https://leetcode.com/problems/magic-squares-in-grid/submissions/1872609340/) |  |
+| 756. Pyramid Transition Matrix | DFS/BFS | [url](https://leetcode.com/problems/pyramid-transition-matrix/submissions/1872607117/) |  |
+| 1351. Count Negative Numbers in a Sorted Matrix | for | [url](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/1872592335/) |  |
 | 2483. Minimum Penalty for a Shop | brute force | [url](https://leetcode.com/problems/minimum-penalty-for-a-shop/submissions/1865511216/) |  |
 | 3075. Maximize Happiness of Selected Children | sort/for | [url](https://leetcode.com/problems/maximize-happiness-of-selected-children/submissions/1865506914/) |  |
 | 3074. Apple Redistribution into Boxes | sort | [url](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1865498328/) |  |
