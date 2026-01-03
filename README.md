@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Greatest Common Divisor Traversal | Prime Factorization, Union-Find | [url](-) |  |
 | Build a Matrix With Conditions | Topological sort, row*col | [url](-) |  |
 | Find Critical and Pseudo Critical Edges in Minimum Spanning Tree | Graph Critical/Pseudo Critical Edges/UnionFind+Sort| [url](-) |  |
 | Alien Dictionary | BFS / Kahn's Algorithm, toporogical sort | [url](-) |  |
