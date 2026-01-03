@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Swim in Rising Water | Binary Search+BFS/Dijkstra | [url](-) |  |
 | Distinct Subsequences | Dynamic Programming | [url](-) |  |
 | Burst Balloons | Top-down Dynamic Programming with Memoization | [url](-) |  |
 | Regular Expression Matching | DP | [url](-) |  |
