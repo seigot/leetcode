@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Find Critical and Pseudo Critical Edges in Minimum Spanning Tree | Graph Edge | [url](-) |  |
 | Alien Dictionary | BFS / Kahn's Algorithm, toporogical sort | [url](-) |  |
 | Swim in Rising Water | Binary Search+BFS/Dijkstra | [url](-) |  |
 | Distinct Subsequences | Dynamic Programming | [url](-) |  |
