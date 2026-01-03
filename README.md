@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Minimum Interval to Include Each Query | heap/sort | [url](-) |  |
 | Meeting Rooms III | heap | [url](-) |  |
 | Word Break II | DP | [url](-) |  |
 | N-Queens II | BFS | [url](-) |  |
