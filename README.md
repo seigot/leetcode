@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| First Missing Positive | swap,O(n) | [url](-) |  |
 | Meeting Rooms III | manage used,available with heapq | [url](-) |  |
 | Candy | brute force algorithm | [url](-) |  |
 | Longest Increasing Path in Matrix | BFS, calculate the contributed value | [url](-) |  |
