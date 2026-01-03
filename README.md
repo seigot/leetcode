@@ -73,6 +73,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1970. Last Day Where You Can Still Cross | binary search/bfs | [url](https://leetcode.com/problems/last-day-where-you-can-still-cross/submissions/1872614843/) |  |
 | 961. N-Repeated Element in Size 2N Array | set/defaultdict | [url](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/1872611237/) |  |
 | 66. Plus One | for/digit/add | [url](https://leetcode.com/problems/plus-one/submissions/1872610205/) |  |
 | 840. Magic Squares In Grid | Brute Force | [url](https://leetcode.com/problems/magic-squares-in-grid/submissions/1872609340/) |  |
