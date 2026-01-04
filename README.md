@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Number of Visible People in a Queue | Monotonic-Stack | [url](-) |  |
 | Number of Islands II | Union-Find | [url](-) |  |
 | Greatest Common Divisor Traversal | Prime Factorization, Union-Find | [url](-) |  |
 | Build a Matrix With Conditions | Topological sort, row*col | [url](-) |  |
