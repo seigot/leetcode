@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| K-th Smallest in Lexicographical Order | Calculate k-th smallest number with the subtree strategy | [url](-) |  |
 | Shortest Distance from All Buildings | BFS/manage the distance from each buildings | [url](-) |  |
 | Number of Visible People in a Queue | Monotonic-Stack | [url](-) |  |
 | Number of Islands II | Union-Find | [url](-) |  |
