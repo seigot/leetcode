@@ -90,6 +90,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1975. Maximum Matrix Sum | Brute Force | [url](https://leetcode.com/problems/maximum-matrix-sum/submissions/1875019724/) |  |
 | 1390. Four Divisors | Sieve of Eratosthenes | [url](https://leetcode.com/problems/four-divisors/submissions/1874570296/) |  |
 | 1970. Last Day Where You Can Still Cross | binary search/bfs | [url](https://leetcode.com/problems/last-day-where-you-can-still-cross/submissions/1872614843/) |  |
 | 961. N-Repeated Element in Size 2N Array | set/defaultdict | [url](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/1872611237/) |  |
