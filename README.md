@@ -90,6 +90,10 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 712. Minimum ASCII Delete Sum for Two Strings | DP/2dimentions | [url](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/submissions/1880500859/) |  |
+| 865. Smallest Subtree with all the Deepest Nodes | DFS/Depth Search | [url](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/1880493195/) |  |
+| 1339. Maximum Product of Splitted Binary Tree | Total - SubTree | [url](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/submissions/1880486123/) |  |
+| 1161. Maximum Level Sum of a Binary Tree | Broaden First Search | [url](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/1880466909/) |  |
 | 1975. Maximum Matrix Sum | Brute Force | [url](https://leetcode.com/problems/maximum-matrix-sum/submissions/1875019724/) |  |
 | 1390. Four Divisors | Sieve of Eratosthenes | [url](https://leetcode.com/problems/four-divisors/submissions/1874570296/) |  |
 | 1970. Last Day Where You Can Still Cross | binary search/bfs | [url](https://leetcode.com/problems/last-day-where-you-can-still-cross/submissions/1872614843/) |  |
