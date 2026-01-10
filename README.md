@@ -90,6 +90,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1458. Max Dot Product of Two Subsequences | DP/SubSequences | [url](https://leetcode.com/problems/max-dot-product-of-two-subsequences/submissions/1880519852/) |  |
 | 712. Minimum ASCII Delete Sum for Two Strings | DP/2dimentions | [url](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/submissions/1880500859/) |  |
 | 865. Smallest Subtree with all the Deepest Nodes | DFS/Depth Search | [url](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/1880493195/) |  |
 | 1339. Maximum Product of Splitted Binary Tree | Total - SubTree | [url](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/submissions/1880486123/) |  |
