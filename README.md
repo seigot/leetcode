@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Text Justification | Greedy Word Packing/Greedy Round-robin space distribution | [url](-) |  |
 | Put Marbles in Bags | Adjacent Pair Sum Maximization/Minimization | [url](-) |  |
 | Design In-Memory File System | Tri-Tree | [url](-) |  |
 | Cherry Pickup | Synchronized Two-Player Pathfinding | [url](-) |  |
