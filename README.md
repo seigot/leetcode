@@ -36,6 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Minimum Number of Increments on Subarrays to Form a Target Array | brute_force/increment | [url](-) |  |
+| Russian Doll Envelopes | sort/bisect | [url](-) |  |
 | K-th Smallest in Lexicographical Order | Calculate k-th smallest number with the subtree strategy | [url](-) |  |
 | Shortest Distance from All Buildings | BFS/manage the distance from each buildings | [url](-) |  |
 | Number of Visible People in a Queue | Monotonic-Stack | [url](-) |  |
