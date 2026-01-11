@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Profit in Job Scheduling | DP with Binary Search | [url](-) |  |
 | Max Stack | Heap/Lazy Removal | [url](-) |  |
 | Rearrange String k Distance Apart | Greedy with Cooling Queue/Greedy Approach using Max-Priority Queue and Deque | [url](-) |  |
 | Text Justification | Greedy Word Packing/Greedy Round-robin space distribution | [url](-) |  |
