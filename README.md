@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Max Stack | Heap/Lazy Removal | [url](-) |  |
 | Rearrange String k Distance Apart | Greedy with Cooling Queue/Greedy Approach using Max-Priority Queue and Deque | [url](-) |  |
 | Text Justification | Greedy Word Packing/Greedy Round-robin space distribution | [url](-) |  |
 | Put Marbles in Bags | Adjacent Pair Sum Maximization/Minimization | [url](-) |  |
