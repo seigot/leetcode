@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design In-Memory File System | Tri-Tree | [url](-) |  |
 | Cherry Pickup | Synchronized Two-Player Pathfinding | [url](-) |  |
 | Minimum Number of Increments on Subarrays to Form a Target Array | brute_force/increment | [url](-) |  |
 | Russian Doll Envelopes | sort/bisect | [url](-) |  |
