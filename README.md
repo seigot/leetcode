@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design Search Autocomplete System | Tri-Tree | [url](-) |  |
 | Closest Binary Search Tree Value II | Two-Stack BST Iterator/Binary Search | [url](-) |  |
 | Divide Chocolate | Binary Search/Greedy Check | [url](-) |  |
 | Maximum Profit in Job Scheduling | DP with Binary Search | [url](-) |  |
