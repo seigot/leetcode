@@ -102,6 +102,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2943. Maximize Area of Square Hole in Grid | Greedy | [url](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/submissions/1888278576/) |  |
+| 3453. Separate Squares I | Binary Search | [url](https://leetcode.com/problems/separate-squares-i/submissions/1888274058/) |  |
 | 1266. Minimum Time Visiting All Points | the Chebyshev distances | [url](https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/1888270619/) |  |
 | 85. Maximal Rectangle | Calculating the 'Maximum Expansion' for each cell. | [url](https://leetcode.com/problems/maximal-rectangle/submissions/1881489157/) |  |
 | 1458. Max Dot Product of Two Subsequences | DP/SubSequences | [url](https://leetcode.com/problems/max-dot-product-of-two-subsequences/submissions/1880519852/) |  |
