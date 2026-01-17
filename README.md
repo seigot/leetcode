@@ -102,7 +102,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 2943. Maximize Area of Square Hole in Grid | Greedy | [url](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/submissions/1888278576/) |  |
+| 2975. Maximum Square Area by Removing Fences From a Field | Greedy/Combinations | [url](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/submissions/1888282318/) |  |
+| 2943. Maximize Area of Square Hole in Grid | Greedy | [url](https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/submissions/1888278873/) |  |
 | 3453. Separate Squares I | Binary Search | [url](https://leetcode.com/problems/separate-squares-i/submissions/1888274058/) |  |
 | 1266. Minimum Time Visiting All Points | the Chebyshev distances | [url](https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/1888270619/) |  |
 | 85. Maximal Rectangle | Calculating the 'Maximum Expansion' for each cell. | [url](https://leetcode.com/problems/maximal-rectangle/submissions/1881489157/) |  |
