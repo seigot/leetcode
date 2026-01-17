@@ -102,6 +102,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1266. Minimum Time Visiting All Points | the Chebyshev distances | [url](https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/1888270619/) |  |
 | 85. Maximal Rectangle | Calculating the 'Maximum Expansion' for each cell. | [url](https://leetcode.com/problems/maximal-rectangle/submissions/1881489157/) |  |
 | 1458. Max Dot Product of Two Subsequences | DP/SubSequences | [url](https://leetcode.com/problems/max-dot-product-of-two-subsequences/submissions/1880519852/) |  |
 | 712. Minimum ASCII Delete Sum for Two Strings | DP/2dimentions | [url](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/submissions/1880500859/) |  |
