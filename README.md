@@ -108,6 +108,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1895. Largest Magic Square | Accumlated Sum/Brute force | [url](https://leetcode.com/problems/largest-magic-square/submissions/1888474323/) |  |
 | 3454. Separate Squares II Solved | Segment Tree** | [url](https://leetcode.com/problems/separate-squares-ii/submissions/1888298011/) |  |
 | 3047. Find the Largest Area of Square Inside Two Rectangles | Greedy/Combinations | [url](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/submissions/1888287037/) |  |
 | 2975. Maximum Square Area by Removing Fences From a Field | Greedy/Combinations | [url](https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/submissions/1888282318/) |  |
