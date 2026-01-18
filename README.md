@@ -36,7 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| The Maze III | Dijkstra/Dict Structure** | [url](-) |  |
+| The Maze III | Dijkstra/Heap/Dict Structure** | [url](-) |  |
 | Basic Calculator III | Caluculation(+-*/()/Stack,Recursion) | [url](-) |  |
 | Bus Routes | Node Management/BFS on a dual-layer graph, prioritizing routes as nodes to reduce search space. | [url](-) |  |
 | Split Array With Same Average | A bitset-optimized dynamic programming approach to solve the Subset Sum Problem.** | [url](-) |  |
