@@ -36,6 +36,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Average Subarray II | Binary Search /Average-to-Sum Transformation/Offset Values/Accumulated Sum | [url](-) |  |
 | The Maze III | Dijkstra/Heap/Dict Structure** | [url](-) |  |
 | Basic Calculator III | Caluculation(+-*/()/Stack,Recursion) | [url](-) |  |
 | Bus Routes | Node Management/BFS on a dual-layer graph, prioritizing routes as nodes to reduce search space. | [url](-) |  |
