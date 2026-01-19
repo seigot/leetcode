@@ -108,7 +108,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Accumulated Sum | [url](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/submissions/1889704721/) |  |
+| 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Greedy/Monotonic Improvement, 2D Prefix Sum | [url](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/submissions/1889704721/) |  |
 | 1895. Largest Magic Square | Accumlated Sum/Brute force | [url](https://leetcode.com/problems/largest-magic-square/submissions/1888474323/) |  |
 | 3454. Separate Squares II Solved | Segment Tree** | [url](https://leetcode.com/problems/separate-squares-ii/submissions/1888298011/) |  |
 | 3047. Find the Largest Area of Square Inside Two Rectangles | Greedy/Combinations | [url](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/submissions/1888287037/) |  |
