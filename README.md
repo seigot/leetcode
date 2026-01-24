@@ -36,6 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design Tic-Tac-Toe | Brute Force | [url](-) |  |
+| Minimum Knight Moves | BFS | [url](-) |  |
+| Meeting Rooms II | Event Sort(座標圧縮) | [url](-) |  |
 | Serialize and Deserialize N-ary Tree | DFS/Deserialize,serialize** | [url](-) |  |
 | Maximum Average Subarray II | Binary Search /Average-to-Sum Transformation/Offset Values/Accumulated Sum | [url](-) |  |
 | The Maze III | Dijkstra/Heap/Dict Structure** | [url](-) |  |
