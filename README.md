@@ -36,6 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design Circular Queue | Circular Queue/EnQueue,DeQueue | [url](-) |  |
+| Longest Substring Without Repeating Characters | Sliding Windows | [url](-) |  |
 | Design Tic-Tac-Toe | Brute Force | [url](-) |  |
 | Minimum Knight Moves | BFS | [url](-) |  |
 | Meeting Rooms II | Event Sort(座標圧縮) | [url](-) |  |
