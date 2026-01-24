@@ -108,6 +108,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3315. Construct the Minimum Bitwise Array II | Bit calculation | [url](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/submissions/1895689030/) |  |
 | 3314. Construct the Minimum Bitwise Array I | Bit calculation | [url](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/submissions/1895683859/) |  |
 | 1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold | Greedy/Monotonic Improvement, 2D Prefix Sum | [url](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/submissions/1889704721/) |  |
 | 1895. Largest Magic Square | Accumlated Sum/Brute force | [url](https://leetcode.com/problems/largest-magic-square/submissions/1888474323/) |  |
