@@ -36,6 +36,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Number of Islands | BFS/DFS | [url](-) |  |
+| Letter Combinations of a Phone Number | BackTrack | [url](-) |  |
 | Design Circular Queue | Circular Queue/EnQueue,DeQueue | [url](-) |  |
 | Longest Substring Without Repeating Characters | Sliding Windows | [url](-) |  |
 | Design Tic-Tac-Toe | Brute Force | [url](-) |  |
