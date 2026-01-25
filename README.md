@@ -36,6 +36,11 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Moving Average from Data Stream | class/list | [url](-) |  |
+| Is Subsequence | 2-Pointers | [url](-) |  |
+| Intersection of Two Linked Lists | 2loops in the lists | [url](-) |  |
+| Missing Number | sum/O(1) | [url](-) |  |
+| Best Time to Buy and Sell Stock | min/max/for | [url](-) |  |
 | Shortest Bridge | Multi-Source-BFS | [url](-) |  |
 | Basic Calculator II | Recursive | [url](-) |  |
 | Max Area of Island | BFS | [url](-) |  |
