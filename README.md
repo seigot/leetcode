@@ -36,6 +36,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Combination Sum II | set(taple)/dynamic programming | [url](-) |  |
+| Course Schedule | Toporogical sort | [url](-) |  |
+| Reorganize String | Heap | [url](-) |  |
 | Merge Intervals | Sort | [url](-) |  |
 | Number of Islands | BFS/DFS | [url](-) |  |
 | Letter Combinations of a Phone Number | BackTrack | [url](-) |  |
