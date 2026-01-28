@@ -127,6 +127,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3651. Minimum Cost Path with Teleportations | Dynamic Programming with monotone teleportation updates/not dijkstra's algorithm | [url](https://leetcode.com/problems/minimum-cost-path-with-teleportations/submissions/1899325778/) |  |
 | 3650. Minimum Cost Path with Edge Reversals | dijkstra's algorithm | [url](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/submissions/1898972383/) |  |
 | 1200. Minimum Absolute Difference | sort/min | [url](https://leetcode.com/problems/minimum-absolute-difference/submissions/1898965293/) |  |
 | 1984. Minimum Difference Between Highest and Lowest of K Scores | sort | [url](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/submissions/1898959266/) |  |
