@@ -127,6 +127,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2976. Minimum Cost to Convert String I | Floyd-Warshall | [url](https://leetcode.com/problems/minimum-cost-to-convert-string-i/submissions/1903575909/) |  |
 | 744. Find Smallest Letter Greater Than Target | for/if | [url](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/1903572224/) |  |
 | 3651. Minimum Cost Path with Teleportations | Dynamic Programming with monotone teleportation updates/not dijkstra's algorithm | [url](https://leetcode.com/problems/minimum-cost-path-with-teleportations/submissions/1899325778/) |  |
 | 3650. Minimum Cost Path with Edge Reversals | dijkstra's algorithm | [url](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/submissions/1898972383/) |  |
