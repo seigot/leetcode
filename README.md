@@ -127,6 +127,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3010. Divide an Array Into Subarrays With Minimum Cost I | sort | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1903803241/) |  |
 | 2977. Minimum Cost to Convert String II | Graph/Dijkstra/Tri-Tree/DP | [url](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/submissions/1903579541/) |  |
 | 2976. Minimum Cost to Convert String I | Floyd-Warshall | [url](https://leetcode.com/problems/minimum-cost-to-convert-string-i/submissions/1903575909/) |  |
 | 744. Find Smallest Letter Greater Than Target | for/if | [url](https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/1903572224/) |  |
