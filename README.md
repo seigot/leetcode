@@ -128,7 +128,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3013. Divide an Array Into Subarrays With Minimum Cost II | Sliding Window K-Minimum Sum | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/submissions/1905040284/) |  |
+| 3013. Divide an Array Into Subarrays With Minimum Cost II | Sliding Window K-Minimum Sum/SortedList() | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/submissions/1905040284/) |  |
 | 407. Trapping Rain Water II | Heap/BFS | [url](https://leetcode.com/problems/trapping-rain-water-ii/submissions/1904888548/) |  |
 | 2290. Minimum Obstacle Removal to Reach Corner | 0-1BFS | [url](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/submissions/1904886546/) |  |
 | 3010. Divide an Array Into Subarrays With Minimum Cost I | sort | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1903803241/) |  |
