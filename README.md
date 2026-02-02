@@ -128,6 +128,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 407. Trapping Rain Water II | Heap/BFS | [url](https://leetcode.com/problems/trapping-rain-water-ii/submissions/1904888548/) |  |
+| 2290. Minimum Obstacle Removal to Reach Corner | 0-1BFS | [url](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/submissions/1904886546/) |  |
 | 3010. Divide an Array Into Subarrays With Minimum Cost I | sort | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1903803241/) |  |
 | 2977. Minimum Cost to Convert String II | Graph/Dijkstra/Tri-Tree/DP | [url](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/submissions/1903579541/) |  |
 | 2976. Minimum Cost to Convert String I | Floyd-Warshall | [url](https://leetcode.com/problems/minimum-cost-to-convert-string-i/submissions/1903575909/) |  |
