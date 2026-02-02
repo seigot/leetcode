@@ -18,7 +18,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 100 | 315 | 60 |
+| 100 | 315 | 61 |
 
 - NeetCode
 Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)  
@@ -26,7 +26,7 @@ NeetCode all [url](https://neetcode.io/practice/practice/allNC)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 3 | 6 | 43 |
+| 8/217 | 20/564 | 60/137 |
 
 --
 | - | - | [url](-) |  |
