@@ -128,6 +128,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3634. Minimum Removals to Balance Array | Binary Search | [url](https://leetcode.com/problems/minimum-removals-to-balance-array/submissions/1909773321/) |  |
 | 3379. Transformed Array | Index Control. | [url](https://leetcode.com/problems/transformed-array/submissions/1909766770/) |  |
 | 3640. Trionic Array II | DP(Use the cumulative sums of increasing and decreasing sequences as DP states.) | [url](https://leetcode.com/problems/trionic-array-ii/submissions/1907517514/) |  |
 | 3637. Trionic Array I | Brute Force | [url](https://leetcode.com/problems/trionic-array-i/submissions/1907502484/) |  |
