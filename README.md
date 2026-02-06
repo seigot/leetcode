@@ -128,6 +128,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3379. Transformed Array | Index Control. | [url](https://leetcode.com/problems/transformed-array/submissions/1909766770/) |  |
 | 3640. Trionic Array II | DP(Use the cumulative sums of increasing and decreasing sequences as DP states.) | [url](https://leetcode.com/problems/trionic-array-ii/submissions/1907517514/) |  |
 | 3637. Trionic Array I | Brute Force | [url](https://leetcode.com/problems/trionic-array-i/submissions/1907502484/) |  |
 | 3013. Divide an Array Into Subarrays With Minimum Cost II | Sliding Window K-Minimum Sum/SortedList() | [url](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/submissions/1905040284/) |  |
