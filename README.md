@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2751. Robot Collisions | Stack/O(n) | [url](https://leetcode.com/problems/robot-collisions/submissions/1911702694/) |  |
 | 632. Smallest Range Covering Elements from K Lists | Sliding Window/count unique_lists_in_window | [url](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/1911691188/) |  |
 | 2009. Minimum Number of Operations to Make Array Continuous | Sord/Sliding Windows | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/submissions/1911678101/) |  |
 | 2306. Naming a Company | Set Difference of First Letters / Counting Duplicates | [url](https://leetcode.com/problems/naming-a-company/submissions/1911665943/) |  |
