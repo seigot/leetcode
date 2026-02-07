@@ -130,7 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 726. Number of Atoms | Stack | [url](https://leetcode.com/problems/number-of-atoms/submissions/1911726744/) |  |
+| 726. Number of Atoms | Stack / Hierarchical deque structure | [url](https://leetcode.com/problems/number-of-atoms/submissions/1911726744/) |  |
 | 1106. Parsing A Boolean Expression | Stack-based nested expression parsing from ")". | [url](https://leetcode.com/problems/parsing-a-boolean-expression/submissions/1911724231/) |  |
 | 862. Shortest Subarray with Sum at Least K | Prefix Sum / Deque | [url](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/submissions/1911709867/) |  |
 | 2751. Robot Collisions | Stack/O(n) | [url](https://leetcode.com/problems/robot-collisions/submissions/1911702694/) |  |
