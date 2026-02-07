@@ -129,6 +129,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 214. Shortest Palindrome | KMP Table | [url](https://leetcode.com/problems/shortest-palindrome/submissions/1911647253/) |  |
 | 1653. Minimum Deletions to Make String Balanced | Dynamic Programming | [url](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/submissions/1910907600/) |  |
 | 3634. Minimum Removals to Balance Array | Binary Search | [url](https://leetcode.com/problems/minimum-removals-to-balance-array/submissions/1909773321/) |  |
 | 3379. Transformed Array | Index Control. | [url](https://leetcode.com/problems/transformed-array/submissions/1909766770/) |  |
