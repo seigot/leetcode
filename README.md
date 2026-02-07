@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Number of Ships in a Rectangle | Divide and Conquer (Quadtree) | [url](-) |  |
 | Moving Average from Data Stream | class/list | [url](-) |  |
 | Is Subsequence | 2-Pointers | [url](-) |  |
 | Intersection of Two Linked Lists | 2loops in the lists | [url](-) |  |
