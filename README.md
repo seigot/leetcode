@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Subarrays with K Different Integers | Sliding Window/Boundaries | [url](-) |  |
 | Number of Ships in a Rectangle | Divide and Conquer (Quadtree) | [url](-) |  |
 | Moving Average from Data Stream | class/list | [url](-) |  |
 | Is Subsequence | 2-Pointers | [url](-) |  |
@@ -129,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2009. Minimum Number of Operations to Make Array Continuous | Sord/Sliding Windows | [url](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/submissions/1911678101/) |  |
 | 2306. Naming a Company | Set Difference of First Letters / Counting Duplicates | [url](https://leetcode.com/problems/naming-a-company/submissions/1911665943/) |  |
 | 1074. Number of Submatrices That Sum to Target | Accumulated Sum | [url](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/submissions/1911656887/) |  |
 | 214. Shortest Palindrome | KMP法（Knuth-Morris-Pratt Algorithm） Table | [url](https://leetcode.com/problems/shortest-palindrome/submissions/1911647253/) |  |
