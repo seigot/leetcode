@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3719. Longest Balanced Subarray I | Brute force | [url](https://leetcode.com/problems/longest-balanced-subarray-i/submissions/1915391014/) |  |
 | 686. Repeated String Match | Boyer–Moore/Pattern Matching | [url](https://leetcode.com/problems/repeated-string-match/description/) |  |
 | 1044. Longest Duplicate Substring | Rabin-Karp/Rolling Hash | [url](https://leetcode.com/problems/longest-duplicate-substring/submissions/1913185469/) |  |
 | 28. Find the Index of the First Occurrence in a String | String Compare | [url](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1913109336/) |  |
