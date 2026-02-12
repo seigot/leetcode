@@ -18,7 +18,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 104 | 319 | 75 |
+| 104 | 321 | 76 |
 
 - NeetCode
 Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)  
