@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3713. Longest Balanced Substring I | Constraint-based Search | [url](https://leetcode.com/problems/longest-balanced-substring-i/submissions/1916580682/) |  |
 | 3721. Longest Balanced Subarray II | Segment Tree | [url](https://leetcode.com/problems/longest-balanced-subarray-ii/submissions/1915401240/) |  |
 | 3719. Longest Balanced Subarray I | Brute force | [url](https://leetcode.com/problems/longest-balanced-subarray-i/submissions/1915391014/) |  |
 | 686. Repeated String Match | Boyer–Moore/Pattern Matching | [url](https://leetcode.com/problems/repeated-string-match/description/) |  |
