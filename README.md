@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3714. Longest Balanced Substring II | Prefix Sum / Cumulative Difference / State Matching | [url](https://leetcode.com/problems/longest-balanced-substring-ii/submissions/1918656821/) |  |
 | 799. Champagne Tower | Simulate all cases | [url](https://leetcode.com/problems/champagne-tower/submissions/1918646748/) |  |
 | 3713. Longest Balanced Substring I | Constraint-based Search | [url](https://leetcode.com/problems/longest-balanced-substring-i/submissions/1916580682/) |  |
 | 3721. Longest Balanced Subarray II | Segment Tree | [url](https://leetcode.com/problems/longest-balanced-subarray-ii/submissions/1915401240/) |  |
