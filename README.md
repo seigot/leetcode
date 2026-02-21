@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 761. Special Binary String | Divide and Conquer / Recursion / Greedy Algorithm | [url](https://leetcode.com/problems/special-binary-string/submissions/1926655691/) |  |
 | 762. Prime Number of Set Bits in Binary Representation | Bit Operation | [url](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/1926653692/) |  |
 | 696. Count Binary Substrings | Count number | [url](https://leetcode.com/problems/count-binary-substrings/submissions/1926651065/) |  |
 | 693. Binary Number with Alternating Bits | Bit Operation | [url](https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/1926638468/) |  |
