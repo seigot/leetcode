@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 67. Add Binary | While/i,j,iterator/carry | [url](https://leetcode.com/problems/add-binary/submissions/1926627320/) |  |
 | 3714. Longest Balanced Substring II | Prefix Sum / Cumulative Difference / State Matching | [url](https://leetcode.com/problems/longest-balanced-substring-ii/submissions/1918656821/) |  |
 | 799. Champagne Tower | Simulate all cases | [url](https://leetcode.com/problems/champagne-tower/submissions/1918646748/) |  |
 | 3713. Longest Balanced Substring I | Constraint-based Search | [url](https://leetcode.com/problems/longest-balanced-substring-i/submissions/1916580682/) |  |
