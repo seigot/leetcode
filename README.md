@@ -130,6 +130,9 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 762. Prime Number of Set Bits in Binary Representation | Bit Operation | [url](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/1926653692/) |  |
+| 696. Count Binary Substrings | Count number | [url](https://leetcode.com/problems/count-binary-substrings/submissions/1926651065/) |  |
+| 693. Binary Number with Alternating Bits | Bit Operation | [url](https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/1926638468/) |  |
 | 401. Binary Watch | Bit Operation, BruteForce, bin(h) transfer | [url](https://leetcode.com/problems/binary-watch/submissions/1926636623/) |  |
 | 190. Reverse Bits | Bit Operation/Divide,Remainder/Modulus | [url](https://leetcode.com/problems/reverse-bits/submissions/1926630917/) |  |
 | 67. Add Binary | While/i,j,iterator/carry | [url](https://leetcode.com/problems/add-binary/submissions/1926627320/) |  |
