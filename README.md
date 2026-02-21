@@ -130,6 +130,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 401. Binary Watch | Bit Operation, BruteForce, bin(h) transfer | [url](https://leetcode.com/problems/binary-watch/submissions/1926636623/) |  |
+| 190. Reverse Bits | Bit Operation/Divide,Remainder/Modulus | [url](https://leetcode.com/problems/reverse-bits/submissions/1926630917/) |  |
 | 67. Add Binary | While/i,j,iterator/carry | [url](https://leetcode.com/problems/add-binary/submissions/1926627320/) |  |
 | 3714. Longest Balanced Substring II | Prefix Sum / Cumulative Difference / State Matching | [url](https://leetcode.com/problems/longest-balanced-substring-ii/submissions/1918656821/) |  |
 | 799. Champagne Tower | Simulate all cases | [url](https://leetcode.com/problems/champagne-tower/submissions/1918646748/) |  |
