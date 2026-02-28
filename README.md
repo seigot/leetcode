@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 857. Minimum Cost to Hire K Workers | heap/greedy | [url](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/submissions/1934145126/) |  |
 | 1383. Maximum Performance of a Team | heap/greedy | [url](https://leetcode.com/problems/maximum-performance-of-a-team/submissions/1934139204/) |  |
 | 1675. Minimize Deviation in Array | heap/greedy | [url](https://leetcode.com/problems/minimize-deviation-in-array/submissions/1934137837/) |  |
 | 1028. Recover a Tree From Preorder Traversal | Tree/Traversal | [url](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/submissions/1934130870/) |  |
