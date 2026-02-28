@@ -37,7 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 2251. Number of Flowers in Full Bloom | index compression/counter | [url](https://leetcode.com/problems/number-of-flowers-in-full-bloom/submissions/1934147693/) |  |
+| 2251. Number of Flowers in Full Bloom | index compression/counter/set | [url](https://leetcode.com/problems/number-of-flowers-in-full-bloom/submissions/1934147693/) |  |
 | 857. Minimum Cost to Hire K Workers | heap/greedy | [url](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/submissions/1934145126/) |  |
 | 1383. Maximum Performance of a Team | heap/greedy | [url](https://leetcode.com/problems/maximum-performance-of-a-team/submissions/1934139204/) |  |
 | 1675. Minimize Deviation in Array | heap/greedy | [url](https://leetcode.com/problems/minimize-deviation-in-array/submissions/1934137837/) |  |
