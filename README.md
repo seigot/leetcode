@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1 Bits | sort/tuple() | [url](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/submissions/1934030971/) |  |
 | 1022. Sum of Root To Leaf Binary Numbers | dfs/binary operation | [url](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/1934022174/) |  |
 | 1461. Check If a String Contains All Binary Codes of Size K | Sliding Window | [url](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/submissions/1927985255/) |  |
 | 868. Binary Gap | Binary translation / max() | [url](https://leetcode.com/problems/binary-gap/submissions/1927004594/) |  |
