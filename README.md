@@ -130,6 +130,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1680. Concatenation of Consecutive Binary Numbers | bit operation | [url](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/submissions/1934038301/) |  |
 | 1404. Number of Steps to Reduce a Number in Binary Representation to One | int(s,2)/divide,mod | [url](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1934034661/) |  |
 | 1 Bits | sort/tuple() | [url](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/submissions/1934030971/) |  |
 | 1022. Sum of Root To Leaf Binary Numbers | dfs/binary operation | [url](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/1934022174/) |  |
