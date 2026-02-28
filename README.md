@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1675. Minimize Deviation in Array | heap/greedy | [url](https://leetcode.com/problems/minimize-deviation-in-array/submissions/1934137837/) |  |
+| 1028. Recover a Tree From Preorder Traversal | Tree/Traversal | [url](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/submissions/1934130870/) |  |
 | Subarrays with K Different Integers | Sliding Window/Boundaries | [url](-) |  |
 | Number of Ships in a Rectangle | Divide and Conquer (Quadtree) | [url](-) |  |
 | Moving Average from Data Stream | class/list | [url](-) |  |
