@@ -139,6 +139,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | int()/max() | [url](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/submissions/1935084884/) |  |
 | 3666. Minimum Operations to Equalize Binary String Solved | heuristic count | [url](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/submissions/1934045803/) |  |
 | 1680. Concatenation of Consecutive Binary Numbers | bit operation | [url](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/submissions/1934038301/) |  |
 | 1404. Number of Steps to Reduce a Number in Binary Representation to One | int(s,2)/divide,mod | [url](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/1934034661/) |  |
