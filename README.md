@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design Excel Sum Formula |  | [url](-) |  |
+| Time Taken to Cross the Door | deque / state management / enter,exit | [url](-) |  |
 | 2940. Find Building Where Alice and Bob Can Meet | Heap/ | [url](https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/submissions/1934160333/) |  |
 | 1425. Constrained Subsequence Sum | Dynamic Programming / Sliding Window Maximum  | [url](https://leetcode.com/problems/constrained-subsequence-sum/submissions/1934150028/) |  |
 | 2251. Number of Flowers in Full Bloom | index compression/counter/set | [url](https://leetcode.com/problems/number-of-flowers-in-full-bloom/submissions/1934147693/) |  |
