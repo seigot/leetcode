@@ -140,6 +140,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2503. Maximum Number of Points From Grid Queries | Heap/BFS | [url](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/submissions/1941189191/) |  |
 | 3045. Count Prefix and Suffix Pairs II | Tri-Tree,border/KMP/Trie** | [url](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/submissions/1941182850/) |  |
 | 1255. Maximum Score Words Formed by Letters | backtracking/Bitmask Enumeration/Counter | [url](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1941168713/) |  |
 | 1888. Minimum Number of Flips to Make the Binary String Alternating | rotate string/String Doubling | [url](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/submissions/1941143368/) |  |
