@@ -140,7 +140,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3045. Count Prefix and Suffix Pairs II | Tri-Tree | [url](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/submissions/1941182850/) |  |
+| 3045. Count Prefix and Suffix Pairs II | Tri-Tree,border/KMP/Trie** | [url](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/submissions/1941182850/) |  |
 | 1255. Maximum Score Words Formed by Letters | backtracking/Bitmask Enumeration/Counter | [url](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1941168713/) |  |
 | 1888. Minimum Number of Flips to Make the Binary String Alternating | rotate string/String Doubling | [url](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/submissions/1941143368/) |  |
 | 1784. Check if Binary String Has at Most One Segment of Ones | Count Continuous Sequences | [url](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1941141825/) |  |
