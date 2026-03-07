@@ -140,6 +140,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1368. Minimum Cost to Make at Least One Valid Path in a Grid | 0-1 BFS | [url](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/submissions/1941196507/) |  |
 | 2503. Maximum Number of Points From Grid Queries | Heap/BFS | [url](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/submissions/1941189191/) |  |
 | 3045. Count Prefix and Suffix Pairs II | Tri-Tree,border/KMP/Trie** | [url](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii/submissions/1941182850/) |  |
 | 1255. Maximum Score Words Formed by Letters | backtracking/Bitmask Enumeration/Counter | [url](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1941168713/) |  |
