@@ -139,7 +139,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1255. Maximum Score Words Formed by Letters | backtracking | [url](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1941168713/) |  |
+| 1255. Maximum Score Words Formed by Letters | backtracking/Bitmask Enumeration/Counter | [url](https://leetcode.com/problems/maximum-score-words-formed-by-letters/submissions/1941168713/) |  |
 | 1888. Minimum Number of Flips to Make the Binary String Alternating | rotate string/String Doubling | [url](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/submissions/1941143368/) |  |
 | 1784. Check if Binary String Has at Most One Segment of Ones | Count Continuous Sequences | [url](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1941141825/) |  |
 | 1758. Minimum Changes To Make Alternating Binary String | compare binary strings | [url](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/submissions/1941138798/) |  |
