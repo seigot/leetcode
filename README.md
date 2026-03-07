@@ -139,6 +139,9 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1582. Special Positions in a Binary Matrix | Matrix Search | [url](https://leetcode.com/problems/special-positions-in-a-binary-matrix/submissions/1941137194/) |  |
+| 1545. Find Kth Bit in Nth Binary String | Recursive Search | [url](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1941135374/) |  |
+| 1536. Minimum Swaps to Arrange a Binary Grid | swap/greedy inseartion sort | [url](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/submissions/1941124762/) |  |
 | 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers | int()/max() | [url](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/submissions/1935084884/) |  |
 | 3666. Minimum Operations to Equalize Binary String Solved | heuristic count | [url](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/submissions/1934045803/) |  |
 | 1680. Concatenation of Consecutive Binary Numbers | bit operation | [url](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/submissions/1934038301/) |  |
