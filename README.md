@@ -139,6 +139,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1758. Minimum Changes To Make Alternating Binary String | compare binary strings | [url](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/submissions/1941138798/) |  |
 | 1582. Special Positions in a Binary Matrix | Matrix Search | [url](https://leetcode.com/problems/special-positions-in-a-binary-matrix/submissions/1941137194/) |  |
 | 1545. Find Kth Bit in Nth Binary String | Recursive Search | [url](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/1941135374/) |  |
 | 1536. Minimum Swaps to Arrange a Binary Grid | swap/greedy inseartion sort | [url](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/submissions/1941124762/) |  |
