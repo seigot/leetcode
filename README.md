@@ -140,6 +140,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3068. Find the Maximum Sum of Node Values | greedy/xor | [url](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1941262855/) |  |
 | 1793. Maximum Score of a Good Subarray | greedy/left,right,expansion based on k | [url](https://leetcode.com/problems/maximum-score-of-a-good-subarray/submissions/1941259379/) |  |
 | 995. Minimum Number of K Consecutive Bit Flips | greedy | [url](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/submissions/1941249633/) |  |
 | 1368. Minimum Cost to Make at Least One Valid Path in a Grid | 0-1 BFS | [url](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/submissions/1941196507/) |  |
