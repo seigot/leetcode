@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Employee Free Time | sort/greedy | [url](-) |  |
 | 2416. Sum of Prefix Scores of Strings | Tri-Tree | [url](-) |  |
 | Design Excel Sum Formula | recursive call | [url](-) |  |
 | Time Taken to Cross the Door | deque / state management / enter,exit | [url](-) |  |
