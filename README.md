@@ -141,6 +141,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 352. Data Stream as Disjoint Intervals | count numerical continuous length | [url](https://leetcode.com/problems/data-stream-as-disjoint-intervals/submissions/1942303252/) |  |
 | 1980. Find Unique Binary String | Brute force | [url](https://leetcode.com/problems/find-unique-binary-string/submissions/1941427677/) |  |
 | 2818. Apply Operations to Maximize Score | greedy/Count candidate and greedy | [url](https://leetcode.com/problems/apply-operations-to-maximize-score/submissions/1941280119/) |  |
 | 3068. Find the Maximum Sum of Node Values | greedy/xor | [url](https://leetcode.com/problems/find-the-maximum-sum-of-node-values/submissions/1941262855/) |  |
