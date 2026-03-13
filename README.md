@@ -141,6 +141,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1009. Complement of Base 10 Integer | bit flip/reverse,join(),map(str,l),int(x,2) | [url](https://leetcode.com/problems/complement-of-base-10-integer/submissions/1947424774/) |  |
 | 352. Data Stream as Disjoint Intervals | count numerical continuous length | [url](https://leetcode.com/problems/data-stream-as-disjoint-intervals/submissions/1942303252/) |  |
 | 1980. Find Unique Binary String | Brute force | [url](https://leetcode.com/problems/find-unique-binary-string/submissions/1941427677/) |  |
 | 2818. Apply Operations to Maximize Score | greedy/Count candidate and greedy | [url](https://leetcode.com/problems/apply-operations-to-maximize-score/submissions/1941280119/) |  |
