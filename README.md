@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Number of Ones | Count how much each cell contributes to the total number of ones | [url](-) |  |
 | Best Meeting Point | mean / average | [url](-) |  |
 | Employee Free Time | sort/greedy | [url](-) |  |
 | 2416. Sum of Prefix Scores of Strings | Tri-Tree | [url](-) |  |
