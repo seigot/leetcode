@@ -141,6 +141,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 149. Max Points on a Line |  Slope / Slope normalization / Reduced fraction / Greatest common divisor  | [url](https://leetcode.com/problems/max-points-on-a-line/submissions/1947471165/) |  |
 | 273. Integer to English Words |  Recursive/Helper function  | [url](https://leetcode.com/problems/integer-to-english-words/submissions/1947470237/) |  |
 | 1611. Minimum One Bit Operations to Make Integers Zero | Bit Operation/Recursive Process  | [url](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/submissions/1947466509/) |  |
 | 3600. Maximize Spanning Tree Stability with Upgrades | binary search/union find/Spanning Tree  | [url](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/submissions/1947445285/) |  |
