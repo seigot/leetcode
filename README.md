@@ -141,6 +141,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1611. Minimum One Bit Operations to Make Integers Zero | Bit Operation/Recursive Process  | [url](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/submissions/1947466509/) |  |
 | 3600. Maximize Spanning Tree Stability with Upgrades | binary search/union find/Spanning Tree  | [url](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/submissions/1947445285/) |  |
 | 3130. Find All Possible Stable Binary Arrays II | dynamic programming | [url](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/submissions/1947433432/) |  |
 | 3296. Minimum Number of Seconds to Make Mountain Height Zero | Binary Search/quadratic formula | [url](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/submissions/1947430062/) |  |
