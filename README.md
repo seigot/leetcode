@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1415. The k-th Lexicographical String of All Happy Strings of Length n |  Recursive/reverse/k-th  | [url](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/submissions/1947495079/) |  |
 | 149. Max Points on a Line |  Slope / Slope normalization / Reduced fraction / Greatest common divisor  | [url](https://leetcode.com/problems/max-points-on-a-line/submissions/1947471165/) |  |
 | 273. Integer to English Words |  Recursive/Helper function  | [url](https://leetcode.com/problems/integer-to-english-words/submissions/1947470237/) |  |
 | 1611. Minimum One Bit Operations to Make Integers Zero | Bit Operation/Recursive Process  | [url](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/submissions/1947466509/) |  |
