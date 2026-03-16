@@ -143,7 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1622. Fancy Sequence |  Lazy Linear Transformation/segment tree lazy propagation  | [url](https://leetcode.com/problems/fancy-sequence/submissions/1949661230/) |  |
+| 1622. Fancy Sequence |  Lazy Linear Transformation/segment tree lazy propagation/inverse  | [url](https://leetcode.com/problems/fancy-sequence/submissions/1949661230/) |  |
 | 1878. Get Biggest Three Rhombus Sums in a Grid |  Brute Force/Greedy  | [url](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/submissions/1949659739/) |  |
 | 1415. The k-th Lexicographical String of All Happy Strings of Length n |  Recursive/reverse/k-th  | [url](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/submissions/1947495079/) |  |
 | 149. Max Points on a Line |  Slope / Slope normalization / Reduced fraction / Greatest common divisor  | [url](https://leetcode.com/problems/max-points-on-a-line/submissions/1947471165/) |  |
