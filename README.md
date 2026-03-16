@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2872. Maximum Number of K-Divisible Components |  BFS from EdgeNote  | [url](https://leetcode.com/problems/maximum-number-of-k-divisible-components/submissions/1949723482/) |  |
 | 1622. Fancy Sequence |  Lazy Linear Transformation/segment tree lazy propagation/inverse  | [url](https://leetcode.com/problems/fancy-sequence/submissions/1949661230/) |  |
 | 1878. Get Biggest Three Rhombus Sums in a Grid |  Brute Force/Greedy  | [url](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/submissions/1949659739/) |  |
 | 1415. The k-th Lexicographical String of All Happy Strings of Length n |  Recursive/reverse/k-th  | [url](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/submissions/1947495079/) |  |
