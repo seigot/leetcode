@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1553. Minimum Number of Days to Eat N Oranges |  Memoized Recursion  | [url](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/submissions/1955027325/) |  |
 | 1857. Largest Color Value in a Directed Graph |  BFS/Topological sort/DP  | [url](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/submissions/1955015877/) |  |
 | 3643. Flip Square Submatrix Vertically |  Greedy  | [url](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955011873/) |  |
 | 3567. Minimum Absolute Difference in Sliding Submatrix |  set/sort  | [url](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/submissions/1955008585/) |  |
