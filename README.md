@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2092. Find All People With Secret |  BFS/sort/set()  | [url](https://leetcode.com/problems/find-all-people-with-secret/submissions/1955031221/) |  |
 | 1553. Minimum Number of Days to Eat N Oranges |  Memoized Recursion  | [url](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/submissions/1955027325/) |  |
 | 1857. Largest Color Value in a Directed Graph |  BFS/Topological sort/DP  | [url](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/submissions/1955015877/) |  |
 | 3643. Flip Square Submatrix Vertically |  Greedy  | [url](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955011873/) |  |
