@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3070. Count Submatrices with Top-Left Element and Sum Less Than k |  Accumulated-Sum  | [url](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/submissions/1954985052/) |  |
 | 1727. Largest Submatrix With Rearrangements |  sort/Create a histogram using each row as the base, then rearrange the columns to find the largest rectangle.  | [url](https://leetcode.com/problems/largest-submatrix-with-rearrangements/submissions/1950871638/) |  |
 | 773. Sliding Puzzle |  Brute Force/All state search/BFS  | [url](https://leetcode.com/problems/sliding-puzzle/submissions/1949727806/) |  |
 | 2872. Maximum Number of K-Divisible Components |  BFS from EdgeNote  | [url](https://leetcode.com/problems/maximum-number-of-k-divisible-components/submissions/1949723482/) |  |
