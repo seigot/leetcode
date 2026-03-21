@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3643. Flip Square Submatrix Vertically |  Greedy  | [url](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955011873/) |  |
 | 3567. Minimum Absolute Difference in Sliding Submatrix |  set/sort  | [url](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/submissions/1955008585/) |  |
 | 3212. Count Submatrices With Equal Frequency of X and Y |  submatrices/Accumulated-Sum  | [url](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1954992746/) |  |
 | 3070. Count Submatrices with Top-Left Element and Sum Less Than k |  Accumulated-Sum  | [url](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k/submissions/1954985052/) |  |
