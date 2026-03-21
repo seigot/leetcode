@@ -143,6 +143,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1857. Largest Color Value in a Directed Graph |  BFS/Topological sort/DP  | [url](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/submissions/1955015877/) |  |
 | 3643. Flip Square Submatrix Vertically |  Greedy  | [url](https://leetcode.com/problems/flip-square-submatrix-vertically/submissions/1955011873/) |  |
 | 3567. Minimum Absolute Difference in Sliding Submatrix |  set/sort  | [url](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix/submissions/1955008585/) |  |
 | 3212. Count Submatrices With Equal Frequency of X and Y |  submatrices/Accumulated-Sum  | [url](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/submissions/1954992746/) |  |
