@@ -144,6 +144,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2906. Construct Product Matrix |  prefix/suffix  | [url](https://leetcode.com/problems/construct-product-matrix/submissions/1962118697/) |  |
+| 1594. Maximum Non Negative Product in a Matrix |  dp(max,min)  | [url](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/1962109291/) |  |
 | 1886. Determine Whether Matrix Can Be Obtained By Rotation |  90 Degree rotation  | [url](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/submissions/1962103822/) |  |
 | 2050. Parallel Courses III |  topological sort/dp  | [url](https://leetcode.com/problems/parallel-courses-iii/submissions/1955072988/) |  |
 | 2092. Find All People With Secret |  BFS/sort/set()  | [url](https://leetcode.com/problems/find-all-people-with-secret/submissions/1955031221/) |  |
