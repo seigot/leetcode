@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2573. Find the String with LCP |  Defaultdict/Sum  | [url](https://leetcode.com/problems/find-the-string-with-lcp/submissions/1962151240/) |  |
 | 3548. Equal Sum Grid Partition II |  Defaultdict/Sum  | [url](https://leetcode.com/problems/equal-sum-grid-partition-ii/submissions/1962143759/) |  |
 | 2946. Matrix Similarity After Cyclic Shifts |  shift  | [url](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1962130057/) |  |
 | 3546. Equal Sum Grid Partition I |  sum()  | [url](https://leetcode.com/problems/equal-sum-grid-partition-i/submissions/1962126877/) |  |
