@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1886. Determine Whether Matrix Can Be Obtained By Rotation |  90 Degree rotation  | [url](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/submissions/1962103822/) |  |
 | 2050. Parallel Courses III |  topological sort/dp  | [url](https://leetcode.com/problems/parallel-courses-iii/submissions/1955072988/) |  |
 | 2092. Find All People With Secret |  BFS/sort/set()  | [url](https://leetcode.com/problems/find-all-people-with-secret/submissions/1955031221/) |  |
 | 1553. Minimum Number of Days to Eat N Oranges |  Memoized Recursion  | [url](https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/submissions/1955027325/) |  |
