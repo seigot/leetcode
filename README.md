@@ -144,6 +144,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2946. Matrix Similarity After Cyclic Shifts |  shift  | [url](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1962130057/) |  |
+| 3546. Equal Sum Grid Partition I |  sum()  | [url](https://leetcode.com/problems/equal-sum-grid-partition-i/submissions/1962126877/) |  |
 | 2906. Construct Product Matrix |  prefix/suffix  | [url](https://leetcode.com/problems/construct-product-matrix/submissions/1962118697/) |  |
 | 1594. Maximum Non Negative Product in a Matrix |  dp(max,min)  | [url](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/submissions/1962109291/) |  |
 | 1886. Determine Whether Matrix Can Be Obtained By Rotation |  90 Degree rotation  | [url](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/submissions/1962103822/) |  |
