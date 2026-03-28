@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3548. Equal Sum Grid Partition II |  Defaultdict/Sum  | [url](https://leetcode.com/problems/equal-sum-grid-partition-ii/submissions/1962143759/) |  |
 | 2946. Matrix Similarity After Cyclic Shifts |  shift  | [url](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/submissions/1962130057/) |  |
 | 3546. Equal Sum Grid Partition I |  sum()  | [url](https://leetcode.com/problems/equal-sum-grid-partition-i/submissions/1962126877/) |  |
 | 2906. Construct Product Matrix |  prefix/suffix  | [url](https://leetcode.com/problems/construct-product-matrix/submissions/1962118697/) |  |
