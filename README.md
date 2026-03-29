@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 691. Stickers to Spell Word |  DFS/lru_cache  | [url](https://leetcode.com/problems/stickers-to-spell-word/submissions/1962642749/) |  |
 | 2493. Divide Nodes Into the Maximum Number of Groups |  BFS/Graph Traversal  | [url](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/submissions/1962539413/) |  |
 | 3203. Find Minimum Diameter After Merging Two Trees |  Tree, radius/radius  | [url](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/submissions/1962516963/) |  |
 | 2045. Second Minimum Time to Reach Destination |  Minimum/Second Minumum  | [url](https://leetcode.com/problems/second-minimum-time-to-reach-destination/submissions/1962503009/) |  |
