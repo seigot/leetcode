@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Single-Row Keyboard | defaultdict | [url](-) |  |
 | Number of Distinct Islands II | DFS,BFS / Normalization(Sort, Transform) | [url](-) |  |
 | Maximum Number of Ones | Count how much each cell contributes to the total number of ones | [url](-) |  |
 | Best Meeting Point | mean / average | [url](-) |  |
