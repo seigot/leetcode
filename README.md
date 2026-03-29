@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2045. Second Minimum Time to Reach Destination |  Minimum/Second Minumum  | [url](https://leetcode.com/problems/second-minimum-time-to-reach-destination/submissions/1962503009/) |  |
 | 1568. Minimum Number of Days to Disconnect Island |  Graph/Connected  | [url](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/submissions/1962479115/) |  |
 | 1579. Remove Max Number of Edges to Keep Graph Fully Traversable |  UnionFind for 2  | [url](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/submissions/1962475587/) |  |
 | 2839. Check if Strings Can be Made Equal With Operations I |  defaultdict  | [url](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/submissions/1962425076) |  |
