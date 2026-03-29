@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Logger Rate Limiter | Dictionary | [url](-) |  |
 | Design Compressed String Iterator | Offset | [url](-) |  |
 | Perform String Shifts | Offset | [url](-) |  |
 | Counting Elements | Cnt | [url](-) |  |
