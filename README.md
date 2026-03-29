@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2839. Check if Strings Can be Made Equal With Operations I |  defaultdict  | [url](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/submissions/1962425076) |  |
 | 2127. Maximum Employees to Be Invited to a Meeting |  Functional Graph/longest chain, cyclic detection  | [url](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/submissions/1962278219/) |  |
 | 2421. Number of Good Paths |  Unionfind  | [url](https://leetcode.com/problems/number-of-good-paths/submissions/1962275604/) |  |
 | 3108. Minimum Cost Walk in Weighted Graph |  And/UnionFind(union,find)/list  | [url](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/submissions/1962272095/) |  |
