@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Design Compressed String Iterator | Offset | [url](-) |  |
+| Perform String Shifts | Offset | [url](-) |  |
 | Counting Elements | Cnt | [url](-) |  |
 | Palindrome Permutation | collections,Counter | [url](-) |  |
 | Single-Row Keyboard | defaultdict | [url](-) |  |
