@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Palindrome Permutation | collections,Counter | [url](-) |  |
 | Single-Row Keyboard | defaultdict | [url](-) |  |
 | Number of Distinct Islands II | DFS,BFS / Normalization(Sort, Transform) | [url](-) |  |
 | Maximum Number of Ones | Count how much each cell contributes to the total number of ones | [url](-) |  |
