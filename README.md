@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2493. Divide Nodes Into the Maximum Number of Groups |  BFS/Graph Traversal  | [url](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/submissions/1962539413/) |  |
 | 3203. Find Minimum Diameter After Merging Two Trees |  Tree, radius/radius  | [url](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/submissions/1962516963/) |  |
 | 2045. Second Minimum Time to Reach Destination |  Minimum/Second Minumum  | [url](https://leetcode.com/problems/second-minimum-time-to-reach-destination/submissions/1962503009/) |  |
 | 1568. Minimum Number of Days to Disconnect Island |  Graph/Connected  | [url](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/submissions/1962479115/) |  |
