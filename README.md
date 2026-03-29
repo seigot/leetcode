@@ -144,6 +144,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1579. Remove Max Number of Edges to Keep Graph Fully Traversable |  UnionFind for 2  | [url](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/submissions/1962475587/) |  |
 | 2839. Check if Strings Can be Made Equal With Operations I |  defaultdict  | [url](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/submissions/1962425076) |  |
 | 2127. Maximum Employees to Be Invited to a Meeting |  Functional Graph/longest chain, cyclic detection  | [url](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/submissions/1962278219/) |  |
 | 2421. Number of Good Paths |  Unionfind  | [url](https://leetcode.com/problems/number-of-good-paths/submissions/1962275604/) |  |
