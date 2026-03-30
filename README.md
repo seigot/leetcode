@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Append Characters to String to Make Subsequence | while/step by step comparison | [url](-) |  |
 | Rotate Array | reserse 2 times | [url](-) |  |
 | 4Sum | 2-pointer approarch | [url](-) |  |
 | 3Sum | defaultdict | [url](-) |  |
