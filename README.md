@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Sparse Matrix Multiplication | Process Matrix | [url](-) |  |
+| Lonely Pixel I | Count, list | [url](-) |  |
 | Maximum Distance in Arrays | O(n) | [url](-) |  |
 | Append Characters to String to Make Subsequence | while/step by step comparison | [url](-) |  |
 | Rotate Array | reserse 2 times | [url](-) |  |
