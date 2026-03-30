@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Rotate Array | reserse 2 times | [url](-) |  |
+| 4Sum | 2-pointer approarch | [url](-) |  |
 | 3Sum | defaultdict | [url](-) |  |
 | Two Integer Sum II | for loop, 2times | [url](-) |  |
 | String Compression | Run-Length Encoding, RLE | [url](-) |  |
