@@ -160,6 +160,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1964. Find the Longest Valid Obstacle Course at Each Position |  DP/strictly increasing subsequence  | [url](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/submissions/1969057807/) |  |
 | 1799. Maximize Score After N Operations |  dfs/@lru_cache(None)  | [url](https://leetcode.com/problems/maximize-score-after-n-operations/submissions/1969052103/) |  |
 | 2075. Decode the Slanted Ciphertext |  row/col  | [url](https://leetcode.com/problems/decode-the-slanted-ciphertext/submissions/1969049381/) |  |
 | 3661. Maximum Walls Destroyed by Robots |  sort/DP(left->right,right->left,left->left,right->right)  | [url](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/submissions/1969043475/) |  |
