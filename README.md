@@ -26,7 +26,7 @@ NeetCode all [url](https://neetcode.io/practice/practice/allNC)
 
 | easy | midium | hard |
 | --- | --- | --- |
-| 23/217 | 29/564 | 124/147 |
+| 26/217 | 34/564 | 131/149 |
 
 --
 | - | - | [url](-) |  |
