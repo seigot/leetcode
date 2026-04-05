@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Concatenated Words | lexicographical, compare word[j:i] with DP | [url](-) |  |
 | Sparse Matrix Multiplication | Process Matrix | [url](-) |  |
 | Lonely Pixel I | Count, list | [url](-) |  |
 | Maximum Distance in Arrays | O(n) | [url](-) |  |
