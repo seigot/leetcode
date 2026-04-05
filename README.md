@@ -160,6 +160,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 552. Student Attendance Record II |  DP/l*a state transition  | [url](https://leetcode.com/problems/student-attendance-record-ii/submissions/1969235681/) |  |
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays |  Precalculation  | [url](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/submissions/1969129317/) |  |
 | 657. Robot Return to Origin |  basic  | [url](https://leetcode.com/problems/robot-return-to-origin/submissions/1969103314/) |  |
 | 1964. Find the Longest Valid Obstacle Course at Each Position |  bisect/list.append()/DP  | [url](https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/submissions/1969063480/) |  |
