@@ -37,6 +37,8 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| N-th Tribonacci Number | Dynamic Programming | [url](-) |  |
+| Min Cost Climbing Stairs | Dynamic Programming | [url](-) |  |
 | Climbing Stairs | Dynamic Programming | [url](-) |  |
 | Interval DP, Substring DP, dp[i][j] represents whether substring is palindrome | Dynamic Programming | [url](-) |  |
 | 4 Keys Keyboard | Dynamic Programming | [url](-) |  |
