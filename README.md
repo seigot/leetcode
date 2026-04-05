@@ -159,7 +159,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3474. Lexicographically Smallest Generated String |  DP/KMP/greedy  | [url](https://leetcode.com/problems/lexicographically-smallest-generated-string/submissions/1969032029/) |  |
+| 3474. Lexicographically Smallest Generated String |  DP/KMP/greedy**  | [url](https://leetcode.com/problems/lexicographically-smallest-generated-string/submissions/1969032029/) |  |
 | 2751. Robot Collisions |  DP/sort  | [url](https://leetcode.com/problems/robot-collisions/submissions/1969031044/) |  |
 | 2840. Check if Strings Can be Made Equal With Operations II |  defaultdict  | [url](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/submissions/1963395415/) |  |
 | 691. Stickers to Spell Word |  DFS/lru_cache  | [url](https://leetcode.com/problems/stickers-to-spell-word/submissions/1962642749/) |  |
