@@ -37,6 +37,9 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Climbing Stairs | Dynamic Programming | [url](-) |  |
+| Interval DP, Substring DP, dp[i][j] represents whether substring is palindrome | Dynamic Programming | [url](-) |  |
+| 4 Keys Keyboard | Dynamic Programming | [url](-) |  |
 | Paint Fence | Dynamic Programming | [url](-) |  |
 | Paint House | Dynamic Programming | [url](-) |  |
 | House Robber II | Dynamic Programming + case split | [url](-) |  |
