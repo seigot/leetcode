@@ -164,6 +164,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1092. Shortest Common Supersequence  |  DP/lcs/recovery  | [url](https://leetcode.com/problems/shortest-common-supersequence/submissions/1970052434/) |  |
 | 552. Student Attendance Record II |  DP/l*a state transition  | [url](https://leetcode.com/problems/student-attendance-record-ii/submissions/1969235681/) |  |
 | 689. Maximum Sum of 3 Non-Overlapping Subarrays |  Precalculation  | [url](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/submissions/1969129317/) |  |
 | 657. Robot Return to Origin |  basic  | [url](https://leetcode.com/problems/robot-return-to-origin/submissions/1969103314/) |  |
