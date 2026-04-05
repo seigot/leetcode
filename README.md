@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Valid Palindrome III | dp[i][j] = minimum deletions needed to make s[i:j+1] a palindrome | [url](-) |  |
 | Optimal Account Balancing | DFS with backtracking and pruning | [url](-) |  |
 | Concatenated Words | lexicographical, compare word[j:i] with DP | [url](-) |  |
 | Sparse Matrix Multiplication | Process Matrix | [url](-) |  |
