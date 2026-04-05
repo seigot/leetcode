@@ -159,6 +159,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3661. Maximum Walls Destroyed by Robots |  sort/DP  | [url](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/submissions/1969043475/) |  |
 | 3418. Maximum Amount of Money Robot Can Earn |  DP/for  | [url](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/submissions/1969040917/) |  |
 | 3474. Lexicographically Smallest Generated String |  DP/KMP/greedy**  | [url](https://leetcode.com/problems/lexicographically-smallest-generated-string/submissions/1969032029/) |  |
 | 2751. Robot Collisions |  DP/sort  | [url](https://leetcode.com/problems/robot-collisions/submissions/1969031044/) |  |
