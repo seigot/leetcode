@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Partition Equal Subset Sum | Dynamic Programming | [url](-) |  |
 | Longest Increasing Subsequence | bisect right, list, longest increase subsequence | [url](-) |  |
 | Coin Change | Dynamic Programming | [url](-) |  |
 | Word Break | Dynamic Programming | [url](-) |  |
