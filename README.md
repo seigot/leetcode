@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| New 21 Game | Probability DP with sliding window | [url](-) |  |
 | Integer Break | Dynamic Programming | [url](-) |  |
 | Minimum Cost For Tickets | Dynamic Programming | [url](-) |  |
 | Perfect Squares | Dynamic Programming | [url](-) |  |
