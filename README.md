@@ -15,11 +15,11 @@ NeetCode
 --- 
 - LeetCode
 Total solved [url](https://leetcode.com/progress/)  
+--> 500+ solved
 
 | easy | midium | hard |
 | --- | --- | --- |
 | 121 | 343 | 116 |
---> 500+ solved
 
 - NeetCode
 Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)  
