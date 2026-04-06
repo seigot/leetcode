@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Palindromic Substrings | Dynamic Programming | [url](-) |  |
 | Maximum Number of Points with Cost | Dynamic Programming | [url](-) |  |
 | Minimum Path Sum | Dynamic Programming | [url](-) |  |
 | Unique Paths II | Dynamic Programming | [url](-) |  |
