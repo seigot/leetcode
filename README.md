@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Minimum Cost For Tickets | Dynamic Programming | [url](-) |  |
 | Perfect Squares | Dynamic Programming | [url](-) |  |
 | Combination Sum IV | Dynamic Programming | [url](-) |  |
 | Triangle | Dynamic Programming | [url](-) |  |
