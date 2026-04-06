@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Word Break | Dynamic Programming | [url](-) |  |
 | Maximum Product Subarray | Dynamic Programming | [url](-) |  |
 | Decode Ways | dp[i] represents the number of ways to decode the first i characters of the string. | [url](-) |  |
 | Palindromic Substrings | Dynamic Programming | [url](-) |  |
