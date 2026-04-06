@@ -37,6 +37,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Longest Increasing Subsequence | bisect right, list, longest increase subsequence | [url](-) |  |
 | Coin Change | Dynamic Programming | [url](-) |  |
 | Word Break | Dynamic Programming | [url](-) |  |
 | Maximum Product Subarray | Dynamic Programming | [url](-) |  |
