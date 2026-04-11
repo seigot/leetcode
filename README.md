@@ -191,6 +191,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2069. Walking Robot Simulation II  |  Step move/If/while  | [url](https://leetcode.com/problems/walking-robot-simulation-ii/submissions/1975759561/) |  |
 | 3741. Minimum Distance Between Three Equal Elements II  |  Sliding window on grouped indices  | [url](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/submissions/1975758453/) |  |
 | 3655. XOR After Range Multiplication Queries II  |  DP/Square root decomposition + residue class partitioning + multiplicative difference array  | [url](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/submissions/1975014579/) |  |
 | 1866. Number of Ways to Rearrange Sticks With K Sticks Visible  |  DP/Split by the largest element (n)  | [url](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/submissions/1974997002/) |  |
