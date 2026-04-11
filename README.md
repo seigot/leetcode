@@ -191,7 +191,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1866. Number of Ways to Rearrange Sticks With K Sticks Visible  |  DP  | [url](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/submissions/1974997002/) |  |
+| 1866. Number of Ways to Rearrange Sticks With K Sticks Visible  |  DP/Split by the largest element (n)  | [url](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/submissions/1974997002/) |  |
 | 1220. Count Vowels Permutation  |  DP/Strings count  | [url](https://leetcode.com/problems/count-vowels-permutation/submissions/1974982952/) |  |
 | 1092. Shortest Common Supersequence  |  DP/lcs/recovery  | [url](https://leetcode.com/problems/shortest-common-supersequence/submissions/1970052434/) |  |
 | 552. Student Attendance Record II |  DP/l*a state transition  | [url](https://leetcode.com/problems/student-attendance-record-ii/submissions/1969235681/) |  |
