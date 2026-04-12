@@ -191,6 +191,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2218. Maximum Value of K Coins From Piles  |  DP/The last k songs are all distinct  | [url](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/submissions/1975857076/) |  |
 | 920. Number of Music Playlists  |  DP/The last k songs are all distinct  | [url](https://leetcode.com/problems/number-of-music-playlists/submissions/1975847810/) |  |
 | 874. Walking Robot Simulation  |  Step move/If/while  | [url](https://leetcode.com/problems/walking-robot-simulation/submissions/1975762142/) |  |
 | 2069. Walking Robot Simulation II  |  Step move/If/while  | [url](https://leetcode.com/problems/walking-robot-simulation-ii/submissions/1975759561/) |  |
