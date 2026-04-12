@@ -191,6 +191,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1639. Number of Ways to Form a Target String Given a Dictionary  |  DP/A DP that builds the target from left to right using character frequencies per column  | [url](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/submissions/1976153678/) |  |
 | 879. Profitable Schemes  |  DP/Knapsack  | [url](https://leetcode.com/problems/profitable-schemes/submissions/1976138869/) |  |
 | 2218. Maximum Value of K Coins From Piles  |  DP/The last k songs are all distinct  | [url](https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/submissions/1975857076/) |  |
 | 920. Number of Music Playlists  |  DP/The last k songs are all distinct  | [url](https://leetcode.com/problems/number-of-music-playlists/submissions/1975847810/) |  |
