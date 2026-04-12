@@ -192,8 +192,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1531. String Compression II  |  DP:For each segment, it exhaustively compares all possibilities of forming it into a run while deleting the remaining characters. |  [url](https://leetcode.com/problems/string-compression-ii/submissions/1976727829/) |
-| 1269. Number of Ways to Stay in the Same Place After Some Steps  |  DP: At each step, update the number of ways to stay at each index (pos), where dp[pos] represents the number of ways to be at position pos after the current number of steps.  | [url](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/submissions/1976702397/) |  |
+| 1531. String Compression II  |  DP:For each segment, it exhaustively compares all possibilities of forming it into a run while deleting the remaining characters.**  |  [url](https://leetcode.com/problems/string-compression-ii/submissions/1976727829/) |
+| 1269. Number of Ways to Stay in the Same Place After Some Steps**   |  DP: At each step, update the number of ways to stay at each index (pos), where dp[pos] represents the number of ways to be at position pos after the current number of steps.**   | [url](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/submissions/1976702397/) |  |
 | 2742. Painting the Walls  |  DP: paying for wall i covers 1 + time[i] walls in total, so choose the cheapest set of paid walls.  | [url](https://leetcode.com/problems/painting-the-walls/submissions/1976671584/) |
 | 1547. Minimum Cost to Cut a Stick  |  Interval DP: try every possible first cut and minimize total cost  | [url](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/submissions/1976577675/) |  
 | 1639. Number of Ways to Form a Target String Given a Dictionary  |  DP/A DP that builds the target from left to right using character frequencies per column  | [url](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/submissions/1976153678/) |  |
