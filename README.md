@@ -39,7 +39,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| Minimize Max Distance to Gas Station | Heap/Binary Search | [url](-) |  |
+| Minimize Max Distance to Gas Station | Heap(gap/parts)/Binary Search | [url](-) |  |
 | New 21 Game | Probability DP with sliding window | [url](-) |  |
 | Integer Break | Dynamic Programming | [url](-) |  |
 | Minimum Cost For Tickets | Dynamic Programming | [url](-) |  |
