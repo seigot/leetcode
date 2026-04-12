@@ -192,6 +192,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2742. Painting the Walls  |  DP: paying for wall i covers 1 + time[i] walls in total, so choose the cheapest set of paid walls.  | [url](https://leetcode.com/problems/painting-the-walls/submissions/1976671584/) |
 | 1547. Minimum Cost to Cut a Stick  |  Interval DP: try every possible first cut and minimize total cost  | [url](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/submissions/1976577675/) |  
 | 1639. Number of Ways to Form a Target String Given a Dictionary  |  DP/A DP that builds the target from left to right using character frequencies per column  | [url](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/submissions/1976153678/) |  |
 | 879. Profitable Schemes  |  DP/Knapsack  | [url](https://leetcode.com/problems/profitable-schemes/submissions/1976138869/) |  |
