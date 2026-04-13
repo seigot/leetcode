@@ -192,7 +192,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 629. K Inverse Pairs Array  |  DP: Use prefix-sum optimized DP to count ways of forming exactly k inverse pairs by inserting each number into all possible positions.  | [url](https://leetcode.com/problems/k-inverse-pairs-array/submissions/1977599130/) |
+| 446. Arithmetic Slices II - Subsequence  |  DP: Use DP with hash maps to count arithmetic subsequences by extending previous sequences with the same difference.  | [url](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/1977641814/) |
+| 629. K Inverse Pairs Array  |  DP: Use prefix-sum optimized DP to count ways of forming exactly k inverse pairs by inserting each number into all possible positions.  | [url](https://leetcode.com/problems/k-inverse-pairs-array/submissions/1977628623/) |
 | 1335. Minimum Difficulty of a Job Schedule  |  Interval DP that exhaustively tries all partition points, splitting from the front to minimize the maximum job difficulty of each day.  | [url](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/submissions/1977565833/) |
 | 1531. String Compression II  |  DP:For each segment, it exhaustively compares all possibilities of forming it into a run while deleting the remaining characters.**  |  [url](https://leetcode.com/problems/string-compression-ii/submissions/1976727829/) |
 | 1269. Number of Ways to Stay in the Same Place After Some Steps**   |  DP: At each step, update the number of ways to stay at each index (pos), where dp[pos] represents the number of ways to be at position pos after the current number of steps.**   | [url](https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/submissions/1976702397/) |  |
