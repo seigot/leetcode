@@ -192,6 +192,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1463. Cherry Pickup II  |  DP: 3D dynamic programming (DP) with memoization over two robot positions.  | [url](https://leetcode.com/problems/cherry-pickup-ii/submissions/1977650054/) |
 | 446. Arithmetic Slices II - Subsequence  |  DP: Use DP with hash maps to count arithmetic subsequences by extending previous sequences with the same difference.  | [url](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/1977641814/) |
 | 629. K Inverse Pairs Array  |  DP: Use prefix-sum optimized DP to count ways of forming exactly k inverse pairs by inserting each number into all possible positions.  | [url](https://leetcode.com/problems/k-inverse-pairs-array/submissions/1977628623/) |
 | 1335. Minimum Difficulty of a Job Schedule  |  Interval DP that exhaustively tries all partition points, splitting from the front to minimize the maximum job difficulty of each day.  | [url](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/submissions/1977565833/) |
