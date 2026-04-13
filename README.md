@@ -192,6 +192,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1289. Minimum Falling Path Sum II  |  DP: prev[j]: the minimum path sum ending at column j up to the previous row; store min1 and min2 (the smallest and second smallest values).  | [url](https://leetcode.com/problems/minimum-falling-path-sum-ii/submissions/1977669804/) |
 | 1463. Cherry Pickup II  |  DP: 3D dynamic programming (DP) with memoization over two robot positions, dp(r, c1, c2) means: the maximum number of cherries collectable from row r onward, when robot 1 is at column c1 and robot 2 is at column c2.  | [url](https://leetcode.com/problems/cherry-pickup-ii/submissions/1977650054/) |
 | 446. Arithmetic Slices II - Subsequence  |  DP: Use DP with hash maps to count arithmetic subsequences by extending previous sequences with the same difference.  | [url](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/submissions/1977641814/) |
 | 629. K Inverse Pairs Array  |  DP: Use prefix-sum optimized DP to count ways of forming exactly k inverse pairs by inserting each number into all possible positions.  | [url](https://leetcode.com/problems/k-inverse-pairs-array/submissions/1977628623/) |
