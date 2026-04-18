@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3783. Mirror Distance of an Integer  |  reverse/str[::-1]  | [url](https://leetcode.com/problems/mirror-distance-of-an-integer/submissions/1982019422/) |
 | 2515. Shortest Distance to Target String in a Circular Array  |  doubling  | [url](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/submissions/1982014606/) |
 | 1848. Minimum Distance to the Target Element  |  for/if  | [url](https://leetcode.com/problems/minimum-distance-to-the-target-element/submissions/1982002448/) |
 | 514. Freedom Trail  |  A shortest-path problem that minimizes the sum of rotation cost and future cost; define dp(i, cur) as the minimum number of steps to spell key[i:] when the ring’s index cur is aligned at 12:00.  | [url](https://leetcode.com/problems/freedom-trail/submissions/1977681374/) |
