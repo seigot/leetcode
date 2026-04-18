@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3488. Closest Equal Element Queries  |  precalculation/bisect_left  | [url](https://leetcode.com/problems/closest-equal-element-queries/submissions/1982040705/) |
 | 3761. Minimum Absolute Distance Between Mirror Pairs  |  reverse/str[::-1]/dp  | [url](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/submissions/1982032493/) |
 | 3783. Mirror Distance of an Integer  |  reverse/str[::-1]  | [url](https://leetcode.com/problems/mirror-distance-of-an-integer/submissions/1982019422/) |
 | 2515. Shortest Distance to Target String in a Circular Array  |  doubling  | [url](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/submissions/1982014606/) |
