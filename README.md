@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1855. Maximum Distance Between a Pair of Values  |  double pointer  | [url](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/submissions/1982967117/) |
 | 2463. Minimum Total Distance Traveled  |  DP:Dynamic Programming with ordered assignment (sequence DP)  | [url](https://leetcode.com/problems/minimum-total-distance-traveled/submissions/1982044713/) |
 | 3488. Closest Equal Element Queries  |  precalculation/bisect_left  | [url](https://leetcode.com/problems/closest-equal-element-queries/submissions/1982040705/) |
 | 3761. Minimum Absolute Distance Between Mirror Pairs  |  reverse/str[::-1]/dp  | [url](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/submissions/1982032493/) |
