@@ -19,7 +19,7 @@ Total solved [url](https://leetcode.com/progress/)
 
 | easy | medium | hard |
 | --- | --- | --- |
-| 123 | 347 | 133 |
+| 124 | 350 | 134 |
 
 - NeetCode
 Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)  
