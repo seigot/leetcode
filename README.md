@@ -193,8 +193,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3464. Maximize the Distance Between Points on a Square  |  Linearization + Binary Search + Greedy Check + Circular Validation
-  | [url](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/submissions/1993573212/) |
+| 3225. Maximum Score From Grid Operations  |  Column Height DP + Prefix Sum + Prefix/Suffix Optimization  | [url](https://leetcode.com/problems/maximum-score-from-grid-operations/submissions/1993594959/) |
+| 3464. Maximize the Distance Between Points on a Square  |  Linearization + Binary Search + Greedy Check + Circular Validation  | [url](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/submissions/1993573212/) |
 | 1855. Maximum Distance Between a Pair of Values  |  double pointer  | [url](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/submissions/1982967117/) |
 | 2463. Minimum Total Distance Traveled  |  DP:Dynamic Programming with ordered assignment (sequence DP)  | [url](https://leetcode.com/problems/minimum-total-distance-traveled/submissions/1982044713/) |
 | 3488. Closest Equal Element Queries  |  precalculation/bisect_left  | [url](https://leetcode.com/problems/closest-equal-element-queries/submissions/1982040705/) |
