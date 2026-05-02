@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1559. Detect Cycles in 2D Grid  |  BFS/Loop Detection  | [url](https://leetcode.com/problems/detect-cycles-in-2d-grid/submissions/1993675954/) |
 | 2833. Furthest Point From Origin  |  count | [url](https://leetcode.com/problems/furthest-point-from-origin/submissions/1993673587/) |
 | 2078. Two Furthest Houses With Different Colors  |  for/abs | [url](https://leetcode.com/problems/two-furthest-houses-with-different-colors/submissions/1993672706/) |
 | 3225. Maximum Score From Grid Operations  |  Column Height DP + Prefix Sum + Prefix/Suffix Optimization ** | [url](https://leetcode.com/problems/maximum-score-from-grid-operations/submissions/1993594959/) |
