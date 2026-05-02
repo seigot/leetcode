@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2033. Minimum Operations to Make a Uni-Value Grid  |  median / mod  | [url](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/submissions/1993678454/) |
 | 1391. Check if There is a Valid Path in a Grid  |  BFS/Directional Connection  | [url](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/submissions/1993676740/) |
 | 1559. Detect Cycles in 2D Grid  |  BFS/Loop Detection  | [url](https://leetcode.com/problems/detect-cycles-in-2d-grid/submissions/1993675954/) |
 | 2833. Furthest Point From Origin  |  count | [url](https://leetcode.com/problems/furthest-point-from-origin/submissions/1993673587/) |
