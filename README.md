@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 788. Rotated Digits  |  Brute force/Greedy  | [url](https://leetcode.com/problems/rotated-digits/submissions/1993691115/) |
 | 396. Rotate Function  |  state transition  | [url](https://leetcode.com/problems/rotate-function/submissions/1993682855/) |
 | 3742. Maximum Path Score in a Grid  |  dp[j][i][cost]=score  | [url](https://leetcode.com/problems/maximum-path-score-in-a-grid/submissions/1993679612/) |
 | 2033. Minimum Operations to Make a Uni-Value Grid  |  median / mod  | [url](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/submissions/1993678454/) |
