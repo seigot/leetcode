@@ -193,7 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 2452. Words Within Two Edits of Dictionary  |  Brute force/Greedy  | [url](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1993693656/) |
+| 2452. Words Within Two Edits of Dictionary  |  brute force / simulation / string comparison  | [url](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1993693656/) |
 | 2615. Sum of Distances  |  Manage the difference  | [url](https://leetcode.com/problems/sum-of-distances/submissions/1993691988/) |
 | 788. Rotated Digits  |  Brute force/Greedy  | [url](https://leetcode.com/problems/rotated-digits/submissions/1993691115/) |
 | 396. Rotate Function  |  state transition  | [url](https://leetcode.com/problems/rotate-function/submissions/1993682855/) |
