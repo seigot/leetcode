@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2615. Sum of Distances  |  Manage the difference  | [url](https://leetcode.com/problems/sum-of-distances/submissions/1993691988/) |
 | 788. Rotated Digits  |  Brute force/Greedy  | [url](https://leetcode.com/problems/rotated-digits/submissions/1993691115/) |
 | 396. Rotate Function  |  state transition  | [url](https://leetcode.com/problems/rotate-function/submissions/1993682855/) |
 | 3742. Maximum Path Score in a Grid  |  dp[j][i][cost]=score  | [url](https://leetcode.com/problems/maximum-path-score-in-a-grid/submissions/1993679612/) |
