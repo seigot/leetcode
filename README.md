@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 796. Rotate String  |  Doubling  | [url](https://leetcode.com/problems/rotate-string/submissions/1993849502/) |
 | 1722. Minimize Hamming Distance After Swap Operations  |  Union Find / Counter  | [url](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1993695720/) |
 | 2452. Words Within Two Edits of Dictionary  |  brute force / simulation / string comparison  | [url](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1993693656/) |
 | 2615. Sum of Distances  |  Manage the difference  | [url](https://leetcode.com/problems/sum-of-distances/submissions/1993691988/) |
