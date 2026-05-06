@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1861. Rotating the Box  |  Right-->Left Greedy, algorithm/two-pointer simulation  | [url](https://leetcode.com/problems/rotating-the-box/submissions/1996937014/) |
 | 796. Rotate String  |  Doubling  | [url](https://leetcode.com/problems/rotate-string/submissions/1993849502/) |
 | 1722. Minimize Hamming Distance After Swap Operations  |  Union Find / Counter  | [url](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1993695720/) |
 | 2452. Words Within Two Edits of Dictionary  |  brute force / simulation / string comparison  | [url](https://leetcode.com/problems/words-within-two-edits-of-dictionary/submissions/1993693656/) |
