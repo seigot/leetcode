@@ -193,6 +193,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1914. Cyclically Rotating a Grid  |  BruteForce  | [url](https://leetcode.com/problems/cyclically-rotating-a-grid/submissions/1999131167/) |
+| 3629. Minimum Jumps to Reach End via Prime Teleportation  |  Prime/BFS  | [url](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/submissions/1999129734/) |
 | 3660. Jump Game IX  |  Prefix Maximum/suffix minimum  | [url](https://leetcode.com/problems/jump-game-ix/submissions/1998655693/) |
 | 1861. Rotating the Box  |  Right-->Left Greedy, algorithm/two-pointer simulation  | [url](https://leetcode.com/problems/rotating-the-box/submissions/1996937014/) |
 | 796. Rotate String  |  Doubling  | [url](https://leetcode.com/problems/rotate-string/submissions/1993849502/) |
