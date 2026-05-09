@@ -193,6 +193,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3660. Jump Game IX  |  Prefix Maximum/suffix minimum  | [url](https://leetcode.com/problems/jump-game-ix/submissions/1998655693/) |
 | 1861. Rotating the Box  |  Right-->Left Greedy, algorithm/two-pointer simulation  | [url](https://leetcode.com/problems/rotating-the-box/submissions/1996937014/) |
 | 796. Rotate String  |  Doubling  | [url](https://leetcode.com/problems/rotate-string/submissions/1993849502/) |
 | 1722. Minimize Hamming Distance After Swap Operations  |  Union Find / Counter  | [url](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/submissions/1993695720/) |
