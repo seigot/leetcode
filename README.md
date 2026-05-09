@@ -14,7 +14,7 @@ NeetCode
 
 --- 
 - LeetCode
-Total solved [url](https://leetcode.com/progress/)
+Total solved [url](https://leetcode.com/progress/)  
 Dynamic Programming [url](https://leetcode.com/problem-list/dynamic-programming/)  
 --> 500+ solved, 0.5%
 
