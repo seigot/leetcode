@@ -194,6 +194,9 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 392. Is Subsequence  |  practice dp  | [url](https://leetcode.com/problems/is-subsequence/submissions/2000040868/?envType=problem-list-v2&envId=dynamic-programming) |
+| 338. Counting Bits  |  practice dp  | [url](https://leetcode.com/problems/counting-bits/submissions/2000039990/?envType=problem-list-v2&envId=dynamic-programming) |
+| 121. Best Time to Buy and Sell Stock  |  practice dp  | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2000038720/?envType=problem-list-v2&envId=dynamic-programming) |
 | 119. Pascal's Triangle II  |  practice dp  | [url](https://leetcode.com/problems/pascals-triangle-ii/submissions/2000036996/?envType=problem-list-v2&envId=dynamic-programming) |
 | 70. Climbing Stairs  |  practice dp  | [url](https://leetcode.com/problems/climbing-stairs/submissions/2000032735/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1914. Cyclically Rotating a Grid  |  BruteForce  | [url](https://leetcode.com/problems/cyclically-rotating-a-grid/submissions/1999131167/) |
