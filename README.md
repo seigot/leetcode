@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 119. Pascal's Triangle II  |  practice dp  | [url](https://leetcode.com/problems/pascals-triangle-ii/submissions/2000036996/?envType=problem-list-v2&envId=dynamic-programming) |
+| 70. Climbing Stairs  |  practice dp  | [url](https://leetcode.com/problems/climbing-stairs/submissions/2000032735/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1914. Cyclically Rotating a Grid  |  BruteForce  | [url](https://leetcode.com/problems/cyclically-rotating-a-grid/submissions/1999131167/) |
 | 3629. Minimum Jumps to Reach End via Prime Teleportation  |  Prime/BFS  | [url](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/submissions/1999129734/) |
 | 3660. Jump Game IX  |  Prefix Maximum/suffix minimum  | [url](https://leetcode.com/problems/jump-game-ix/submissions/1998655693/) |
