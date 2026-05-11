@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2553. Separate the Digits in an Array  |  Convert an integer to a string  | [url](https://leetcode.com/problems/separate-the-digits-in-an-array/submissions/2000187448/) |
 | 1025. Divisor Game  |  practice dp / If opponent loses at dp[i-x], current player can force a win  | [url](https://leetcode.com/problems/divisor-game/submissions/2000051671/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1668. Maximum Repeating Substring  |  practice dp  | [url](https://leetcode.com/problems/maximum-repeating-substring/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1137. N-th Tribonacci Number  |  practice dp  | [url](https://leetcode.com/problems/n-th-tribonacci-number/submissions/2000044313/?envType=problem-list-v2&envId=dynamic-programming) |
