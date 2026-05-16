@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1674. Minimum Moves to Make Array Complementary  |  differencial array  | [url](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/submissions/2004863507/) |
 | 153. Find Minimum in Rotated Sorted Array  |  binary search  | [url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2004847079/) |
 | 2784. Check if Array is Good  |  for / if  | [url](https://leetcode.com/problems/check-if-array-is-good/submissions/2004843224/) |
 | 2553. Separate the Digits in an Array  |  Convert an integer to a string  | [url](https://leetcode.com/problems/separate-the-digits-in-an-array/submissions/2000187448/) |
