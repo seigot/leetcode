@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1665. Minimum Initial Energy to Finish Tasks  |  Sort the tasks in order of higher starting requirements but lower energy consumption.  | [url](Sort the tasks in order of higher starting requirements but lower energy consumption.) |
 | 1674. Minimum Moves to Make Array Complementary  |  differencial array  | [url](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/submissions/2004863507/) |
 | 153. Find Minimum in Rotated Sorted Array  |  binary search  | [url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/2004847079/) |
 | 2784. Check if Array is Good  |  for / if  | [url](https://leetcode.com/problems/check-if-array-is-good/submissions/2004843224/) |
