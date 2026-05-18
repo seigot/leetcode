@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 64. Minimum Path Sum  |  Dynamic Programming (DP) in 2 dimensions | [url](https://leetcode.com/problems/minimum-path-sum/submissions/2005945284/?envType=problem-list-v2&envId=dynamic-programming) |
 | 63. Unique Paths II  |  Dynamic Programming (DP) in 2 dimensions | [url](https://leetcode.com/problems/unique-paths-ii/submissions/2005943985/?envType=problem-list-v2&envId=dynamic-programming) |
 | 45. Jump Game II  |  dp  | [url](https://leetcode.com/problems/jump-game-ii/submissions/2005941411/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1306. Jump Game III  |  Breadth-First Search (BFS)  | [url](https://leetcode.com/problems/jump-game-iii/submissions/2005938102/) |
