@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 45. Jump Game II  |  dp  | [url](https://leetcode.com/problems/jump-game-ii/submissions/2005941411/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1306. Jump Game III  |  Breadth-First Search (BFS)  | [url](https://leetcode.com/problems/jump-game-iii/submissions/2005938102/) |
 | 154. Find Minimum in Rotated Sorted Array II  |  binary search + duplicate/worst case O(n)  | [url](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2004884198/) |
 | 1665. Minimum Initial Energy to Finish Tasks  |  Sort the tasks in order of higher starting requirements but lower energy consumption.  | [url](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/) |
