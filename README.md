@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 95. Unique Binary Search Trees II  |  Tree / Recursive function  | [url](https://leetcode.com/problems/unique-binary-search-trees-ii/submissions/2005953860/?envType=problem-list-v2&envId=dynamic-programming) |
+| 95. Unique Binary Search Trees II  |  Binary Tree / Recursive function  | [url](https://leetcode.com/problems/unique-binary-search-trees-ii/submissions/2005953860/?envType=problem-list-v2&envId=dynamic-programming) |
 | 72. Edit Distance  |  Dynamic Programming (DP) in 2 dimensions / string  | [url](https://leetcode.com/problems/edit-distance/?envType=problem-list-v2&envId=dynamic-programming) |
 | 64. Minimum Path Sum  |  Dynamic Programming (DP) in 2 dimensions | [url](https://leetcode.com/problems/minimum-path-sum/submissions/2005945284/?envType=problem-list-v2&envId=dynamic-programming) |
 | 63. Unique Paths II  |  Dynamic Programming (DP) in 2 dimensions | [url](https://leetcode.com/problems/unique-paths-ii/submissions/2005943985/?envType=problem-list-v2&envId=dynamic-programming) |
