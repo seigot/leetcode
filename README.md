@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 131. Palindrome Partitioning  |  bitmask brute-force   | [url](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 122. Best Time to Buy and Sell Stock II  |  Greedy/buy,sell  | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2008490117/?envType=problem-list-v2&envId=dynamic-programming) |
 | 97. Interleaving String  |  2dimention, dp()  | [url](https://leetcode.com/problems/interleaving-string/?envType=problem-list-v2&envId=dynamic-programming) |
 | 96. Unique Binary Search Trees  |  BST, dp()  | [url](https://leetcode.com/problems/unique-binary-search-trees/?envType=problem-list-v2&envId=dynamic-programming) |
