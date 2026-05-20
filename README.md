@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2657. Find the Prefix Common Array of Two Arrays  |  defaultdict()  | [url](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/submissions/2008459854/) |
 | 2540. Minimum Common Value  |  set()  | [url](https://leetcode.com/problems/minimum-common-value/submissions/2007600673/) |
 | 1345. Jump Game IV  |  BFS/Set()  | [url](https://leetcode.com/problems/jump-game-iv/submissions/2006028056/) |
 | 95. Unique Binary Search Trees II  |  Binary Tree / Recursive function  | [url](https://leetcode.com/problems/unique-binary-search-trees-ii/submissions/2005953860/?envType=problem-list-v2&envId=dynamic-programming) |
