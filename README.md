@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 357. Count Numbers with Unique Digits  |  brute foece  | [url](https://leetcode.com/problems/count-numbers-with-unique-digits/submissions/2009340184/?envType=problem-list-v2&envId=dynamic-programming) |
 | 343. Integer Break  |  dp/dp[i] = the maximum product that can be obtained by breaking integer i into smaller  | [url](https://leetcode.com/problems/integer-break/submissions/2009337652/?envType=problem-list-v2&envId=dynamic-programming) |
 | 337. House Robber III  |  tree dp/ rob,not rob  | [url](https://leetcode.com/problems/house-robber-iii/submissions/2009335581/?envType=problem-list-v2&envId=dynamic-programming) |
 | 279. Perfect Squares  |  dp/the number of value to consist of the target number.  | [url](https://leetcode.com/problems/perfect-squares/submissions/2009330081/?envType=problem-list-v2&envId=dynamic-programming) |
