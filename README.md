@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 241. Different Ways to Add Parentheses  |  dfs/defaultdict   | [url](https://leetcode.com/problems/different-ways-to-add-parentheses/submissions/2008793766/?envType=problem-list-v2&envId=dynamic-programming) |
 | 213. House Robber II  |  dp (2 types of search)   | [url](https://leetcode.com/problems/house-robber-ii/?envType=problem-list-v2&envId=dynamic-programming) |
 | 131. Palindrome Partitioning  |  bitmask brute-force   | [url](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 122. Best Time to Buy and Sell Stock II  |  Greedy/buy,sell  | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/2008490117/?envType=problem-list-v2&envId=dynamic-programming) |
