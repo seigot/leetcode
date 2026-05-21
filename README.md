@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 375. Guess Number Higher or Lower II  |  Interval DP / Minimax Interval DP  | [url](https://leetcode.com/problems/guess-number-higher-or-lower-ii/submissions/2009352023/?envType=problem-list-v2&envId=dynamic-programming) |
 | 357. Count Numbers with Unique Digits  |  brute foece  | [url](https://leetcode.com/problems/count-numbers-with-unique-digits/submissions/2009340184/?envType=problem-list-v2&envId=dynamic-programming) |
 | 343. Integer Break  |  dp/dp[i] = the maximum product that can be obtained by breaking integer i into smaller  | [url](https://leetcode.com/problems/integer-break/submissions/2009337652/?envType=problem-list-v2&envId=dynamic-programming) |
 | 337. House Robber III  |  tree dp/ rob,not rob  | [url](https://leetcode.com/problems/house-robber-iii/submissions/2009335581/?envType=problem-list-v2&envId=dynamic-programming) |
