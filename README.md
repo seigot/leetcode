@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 264. Ugly Number II  |  original/Triple pointer   | [url](https://leetcode.com/problems/ugly-number-ii/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 241. Different Ways to Add Parentheses  |  dfs/defaultdict   | [url](https://leetcode.com/problems/different-ways-to-add-parentheses/submissions/2008793766/?envType=problem-list-v2&envId=dynamic-programming) |
 | 213. House Robber II  |  dp (2 types of search)   | [url](https://leetcode.com/problems/house-robber-ii/?envType=problem-list-v2&envId=dynamic-programming) |
 | 131. Palindrome Partitioning  |  bitmask brute-force   | [url](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=dynamic-programming) |
