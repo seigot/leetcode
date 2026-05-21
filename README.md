@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 279. Perfect Squares  |  dp/the number of value to consist of the target number.  | [url](https://leetcode.com/problems/perfect-squares/submissions/2009330081/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3043. Find the Length of the Longest Common Prefix  |  set()/brute force  | [url](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/submissions/2009281113/) |
 | 313. Super Ugly Number  |  greedy  | [url](https://leetcode.com/problems/super-ugly-number/submissions/2008830858/?envType=problem-list-v2&envId=dynamic-programming) |
 | 309. Best Time to Buy and Sell Stock with Cooldown  |  greedy  | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/2008828906/?envType=problem-list-v2&envId=dynamic-programming) |
