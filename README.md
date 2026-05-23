@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 413. Arithmetic Slices  |  greedy  | [url](https://leetcode.com/problems/arithmetic-slices/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 397. Integer Replacement  |  greedy  | [url](https://leetcode.com/problems/integer-replacement/submissions/2011118717/?envType=problem-list-v2&envId=dynamic-programming) |
 | 375. Guess Number Higher or Lower II  |  Interval DP / Minimax Interval DP  | [url](https://leetcode.com/problems/guess-number-higher-or-lower-ii/submissions/2009352023/?envType=problem-list-v2&envId=dynamic-programming) |
 | 357. Count Numbers with Unique Digits  |  brute foece  | [url](https://leetcode.com/problems/count-numbers-with-unique-digits/submissions/2009340184/?envType=problem-list-v2&envId=dynamic-programming) |
