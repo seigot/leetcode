@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 464. Can I Win  |  Minimax + DFS + Memoization  | [url](https://leetcode.com/problems/can-i-win/submissions/2011146908/?envType=problem-list-v2&envId=dynamic-programming) |
 | 467. Unique Substrings in Wraparound String  |  dp/unique subsequence number  | [url](https://leetcode.com/problems/unique-substrings-in-wraparound-string/submissions/2011144192/?envType=problem-list-v2&envId=dynamic-programming) |
 | 413. Arithmetic Slices  |  greedy  | [url](https://leetcode.com/problems/arithmetic-slices/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 397. Integer Replacement  |  greedy  | [url](https://leetcode.com/problems/integer-replacement/submissions/2011118717/?envType=problem-list-v2&envId=dynamic-programming) |
