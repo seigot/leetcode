@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 329. Longest Increasing Path in a Matrix |  Topological DP | [url](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2012064700/?envType=problem-list-v2&envId=dynamic-programming) |
 | 312. Burst Balloons |  Interval DP | [url](https://leetcode.com/problems/burst-balloons/submissions/2012054241/?envType=problem-list-v2&envId=dynamic-programming) |
 | 233. Number of Digit One |  Digit Counting (count the number of 1s at each place value) | [url](https://leetcode.com/problems/number-of-digit-one/submissions/2012045983/?envType=problem-list-v2&envId=dynamic-programming) |
 | 188. Best Time to Buy and Sell Stock IV |  Dynamic Programming (Transaction-based State DP) | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/2011957397/?envType=problem-list-v2&envId=dynamic-programming) |
