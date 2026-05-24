@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 576. Out of Boundary Paths  |  BFS  | [url](https://leetcode.com/problems/out-of-boundary-paths/submissions/2011217208/?envType=problem-list-v2&envId=dynamic-programming) |
 | 553. Optimal Division  |  O(1)  | [url](https://leetcode.com/problems/optimal-division/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1340. Jump Game V  |  dfs  | [url](https://leetcode.com/problems/jump-game-v/submissions/2011213721/) |
 | 526. Beautiful Arrangement  |  bitmask DP  | [url](https://leetcode.com/problems/beautiful-arrangement/description/?envType=problem-list-v2&envId=dynamic-programming) |
