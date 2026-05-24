@@ -194,6 +194,9 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 526. Beautiful Arrangement  |  bitmask DP  | [url](https://leetcode.com/problems/beautiful-arrangement/description/?envType=problem-list-v2&envId=dynamic-programming) |
+| 518. Coin Change II  |  Unbounded Knapsack DP  | [url](https://leetcode.com/problems/coin-change-ii/submissions/2011211086/?envType=problem-list-v2&envId=dynamic-programming) |
+| 516. Longest Palindromic Subsequence  |  Interval DP  | [url](https://leetcode.com/problems/longest-palindromic-subsequence/?envType=problem-list-v2&envId=dynamic-programming) |
 | 486. Predict the Winner  |  MinMax  | [url](https://leetcode.com/problems/predict-the-winner/submissions/2011209260/?envType=problem-list-v2&envId=dynamic-programming) |
 | 473. Matchsticks to Square  |  Bitmask DP  | [url](https://leetcode.com/problems/matchsticks-to-square/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 464. Can I Win  |  Minimax + DFS + Memoization  | [url](https://leetcode.com/problems/can-i-win/submissions/2011146908/?envType=problem-list-v2&envId=dynamic-programming) |
