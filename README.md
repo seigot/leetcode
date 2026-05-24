@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 466. Count The Repetitions |  Repeated subsequence matching with cycle detection | [url](https://leetcode.com/problems/count-the-repetitions/?envType=problem-list-v2&envId=dynamic-programming) |
+| 466. Count The Repetitions |  Repeated subsequence matching with cycle detection | [url](https://leetcode.com/problems/count-the-repetitions/submissions/2012088088/?envType=problem-list-v2&envId=dynamic-programming) |
 | 472. Concatenated Words |  Word Break DP | [url](https://leetcode.com/problems/concatenated-words/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 410. Split Array Largest Sum |  binary search | [url](https://leetcode.com/problems/split-array-largest-sum/submissions/2012077107/?envType=problem-list-v2&envId=dynamic-programming) |
 | 403. Frog Jump |  DP with reachable jump sizes per stone, Jump forward | [url](https://leetcode.com/problems/frog-jump/submissions/2012075926/?envType=problem-list-v2&envId=dynamic-programming) |
