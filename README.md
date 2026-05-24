@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1340. Jump Game V  |  dfs  | [url](https://leetcode.com/problems/jump-game-v/submissions/2011213721/) |
 | 526. Beautiful Arrangement  |  bitmask DP  | [url](https://leetcode.com/problems/beautiful-arrangement/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 518. Coin Change II  |  Unbounded Knapsack DP  | [url](https://leetcode.com/problems/coin-change-ii/submissions/2011211086/?envType=problem-list-v2&envId=dynamic-programming) |
 | 516. Longest Palindromic Subsequence  |  Interval DP  | [url](https://leetcode.com/problems/longest-palindromic-subsequence/?envType=problem-list-v2&envId=dynamic-programming) |
