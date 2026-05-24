@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 410. Split Array Largest Sum |  binary search | [url](https://leetcode.com/problems/split-array-largest-sum/submissions/2012077107/?envType=problem-list-v2&envId=dynamic-programming) |
 | 403. Frog Jump |  DP with reachable jump sizes per stone, Jump forward | [url](https://leetcode.com/problems/frog-jump/submissions/2012075926/?envType=problem-list-v2&envId=dynamic-programming) |
 | 354. Russian Doll Envelopes |  sort+Longest Increasing Subsequence | [url](https://leetcode.com/problems/russian-doll-envelopes/submissions/2012070348/?envType=problem-list-v2&envId=dynamic-programming) |
 | 329. Longest Increasing Path in a Matrix |  Topological DP | [url](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/submissions/2012064700/?envType=problem-list-v2&envId=dynamic-programming) |
