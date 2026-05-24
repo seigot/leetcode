@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 647. Palindromic Substrings |  Expand Around Center | [url](https://leetcode.com/problems/palindromic-substrings/submissions/2012096622/?envType=problem-list-v2&envId=dynamic-programming) |
 | 458. Poor Pigs |  state | [url](https://leetcode.com/problems/poor-pigs/submissions/2012089485/?envType=problem-list-v2&envId=dynamic-programming) |
 | 466. Count The Repetitions |  Repeated subsequence matching with cycle detection | [url](https://leetcode.com/problems/count-the-repetitions/submissions/2012088088/?envType=problem-list-v2&envId=dynamic-programming) |
 | 472. Concatenated Words |  Word Break DP | [url](https://leetcode.com/problems/concatenated-words/description/?envType=problem-list-v2&envId=dynamic-programming) |
