@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 646. Maximum Length of Pair Chain  |  greedy chain  | [url](https://leetcode.com/problems/maximum-length-of-pair-chain/submissions/2011224291/?envType=problem-list-v2&envId=dynamic-programming) |
+| 638. Shopping Offers  |  DFS with Memoization  | [url](https://leetcode.com/problems/shopping-offers/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 583. Delete Operation for Two Strings  |  lcs  | [url](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/2011218499/?envType=problem-list-v2&envId=dynamic-programming) |
 | 576. Out of Boundary Paths  |  BFS  | [url](https://leetcode.com/problems/out-of-boundary-paths/submissions/2011217208/?envType=problem-list-v2&envId=dynamic-programming) |
 | 553. Optimal Division  |  O(1)  | [url](https://leetcode.com/problems/optimal-division/description/?envType=problem-list-v2&envId=dynamic-programming) |
