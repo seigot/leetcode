@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 140. Word Break II |  dp[] / dp[i] = all valid sentences that can form s[:i] (the first i characters | [url](https://leetcode.com/problems/word-break-ii/submissions/2011914048/?envType=problem-list-v2&envId=dynamic-programming) |
 | 132. Palindrome Partitioning II |  palindrome[j][i]　/ dp | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/2011893786/?envType=problem-list-v2&envId=dynamic-programming) |
 | 123. Best Time to Buy and Sell Stock III  |  dp / accumlated sum | [url](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/2011893786/?envType=problem-list-v2&envId=dynamic-programming) |
 | 115. Distinct Subsequences  |  dp, string from backward  | [url](https://leetcode.com/problems/distinct-subsequences/submissions/2011526897/?envType=problem-list-v2&envId=dynamic-programming) |
