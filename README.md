@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 32. Longest Valid Parentheses  |  stack  | [url](https://leetcode.com/problems/longest-valid-parentheses/submissions/2011224784/?envType=problem-list-v2&envId=dynamic-programming) |
 | 646. Maximum Length of Pair Chain  |  greedy chain  | [url](https://leetcode.com/problems/maximum-length-of-pair-chain/submissions/2011224291/?envType=problem-list-v2&envId=dynamic-programming) |
 | 638. Shopping Offers  |  DFS with Memoization  | [url](https://leetcode.com/problems/shopping-offers/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 583. Delete Operation for Two Strings  |  lcs  | [url](https://leetcode.com/problems/delete-operation-for-two-strings/submissions/2011218499/?envType=problem-list-v2&envId=dynamic-programming) |
