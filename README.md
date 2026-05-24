@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 115. Distinct Subsequences  |  dp  | [url](https://leetcode.com/problems/distinct-subsequences/submissions/2011526897/?envType=problem-list-v2&envId=dynamic-programming) |
 | 87. Scramble String  |  recursive call  | [url](https://leetcode.com/problems/scramble-string/submissions/2011398993/?envType=problem-list-v2&envId=dynamic-programming) |
 | 44. Wildcard Matching  |  dp, string  | [url](https://leetcode.com/problems/wildcard-matching/submissions/2011245368/?envType=problem-list-v2&envId=dynamic-programming) |
 | 10. Regular Expression Matching  |  dp, 2 dimension  | [url](https://leetcode.com/problems/regular-expression-matching/submissions/2011229226/?envType=problem-list-v2&envId=dynamic-programming) |
