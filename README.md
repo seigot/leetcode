@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3120. Count the Number of Special Characters I |  defaultdict / c.lower | [url](https://leetcode.com/problems/count-the-number-of-special-characters-i/) |
 | 472. Concatenated Words |  DP / consecutive word[j:i] | [url](https://leetcode.com/problems/concatenated-words/submissions/2012287338/?envType=problem-list-v2&envId=dynamic-programming) |
 | 647. Palindromic Substrings |  Expand Around Center | [url](https://leetcode.com/problems/palindromic-substrings/submissions/2012096622/?envType=problem-list-v2&envId=dynamic-programming) |
 | 458. Poor Pigs |  state | [url](https://leetcode.com/problems/poor-pigs/submissions/2012089485/?envType=problem-list-v2&envId=dynamic-programming) |
