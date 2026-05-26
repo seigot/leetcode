@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 600. Non-negative Integers without Consecutive Ones |  Digit D＋ Fibonacci | [url](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/?envType=problem-list-v2&envId=dynamic-programming) |
+| 639. Decode Ways II |  2 types of transition | [url](https://leetcode.com/problems/decode-ways-ii/submissions/2013308177/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3120. Count the Number of Special Characters I |  defaultdict / c.lower | [url](https://leetcode.com/problems/count-the-number-of-special-characters-i/) |
 | 472. Concatenated Words |  DP / consecutive word[j:i] | [url](https://leetcode.com/problems/concatenated-words/submissions/2012287338/?envType=problem-list-v2&envId=dynamic-programming) |
 | 647. Palindromic Substrings |  Expand Around Center | [url](https://leetcode.com/problems/palindromic-substrings/submissions/2012096622/?envType=problem-list-v2&envId=dynamic-programming) |
