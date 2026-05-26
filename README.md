@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 664. Strange Printer |  interval DP / dfs | [url](https://leetcode.com/problems/strange-printer/submissions/2013767302/?envType=problem-list-v2&envId=dynamic-programming) |
 | 730. Count Different Palindromic Subsequences |  interval DP | [url](https://leetcode.com/problems/count-different-palindromic-subsequences/submissions/2013361893/?envType=problem-list-v2&envId=dynamic-programming) |
 | 600. Non-negative Integers without Consecutive Ones |  Digit D＋ Fibonacci | [url](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 639. Decode Ways II |  2 types of transition | [url](https://leetcode.com/problems/decode-ways-ii/submissions/2013308177/?envType=problem-list-v2&envId=dynamic-programming) |
