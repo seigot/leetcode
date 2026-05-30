@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3161. Block Placement Queries |  update only the portions affected by inserting a new obstacle | [url](https://leetcode.com/problems/block-placement-queries/submissions/2017512617/) |
 | 741. Cherry Pickup |  DP | [url](https://leetcode.com/problems/cherry-pickup/description/?envType=problem-list-v2&envId=dynamic-programming) |
 | 801. Minimum Swaps To Make Sequences Increasing |  DP | [url](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/submissions/2016687919/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3093. Longest Common Suffix Queries |  Tri Tree | [url](https://leetcode.com/problems/longest-common-suffix-queries/submissions/2016089293/) |
