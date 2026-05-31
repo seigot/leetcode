@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2126. Destroying Asteroids |  sort | [url](https://leetcode.com/problems/destroying-asteroids/submissions/2018382835/) |
 | 688. Knight Probability in Chessboard |  dp / probability | [url](https://leetcode.com/problems/knight-probability-in-chessboard/submissions/2017847068/?envType=problem-list-v2&envId=dynamic-programming) |
 | 678. Valid Parenthesis String |  dp / O(n) | [url](https://leetcode.com/problems/valid-parenthesis-string/submissions/2017843013/?envType=problem-list-v2&envId=dynamic-programming) |
 | 673. Number of Longest Increasing Subsequence |  dp / LIS | [url](https://leetcode.com/problems/number-of-longest-increasing-subsequence/submissions/2017823791/?envType=problem-list-v2&envId=dynamic-programming) |
