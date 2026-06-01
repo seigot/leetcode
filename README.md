@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 887. Super Egg Drop |  Inverse DP / Reverse DP  | [url](https://leetcode.com/problems/super-egg-drop/submissions/2018568607/?envType=problem-list-v2&envId=dynamic-programming) |
 | 902. Numbers At Most N Given Digit Set |  digit DP  | [url](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/?envType=problem-list-v2&envId=dynamic-programming) |
 | 871. Minimum Number of Refueling Stops |  greedy / heapq  | [url](https://leetcode.com/problems/minimum-number-of-refueling-stops/?envType=problem-list-v2&envId=dynamic-programming) |
 | 834. Sum of Distances in Tree |  Tree / Re-rooting DP  | [url](https://leetcode.com/problems/sum-of-distances-in-tree/?envType=problem-list-v2&envId=dynamic-programming) |
