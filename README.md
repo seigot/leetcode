@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 871. Minimum Number of Refueling Stops |  greedy / heapq  | [url](https://leetcode.com/problems/minimum-number-of-refueling-stops/?envType=problem-list-v2&envId=dynamic-programming) |
 | 834. Sum of Distances in Tree |  Tree / Re-rooting DP  | [url](https://leetcode.com/problems/sum-of-distances-in-tree/?envType=problem-list-v2&envId=dynamic-programming) |
 | 847. Shortest Path Visiting All Nodes |  BFS / bitMask  | [url](https://leetcode.com/problems/shortest-path-visiting-all-nodes/submissions/2018550239/?envType=problem-list-v2&envId=dynamic-programming) |
 | 828. Count Unique Characters of All Substrings of a Given String |  Count contributions  | [url](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/submissions/2018470537/?envType=problem-list-v2&envId=dynamic-programming) |
