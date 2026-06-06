@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3635. Earliest Finish Time for Land and Water Rides II |  Prefix,Suffix / BinarySearch  | [url](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/submissions/2024628690/) |
 | 903. Valid Permutations for DI Sequence |  DP / rank  | [url](https://leetcode.com/problems/valid-permutations-for-di-sequence/submissions/2018825984/?envType=problem-list-v2&envId=dynamic-programming) |
 | 913. Cat and Mouse |  DP / Backward Propagation of Game Outcomes  | [url](https://leetcode.com/problems/cat-and-mouse/submissions/2018812980/?envType=problem-list-v2&envId=dynamic-programming) |
 | 940. Distinct Subsequences II |  DP  | [url](https://leetcode.com/problems/distinct-subsequences-ii/?envType=problem-list-v2&envId=dynamic-programming) |
