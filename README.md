@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3753. Total Waviness of Numbers in Range II |  BitDP  | [url](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/submissions/2024646296/) |
 | 2574. Left and Right Sum Differences |  sum  | [url](https://leetcode.com/problems/left-and-right-sum-differences/submissions/2024635035/) |
 | 3635. Earliest Finish Time for Land and Water Rides II |  Prefix,Suffix / BinarySearch  | [url](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/submissions/2024628690/) |
 | 903. Valid Permutations for DI Sequence |  DP / rank  | [url](https://leetcode.com/problems/valid-permutations-for-di-sequence/submissions/2018825984/?envType=problem-list-v2&envId=dynamic-programming) |
