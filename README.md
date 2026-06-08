@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2161. Partition Array According to Given Pivot |  list  | [url](https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/2025808523/) |
 | 956. Tallest Billboard |  Difference DP  | [url](https://leetcode.com/problems/tallest-billboard/?envType=problem-list-v2&envId=dynamic-programming) |
 | 943. Find the Shortest Superstring |  string / BitDP / brute force  | [url](https://leetcode.com/problems/find-the-shortest-superstring/submissions/2024785351/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3753. Total Waviness of Numbers in Range II |  BitDP  | [url](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/submissions/2024646296/) |
