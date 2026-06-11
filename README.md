@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3558. Number of Ways to Assign Edge Weights I |  BFS  | [url](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/) |
 | 2161. Partition Array According to Given Pivot |  list  | [url](https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/2025808523/) |
 | 956. Tallest Billboard |  Difference DP  | [url](https://leetcode.com/problems/tallest-billboard/?envType=problem-list-v2&envId=dynamic-programming) |
 | 943. Find the Shortest Superstring |  string / BitDP / brute force  | [url](https://leetcode.com/problems/find-the-shortest-superstring/submissions/2024785351/?envType=problem-list-v2&envId=dynamic-programming) |
