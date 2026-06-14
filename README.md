@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 968. Binary Tree Cameras |  dfs, dp  | [url](https://leetcode.com/problems/binary-tree-cameras/?envType=problem-list-v2&envId=dynamic-programming) |
 | 975. Odd Even Jump |  odd,even,dp  | [url](https://leetcode.com/problems/odd-even-jump/submissions/2033172227/?envType=problem-list-v2&envId=dynamic-programming) |
 | 996. Number of Squareful Arrays |  squared, bfs, Counter  | [url](https://leetcode.com/problems/number-of-squareful-arrays/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3838. Weighted Word Mapping |  ord('a'),chr('a'),for,mod | [url](https://leetcode.com/problems/weighted-word-mapping/submissions/2033063406/) |
