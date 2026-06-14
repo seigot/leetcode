@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 996. Number of Squareful Arrays |  squared, bfs, Counter  | [url](https://leetcode.com/problems/number-of-squareful-arrays/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3838. Weighted Word Mapping |  ord('a'),chr('a'),for,mod | [url](https://leetcode.com/problems/weighted-word-mapping/submissions/2033063406/) |
 | 2130. Maximum Twin Sum of a Linked List |  LinkedList | [url](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2033062959/) |
 | 3559. Number of Ways to Assign Edge Weights II |  BFS / dp | [url](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/) |
