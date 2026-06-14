@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 964. Least Operators to Express Number |  dp,Digit DP on the base-x representation.  | [url](https://leetcode.com/problems/least-operators-to-express-number/?envType=problem-list-v2&envId=dynamic-programming) |
 | 968. Binary Tree Cameras |  dfs, dp  | [url](https://leetcode.com/problems/binary-tree-cameras/?envType=problem-list-v2&envId=dynamic-programming) |
 | 975. Odd Even Jump |  odd,even,dp  | [url](https://leetcode.com/problems/odd-even-jump/submissions/2033172227/?envType=problem-list-v2&envId=dynamic-programming) |
 | 996. Number of Squareful Arrays |  squared, bfs, Counter  | [url](https://leetcode.com/problems/number-of-squareful-arrays/?envType=problem-list-v2&envId=dynamic-programming) |
