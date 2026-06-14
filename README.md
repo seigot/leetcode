@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1000. Minimum Cost to Merge Stones |  Interval DP  | [url](https://leetcode.com/problems/minimum-cost-to-merge-stones/submissions/2033216018/?envType=problem-list-v2&envId=dynamic-programming) |
 | 960. Delete Columns to Make Sorted III |  2strings, dp  | [url](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/submissions/2033214083/?envType=problem-list-v2&envId=dynamic-programming) |
 | 964. Least Operators to Express Number |  dp,Digit DP on the base-x representation.  | [url](https://leetcode.com/problems/least-operators-to-express-number/?envType=problem-list-v2&envId=dynamic-programming) |
 | 968. Binary Tree Cameras |  dfs, dp  | [url](https://leetcode.com/problems/binary-tree-cameras/?envType=problem-list-v2&envId=dynamic-programming) |
