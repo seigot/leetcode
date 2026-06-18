@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1344. Angle Between Hands of a Clock |  Transform from minutes to angle  | [url](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2037993824/) |
 | 2095. Delete the Middle Node of a Linked List |  fast,slow pointer  | [url](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033285399/) |
 | 1000. Minimum Cost to Merge Stones |  Interval DP  | [url](https://leetcode.com/problems/minimum-cost-to-merge-stones/submissions/2033216018/?envType=problem-list-v2&envId=dynamic-programming) |
 | 960. Delete Columns to Make Sorted III |  2strings, dp  | [url](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/submissions/2033214083/?envType=problem-list-v2&envId=dynamic-programming) |
