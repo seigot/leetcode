@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1840. Maximum Building Height |  Compute the maximum height between restriction points.  | [url](https://leetcode.com/problems/maximum-building-height/submissions/2040195689/) |
 | 1732. Find the Highest Altitude |  max(),gain  | [url](https://leetcode.com/problems/find-the-highest-altitude/submissions/2040194156/) |
 | 1344. Angle Between Hands of a Clock |  Transform from minutes to angle  | [url](https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2037993824/) |
 | 2095. Delete the Middle Node of a Linked List |  fast,slow pointer  | [url](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033285399/) |
