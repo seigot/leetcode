@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3020. Find the Maximum Number of Elements in Subset |  count  | [url](https://leetcode.com/problems/count-subarrays-with-majority-element-i/submissions/2048340309/) |
 | 1833. Maximum Ice Cream Bars |  sort  | [url](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2041468346/) |
 | 1189. Maximum Number of Balloons |  defaultdict  | [url](https://leetcode.com/problems/maximum-number-of-balloons/submissions/2041467149/) |
 | 1840. Maximum Building Height |  Compute the maximum height between restriction points.  | [url](https://leetcode.com/problems/maximum-building-height/submissions/2040195689/) |
