@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1278. Palindrome Partitioning III |  Interval DP  | [url](https://leetcode.com/problems/palindrome-partitioning-iii/submissions/2048589336/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1312. Minimum Insertion Steps to Make a String Palindrome |  Interval DP  | [url](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/submissions/2048631494/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3739. Count Subarrays With Majority Element II |  Fenwick Tree  | [url](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/submissions/2048344777/) |
 | 3020. Find the Maximum Number of Elements in Subset |  Greedy + Counter  | [url](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/submissions/2048342902/) |
