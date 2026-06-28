@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3739. Count Subarrays With Majority Element II |  Fenwick Tree  | [url](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/submissions/2048344777/) |
 | 3020. Find the Maximum Number of Elements in Subset |  Greedy + Counter  | [url](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/submissions/2048342902/) |
 | 1846. Maximum Element After Decreasing and Rearranging |  sort  | [url](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/submissions/2048342001/) |
 | 3020. Find the Maximum Number of Elements in Subset |  count  | [url](https://leetcode.com/problems/count-subarrays-with-majority-element-i/submissions/2048340309/) |
