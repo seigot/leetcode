@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1125. Smallest Sufficient Team |  Bit DP  | [url](https://leetcode.com/problems/smallest-sufficient-team/submissions/2048695701/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1301. Number of Paths with Max Score |  2D DP  | [url](https://leetcode.com/problems/number-of-paths-with-max-score/submissions/2048642833/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1278. Palindrome Partitioning III |  Interval DP  | [url](https://leetcode.com/problems/palindrome-partitioning-iii/submissions/2048589336/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1312. Minimum Insertion Steps to Make a String Palindrome |  Interval DP  | [url](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/submissions/2048631494/?envType=problem-list-v2&envId=dynamic-programming) |
