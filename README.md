@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1223. Dice Roll Simulation |  3D DP  | [url](https://leetcode.com/problems/dice-roll-simulation/submissions/2055154449/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1320. Minimum Distance to Type a Word Using Two Fingers |  State Transition  | [url](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/2055152904/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3620. Network Recovery Pathways |  Topological sort, binary search   | [url](https://leetcode.com/problems/network-recovery-pathways/submissions/2055144885/) |
 | 3286. Find a Safe Walk Through a Grid |  0-1 BFS, O(mn)  | [url](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/submissions/2055138836/) |
