@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1358. Number of Substrings Containing All Three Characters |  DP  | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2055128457/) |
+| 1358. Number of Substrings Containing All Three Characters |  DP,O(n)  | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2055128457/) |
 | 1967. Number of Strings That Appear as Substrings in Word |  Tri-tree  | [url](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/submissions/2055125739/) |
 | 1147. Longest Chunked Palindrome Decomposition |  dfs  | [url](https://leetcode.com/problems/longest-chunked-palindrome-decomposition/submissions/2048700072/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1125. Smallest Sufficient Team |  Bit DP  | [url](https://leetcode.com/problems/smallest-sufficient-team/submissions/2048695701/?envType=problem-list-v2&envId=dynamic-programming) |
