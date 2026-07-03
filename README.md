@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3620. Network Recovery Pathways |  Topological sort, binary search   | [url](https://leetcode.com/problems/network-recovery-pathways/submissions/2055144885/) |
 | 3286. Find a Safe Walk Through a Grid |  0-1 BFS, O(mn)  | [url](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/submissions/2055138836/) |
 | 2812. Find the Safest Path in a Grid |  BFS, Heap  | [url](https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/2055135239/) |
 | 1358. Number of Substrings Containing All Three Characters |  DP,O(n)  | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2055128457/) |
