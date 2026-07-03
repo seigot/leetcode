@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3286. Find a Safe Walk Through a Grid |  0-1 BFS  | [url](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/submissions/2055138836/) |
+| 3286. Find a Safe Walk Through a Grid |  0-1 BFS, O(mn)  | [url](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/submissions/2055138836/) |
 | 2812. Find the Safest Path in a Grid |  BFS, Heap  | [url](https://leetcode.com/problems/find-the-safest-path-in-a-grid/submissions/2055135239/) |
 | 1358. Number of Substrings Containing All Three Characters |  DP,O(n)  | [url](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2055128457/) |
 | 1967. Number of Strings That Appear as Substrings in Word |  Tri-tree  | [url](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/submissions/2055125739/) |
