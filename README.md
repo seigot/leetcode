@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1326. Minimum Number of Taps to Open to Water a Garden |  DP,O(n)  | [url](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/submissions/2055267483/?envType=problem-list-v2&envId=dynamic-programming) |
 | 2492. Minimum Score of a Path Between Two Cities |  BFS, min  | [url](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/submissions/2055163870/) |
 | 1187. Make Array Strictly Increasing |  State Transition,dp  | [url](https://leetcode.com/problems/make-array-strictly-increasing/submissions/2055157857/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1223. Dice Roll Simulation |  3D DP, dp[last][cnt], Number of sequences where the last number is `last`, and it has been rolled `cnt` consecutive times.  | [url](https://leetcode.com/problems/dice-roll-simulation/submissions/2055154449/?envType=problem-list-v2&envId=dynamic-programming) |
