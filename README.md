@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1900. The Earliest and Latest Rounds Where Players Compete |  Expand all possible combinations.  | [url](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/submissions/2056280849/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1411. Number of Ways to Paint N × 3 Grid |  Pattern Recognition  | [url](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/submissions/2056270342/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1402. Reducing Dishes |  DP, sort(ascending order) | [url](https://leetcode.com/problems/reducing-dishes/submissions/2056268556/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3957. Maximum Sum of M Non-Overlapping Subarrays II |  - xxx | [url](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/submissions/2056189324/?envType=problem-list-v2&envId=dynamic-programming) |
