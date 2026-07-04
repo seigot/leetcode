@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1187. Make Array Strictly Increasing |  State Transition  | [url](https://leetcode.com/problems/make-array-strictly-increasing/submissions/2055157857/?envType=problem-list-v2&envId=dynamic-programming) |
+| 1187. Make Array Strictly Increasing |  State Transition,dp  | [url](https://leetcode.com/problems/make-array-strictly-increasing/submissions/2055157857/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1223. Dice Roll Simulation |  3D DP, dp[last][cnt], Number of sequences where the last number is `last`, and it has been rolled `cnt` consecutive times.  | [url](https://leetcode.com/problems/dice-roll-simulation/submissions/2055154449/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1320. Minimum Distance to Type a Word Using Two Fingers |  State Transition  | [url](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/submissions/2055152904/?envType=problem-list-v2&envId=dynamic-programming) |
 | 3620. Network Recovery Pathways |  Topological sort, binary search   | [url](https://leetcode.com/problems/network-recovery-pathways/submissions/2055144885/) |
