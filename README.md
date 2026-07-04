@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1359. Count All Valid Pickup and Delivery Options |  number of cases  | [url](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/submissions/2055286360/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1349. Maximum Students Taking Exam |  DP, Bit Full Search  | [url](https://leetcode.com/problems/maximum-students-taking-exam/submissions/2055281260/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1326. Minimum Number of Taps to Open to Water a Garden |  DP,O(n)  | [url](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/submissions/2055267483/?envType=problem-list-v2&envId=dynamic-programming) |
 | 2492. Minimum Score of a Path Between Two Cities |  BFS, min  | [url](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/submissions/2055163870/) |
