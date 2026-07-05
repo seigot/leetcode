@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1406. Stone Game III |  DP, dp[i] = the maximum score difference (current player − opponent) achievable when the game starts from the i-th stone. | [url](https://leetcode.com/problems/stone-game-iii/submissions/2057270512/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons |  DP(cost,max_val),prefix_sum   | [url](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/submissions/2057264218/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1900. The Earliest and Latest Rounds Where Players Compete |  Expand all possible combinations.  | [url](https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/submissions/2056280849/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1411. Number of Ways to Paint N × 3 Grid |  Pattern Recognition  | [url](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/submissions/2056270342/?envType=problem-list-v2&envId=dynamic-programming) |
