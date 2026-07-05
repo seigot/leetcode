@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2305. Fair Distribution of Cookies |  dfs, binary search  | [url](https://leetcode.com/problems/sort-integers-by-the-power-value/submissions/2057325531/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1387. Sort Integers by The Power Value |  memo,sort  | [url](https://leetcode.com/problems/sort-integers-by-the-power-value/submissions/2057325531/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1227. Airplane Seat Assignment Probability |  DP, probability  | [url](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/2057318140/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1155. Number of Dice Rolls With Target Sum |  DP, number*total*face  | [url](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/submissions/2057314901/?envType=problem-list-v2&envId=dynamic-programming) |
