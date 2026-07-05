@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1043. Partition Array for Maximum Sum |  DP, dp[i] = the maximum score obtainable using the subarray arr[0:i].  | [url](https://leetcode.com/problems/partition-array-for-maximum-sum/submissions/2057313073/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1388. Pizza With 3n Slices |  Circle DP  | [url](https://leetcode.com/problems/pizza-with-3n-slices/submissions/2057296081/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1406. Stone Game III |  DP, dp[i] = the maximum score difference (current player − opponent) achievable when the game starts from the i-th stone. | [url](https://leetcode.com/problems/stone-game-iii/submissions/2057270512/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons |  DP(cost,max_val),prefix_sum   | [url](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/submissions/2057264218/?envType=problem-list-v2&envId=dynamic-programming) |
