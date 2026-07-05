@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1130. Minimum Cost Tree From Leaf Values |  interval DP  | [url](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/submissions/2057373013/?envType=problem-list-v2&envId=dynamic-programming) |
 | 2305. Fair Distribution of Cookies |  dfs, binary search  | [url](https://leetcode.com/problems/sort-integers-by-the-power-value/submissions/2057325531/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1387. Sort Integers by The Power Value |  memo,sort  | [url](https://leetcode.com/problems/sort-integers-by-the-power-value/submissions/2057325531/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1227. Airplane Seat Assignment Probability |  DP, probability  | [url](https://leetcode.com/problems/airplane-seat-assignment-probability/submissions/2057318140/?envType=problem-list-v2&envId=dynamic-programming) |
