@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2685. Count the Number of Complete Components |  count the number of edges, vertexes  | [url](https://leetcode.com/problems/count-the-number-of-complete-components/submissions/2064175691/) |
+| 3534. Path Existence Queries in a Graph II |  Binary Lifting  | [url](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/submissions/2064180914/) |
 | 3532. Path Existence Queries in a Graph I |  accumlate sum  | [url](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/submissions/2064163142/) |
 | 3756. Concatenate Non-Zero Digits and Multiply by Sum II |  accumlate sum  | [url](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/submissions/2064149465/) |
 | 1140. Stone Game II |  DP, dp[i] = the maximum score obtainable using the subarray arr[i:].xxx  | [url](https://leetcode.com/problems/stone-game-ii/submissions/2057382907/?envType=problem-list-v2&envId=dynamic-programming) |
