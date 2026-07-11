@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3532. Path Existence Queries in a Graph I |  accumlate sum  | [url](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/submissions/2064163142/) |
+| 3756. Concatenate Non-Zero Digits and Multiply by Sum II |  accumlate sum  | [url](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/submissions/2064149465/) |
 | 1140. Stone Game II |  DP, dp[i] = the maximum score obtainable using the subarray arr[i:].xxx  | [url](https://leetcode.com/problems/stone-game-ii/submissions/2057382907/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1525. Number of Good Ways to Split a String |  Set, Pre-Calculate  | [url](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/submissions/2057381600/?envType=problem-list-v2&envId=dynamic-programming) |
 | 1130. Minimum Cost Tree From Leaf Values |  interval DP  | [url](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/submissions/2057373013/?envType=problem-list-v2&envId=dynamic-programming) |
