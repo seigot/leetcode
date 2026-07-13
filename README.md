@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1291. Sequential Digits |  brute force  | [url](https://leetcode.com/problems/sequential-digits/submissions/2065523301/) |
 | 1331. Rank Transform of an Array |  set/defaultdict/sort  | [url](https://leetcode.com/problems/rank-transform-of-an-array/submissions/2065522464/) |
 | 2685. Count the Number of Complete Components |  count the number of edges, vertexes  | [url](https://leetcode.com/problems/count-the-number-of-complete-components/submissions/2064175691/) |
 | 3534. Path Existence Queries in a Graph II |  Binary Lifting  | [url](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/submissions/2064180914/) |
