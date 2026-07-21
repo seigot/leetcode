@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3312. Sorted GCD Pair Queries |  gcd,sort  | [url](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2076370919/) |
+| 3312. Sorted GCD Pair Queries |  gcd,sort,xxx  | [url](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2076370919/) |
 | 3499. Maximize Active Section with Trade I |  0,1,0  | [url](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2076368244/) |
 | 3867. Sum of GCD of Formed Pairs |  gcd  | [url](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/submissions/2070411707/) |
 | 1291. Sequential Digits |  brute force  | [url](https://leetcode.com/problems/sequential-digits/submissions/2065523301/) |
