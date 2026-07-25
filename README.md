@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3514. Number of Unique XOR Triplets II |  A brute-force approach optimized with a set to reduce redundant computations.  | [url](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/submissions/2081126637/) |
 | 3513. Number of Unique XOR Triplets I |  permutation  | [url](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2081119439/) |
 | 3312. Sorted GCD Pair Queries |  gcd,sort,xxx  | [url](https://leetcode.com/problems/sorted-gcd-pair-queries/submissions/2076370919/) |
 | 3499. Maximize Active Section with Trade I |  0,1,0  | [url](https://leetcode.com/problems/maximize-active-section-with-trade-i/submissions/2076368244/) |
