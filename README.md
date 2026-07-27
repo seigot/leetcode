@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1464. Maximum Product of Two Elements in an Array |  sort()  | [url](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2082631009/) |
 | 3501. Maximize Active Section with Trade II |  Run-Length Encoding + Sparse Table + Binary Search  | [url](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2081143378/) |
 | 3514. Number of Unique XOR Triplets II |  A brute-force approach optimized with a set to reduce redundant computations.  | [url](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/submissions/2081126637/) |
 | 3513. Number of Unique XOR Triplets I |  permutation  | [url](https://leetcode.com/problems/number-of-unique-xor-triplets-i/submissions/2081119439/) |
