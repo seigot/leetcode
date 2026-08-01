@@ -194,6 +194,9 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3518. Smallest Palindromic Rearrangement II |  k-th,Palindromic xx  | [url](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2090482978/) |
+| 3016. Minimum Number of Pushes to Type Word II |  counter  | [url](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2090492678/) |
+| 3014. Minimum Number of Pushes to Type Word I |  counter  | [url](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2090492678/) |
 | 1464. Maximum Product of Two Elements in an Array |  sort()  | [url](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2082631009/) |
 | 3501. Maximize Active Section with Trade II |  Run-Length Encoding + Sparse Table + Binary Search  | [url](https://leetcode.com/problems/maximize-active-section-with-trade-ii/submissions/2081143378/) |
 | 3514. Number of Unique XOR Triplets II |  A brute-force approach optimized with a set to reduce redundant computations.  | [url](https://leetcode.com/problems/number-of-unique-xor-triplets-ii/submissions/2081126637/) |
