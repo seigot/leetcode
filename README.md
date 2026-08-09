@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3310. Remove Methods From Project |  graph  | [url](https://leetcode.com/problems/remove-methods-from-project/submissions/2100654807/) |
 | 3518. Smallest Palindromic Rearrangement II |  k-th,Palindromic xx  | [url](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2090482978/) |
 | 3016. Minimum Number of Pushes to Type Word II |  counter  | [url](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2090492678/) |
 | 3014. Minimum Number of Pushes to Type Word I |  counter  | [url](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/2090492678/) |
