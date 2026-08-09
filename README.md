@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1140. Stone Game II |  dynamic programming  | [url](https://leetcode.com/problems/stone-game-ii/submissions/2100731741/) |
 | 3302. Find the Lexicographically Smallest Valid Sequence |  word matching index management  | [url](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/submissions/2100723778/) |
 | 3310. Remove Methods From Project |  graph  | [url](https://leetcode.com/problems/remove-methods-from-project/submissions/2100654807/) |
 | 3518. Smallest Palindromic Rearrangement II |  k-th,Palindromic xx  | [url](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/submissions/2090482978/) |
