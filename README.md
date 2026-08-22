@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2029. Stone Game IX |  Start with the less common stone and win by the difference in counts.  | [url](https://leetcode.com/problems/stone-game-ix/submissions/2116567942/) |  
 | 3702. Longest Subsequence With Non-Zero Bitwise XOR |  xor  | [url](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/submissions/2116561568/) |  
 | 3471. Find the Largest Almost Missing Integer |  array,set  | [url](https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2116559417/) |  
 | 3069. Distribute Elements Into Two Arrays I |  array  | [url](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/submissions/2116547944/) |  
