@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3069. Distribute Elements Into Two Arrays I |  array  | [url](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/submissions/2116547944/) |  
 | 3622. Check Divisibility by Digit Sum and Product |  sum,product,mod  | [url](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/submissions/2116538935/) |  
 | 2958. Length of Longest Subarray With at Most K Frequency |  Sliding Window  | [url](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/submissions/2104771169/) |  
 | 1510. Stone Game IV |  dynamic programming(n√n)  | [url](https://leetcode.com/problems/stone-game-iv/submissions/2101988025/) |  
