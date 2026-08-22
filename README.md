@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3116. Kth Smallest Amount With Single Denomination Combination |  binary search  | [url](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/submissions/2116594759/) |
 | 1386. Cinema Seat Allocation |  brute force  | [url](https://leetcode.com/problems/cinema-seat-allocation/submissions/2116585431/) |
 | 2029. Stone Game IX |  Start with the less common stone and win by the difference in counts.  | [url](https://leetcode.com/problems/stone-game-ix/submissions/2116567942/) |  
 | 3702. Longest Subsequence With Non-Zero Bitwise XOR |  xor  | [url](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/submissions/2116561568/) |  
