@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 1872. Stone Game VIII |  best / max  | [url](https://leetcode.com/problems/stone-game-viii/submissions/2118882473/) |
+| 1872. Stone Game VIII |  best / max / accumulated sum | [url](https://leetcode.com/problems/stone-game-viii/submissions/2118882473/) |
 | 1927. Sum Game |  Expected value calculation  | [url](https://leetcode.com/problems/sum-game/submissions/2117714993/) |
 | 1563. Stone Game V |  Interval DP, Prefix Sum  | [url](https://leetcode.com/problems/stone-game-v/submissions/2116600276/) |
 | 3116. Kth Smallest Amount With Single Denomination Combination |  Inclusion-Exclusion Principl,binary search  | [url](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/submissions/2116594759/) |
