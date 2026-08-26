@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2904. Shortest and Lexicographically Smallest Beautiful String |  location index list  | [url](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/submissions/2120322932/) |
 | 1872. Stone Game VIII |  best / max / accumulated sum | [url](https://leetcode.com/problems/stone-game-viii/submissions/2118882473/) |
 | 1927. Sum Game |  Expected value calculation  | [url](https://leetcode.com/problems/sum-game/submissions/2117714993/) |
 | 1563. Stone Game V |  Interval DP, Prefix Sum  | [url](https://leetcode.com/problems/stone-game-v/submissions/2116600276/) |
