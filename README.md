@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2948. Make Lexicographically Smallest Array by Swapping Elements |  sort, grouping  | [url](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/submissions/2124379588/) |
 | 3720. Lexicographically Smallest Permutation Greater Than Target |  brute force  | [url](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/submissions/2121423830/) |
 | 2904. Shortest and Lexicographically Smallest Beautiful String |  location index list  | [url](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/submissions/2120322932/) |
 | 1872. Stone Game VIII |  best / max / accumulated sum | [url](https://leetcode.com/problems/stone-game-viii/submissions/2118882473/) |
