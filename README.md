@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3876. Construct Uniform Parity Array II |  Logic | [url](https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129166010/) |
 | 3568. Minimum Moves to Clean the Classroom |  BFS/ state management(max_energy[nr][nc][next_mask] = next_energy) | [url](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/submissions/2128904851/) |
 | 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points |  local maximum/local minumum  | [url](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/2125731497/) |
 | 2091. Removing Minimum and Maximum From Array |  Brute force (3 patterns)  | [url](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/submissions/2125727270/) |
