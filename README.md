@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3903. Smallest Stable Index I |  accumulated sum  | [url](https://leetcode.com/problems/smallest-stable-index-ii/submissions/2132063210/) |
+| 3904. Smallest Stable Index II |  accumulated sum  | [url](https://leetcode.com/problems/smallest-stable-index-i/submissions/2132063448/) |
 | 3876. Construct Uniform Parity Array II |  Logic | [url](https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129166010/) |
 | 3568. Minimum Moves to Clean the Classroom |  BFS/ state management(max_energy[nr][nc][next_mask] = next_energy) | [url](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/submissions/2128904851/) |
 | 2058. Find the Minimum and Maximum Number of Nodes Between Critical Points |  local maximum/local minumum  | [url](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/submissions/2125731497/) |
