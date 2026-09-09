@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3871. Count Commas in Range II |  generalization  | [url](https://leetcode.com/problems/count-commas-in-range-ii/submissions/2135722814/) |
 | 3903. Smallest Stable Index I |  accumulated sum  | [url](https://leetcode.com/problems/smallest-stable-index-ii/submissions/2132063210/) |
 | 3904. Smallest Stable Index II |  accumulated sum  | [url](https://leetcode.com/problems/smallest-stable-index-i/submissions/2132063448/) |
 | 3876. Construct Uniform Parity Array II |  Logic | [url](https://leetcode.com/problems/construct-uniform-parity-array-ii/submissions/2129166010/) |
