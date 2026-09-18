@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1520. Maximum Number of Non-Overlapping Substrings |  Interval Scheduling Problem / Sort  | [url](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/submissions/2145329270/) |
 | 1621. Number of Sets of K Non-Overlapping Line Segments |  DP  | [url](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/submissions/2144467590/) |
 | 1477. Find Two Non-overlapping Sub-arrays Each With Target Sum |  Dynamic Window  | [url](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/submissions/2144480504/) |
 | 2472. Maximum Number of Non-overlapping Palindrome Substrings |  DP(Palindrome/Length)  | [url](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/submissions/2144519068/) |
