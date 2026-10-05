@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 856. Score of Parentheses |  stack / Parentheses  | [url](https://leetcode.com/problems/score-of-parentheses/submissions/2162622686/) |
 | 1401. Circle and Rectangle Overlapping |  Circle / Rectangle  | [url](https://leetcode.com/problems/circle-and-rectangle-overlapping/submissions/2146285366/) |
 | 1520. Maximum Number of Non-Overlapping Substrings |  Interval Scheduling Problem / Sort  | [url](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/submissions/2145329270/) |
 | 1621. Number of Sets of K Non-Overlapping Line Segments |  DP  | [url](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/submissions/2144467590/) |
