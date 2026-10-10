@@ -194,6 +194,10 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 301. Remove Invalid Parentheses |  bfs/dfs  | [url](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2168523709/) |
+| 2333. Minimum Sum of Squared Difference |  binary search  | [url](https://leetcode.com/problems/minimum-sum-of-squared-difference/submissions/2168513360/) |
+| 921. Minimum Add to Make Parentheses Valid |  balance/additions  | [url](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) |
+| 1021. Remove Outermost Parentheses |  stack  | [url](https://leetcode.com/problems/remove-outermost-parentheses/submissions/2168495887/) |
 | 856. Score of Parentheses |  stack / Parentheses  | [url](https://leetcode.com/problems/score-of-parentheses/submissions/2162622686/) |
 | 1401. Circle and Rectangle Overlapping |  Circle / Rectangle  | [url](https://leetcode.com/problems/circle-and-rectangle-overlapping/submissions/2146285366/) |
 | 1520. Maximum Number of Non-Overlapping Substrings |  Interval Scheduling Problem / Sort  | [url](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/submissions/2145329270/) |
