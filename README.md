@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 301. Remove Invalid Parentheses |  bfs/dfs  | [url](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2168523709/) |
+| 301. Remove Invalid Parentheses |  bfs/dfs, concatenate, queue  | [url](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2168523709/) |
 | 2333. Minimum Sum of Squared Difference |  binary search  | [url](https://leetcode.com/problems/minimum-sum-of-squared-difference/submissions/2168513360/) |
 | 921. Minimum Add to Make Parentheses Valid |  balance/additions  | [url](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) |
 | 1021. Remove Outermost Parentheses |  stack  | [url](https://leetcode.com/problems/remove-outermost-parentheses/submissions/2168495887/) |
