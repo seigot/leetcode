@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2897. Apply Operations on Array to Maximize Sum of Squares  |  Pack as many bits as possible into a single number  | [url](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/submissions/2169772769/) |
 | 2778. Sum of Squares of Special Elements  |  mod  | [url](https://leetcode.com/problems/sum-of-squares-of-special-elements/submissions/2168704130/) |
 | 301. Remove Invalid Parentheses |  bfs/dfs, concatenate, queue  | [url](https://leetcode.com/problems/remove-invalid-parentheses/submissions/2168523709/) |
 | 2333. Minimum Sum of Squared Difference |  binary search  | [url](https://leetcode.com/problems/minimum-sum-of-squared-difference/submissions/2168513360/) |
