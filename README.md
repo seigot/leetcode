@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3727. Maximum Alternating Sum of Squares  |  Sort/Greedy  | [url](https://leetcode.com/problems/maximum-alternating-sum-of-squares/submissions/2174846661/) |
 | 2913. Subarrays Distinct Element Sum of Squares I  |  squared  | [url](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/submissions/2174843743/) |
 | 2897. Apply Operations on Array to Maximize Sum of Squares  |  Pack as many bits as possible into a single number  | [url](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/submissions/2169772769/) |
 | 2778. Sum of Squares of Special Elements  |  mod  | [url](https://leetcode.com/problems/sum-of-squares-of-special-elements/submissions/2168704130/) |
