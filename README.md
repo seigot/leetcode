@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2916. Subarrays Distinct Element Sum of Squares II  |  Segment Tree ＋ Lazy Propagation  | [url](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/submissions/2174858480/) |
 | 3723. Maximize Sum of Squares of Digits  |  Sort/Greedy  | [url](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/submissions/2174847968/) |
 | 3727. Maximum Alternating Sum of Squares  |  Sort/Greedy  | [url](https://leetcode.com/problems/maximum-alternating-sum-of-squares/submissions/2174846661/) |
 | 2913. Subarrays Distinct Element Sum of Squares I  |  squared  | [url](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/submissions/2174843743/) |
