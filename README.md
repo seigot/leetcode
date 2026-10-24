@@ -194,7 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
-| 3886. Sum of Sortable Integers  |  Divisor Enumeration / Min,Max / Circular Sorted  | [url](https://leetcode.com/problems/sum-of-sortable-integers/submissions/2180882695/?envType=daily-question&envId=2026-10-20) |
+| 3886. Sum of Sortable Integers  |  Divisor Enumeration(Use a Prefix Sum to Count Decreases.) / Prefix Max, Suffix Min / Circular Sorted  | [url](https://leetcode.com/problems/sum-of-sortable-integers/submissions/2180882695/?envType=daily-question&envId=2026-10-20) |
 | 1569. Number of Ways to Reorder Array to Get Same BST  |  DFS, combination  | [url](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/submissions/2180888929/?envType=daily-question&envId=2026-10-18) |
 | 2916. Subarrays Distinct Element Sum of Squares II  |  Segment Tree ＋ Lazy Propagation  | [url](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/submissions/2174858480/) |
 | 3723. Maximize Sum of Squares of Digits  |  Sort/Greedy  | [url](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/submissions/2174847968/) |
