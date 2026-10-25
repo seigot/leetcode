@@ -16,7 +16,7 @@ NeetCode
 - LeetCode
 Total solved [url](https://leetcode.com/progress/)  
 Dynamic Programming [url](https://leetcode.com/problem-list/dynamic-programming/)  
---> 500+ solved, 0.5%, 1/Apr/2026 / 900+ solved, 0.1%, 25/Oct/2026
+--> 500+ solved (0.5%) in April 2026, 900+ solved (0.1%) in October 2026.
 
 | easy | medium | hard |
 | --- | --- | --- |
