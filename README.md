@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3970. Shortest Path With At Most K Consecutive Identical Characters  |  dijkstra  | [url](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2186022218/?envType=daily-question&envId=2026-10-30) |
+| 3619. Count Islands With Total Value Divisible by K  |  BFS / division  | [url](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/submissions/2186019671/?envType=daily-question&envId=2026-10-26) |
 | 3886. Sum of Sortable Integers  |  Divisor Enumeration(Use a Prefix Sum to Count Decreases.) / Prefix Max, Suffix Min / Circular Sorted  | [url](https://leetcode.com/problems/sum-of-sortable-integers/submissions/2180882695/?envType=daily-question&envId=2026-10-20) |
 | 1569. Number of Ways to Reorder Array to Get Same BST  |  DFS, combination  | [url](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/submissions/2180888929/?envType=daily-question&envId=2026-10-18) |
 | 2916. Subarrays Distinct Element Sum of Squares II  |  Segment Tree ＋ Lazy Propagation  | [url](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/submissions/2174858480/) |
