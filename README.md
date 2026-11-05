@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 1385. Find the Distance Value Between Two Arrays  |  for/abs  | [url](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/submissions/2189902349/) |
 | 462. Minimum Moves to Equal Array Elements II  |  median  | [url](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187427556/) |
 | 453. Minimum Moves to Equal Array Elements  |  min_v  | [url](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/2187426643/) |
 | 3970. Shortest Path With At Most K Consecutive Identical Characters  |  dijkstra  | [url](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/submissions/2186022218/?envType=daily-question&envId=2026-10-30) |
