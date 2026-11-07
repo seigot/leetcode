@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2747. Count Zero Request Servers  |  heapq  | [url](https://leetcode.com/problems/count-zero-request-servers/submissions/2191169196/) |
+| 1882. Process Tasks Using Servers  |  heapq  | [url](https://leetcode.com/problems/process-tasks-using-servers/submissions/2191157025/) |
 | 1385. Find the Distance Value Between Two Arrays  |  for/abs  | [url](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/submissions/2189902349/) |
 | 462. Minimum Moves to Equal Array Elements II  |  median  | [url](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/2187427556/) |
 | 453. Minimum Moves to Equal Array Elements  |  min_v  | [url](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/submissions/2187426643/) |
