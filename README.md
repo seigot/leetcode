@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3693. Climbing Stairs II  |  dynamic programming  | [url](https://leetcode.com/problems/climbing-stairs-ii/submissions/2194177259/) |
 | 1267. Count Servers that Communicate  |  for  | [url](https://leetcode.com/problems/count-servers-that-communicate/submissions/2191714586/) |
 | 2747. Count Zero Request Servers  |  heapq  | [url](https://leetcode.com/problems/count-zero-request-servers/submissions/2191169196/) |
 | 1882. Process Tasks Using Servers  |  heapq  | [url](https://leetcode.com/problems/process-tasks-using-servers/submissions/2191157025/) |
