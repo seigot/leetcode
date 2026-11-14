@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3420. Count Non-Decreasing Subarrays After K Operations   |  Sliding Window/Monotonic Deque  | [url](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2196157356/) |
 | 3364. Minimum Positive Sum Subarray   |  for/min  | [url](https://leetcode.com/problems/minimum-positive-sum-subarray/submissions/2196156110/) |
 | 3789. Minimum Cost to Acquire Required Items  |  greedy  | [url](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/submissions/2194178920/) |
 | 3693. Climbing Stairs II  |  dynamic programming  | [url](https://leetcode.com/problems/climbing-stairs-ii/submissions/2194177259/) |
