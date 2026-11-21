@@ -194,6 +194,8 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3331. Find Subtree Sizes After Changes  |  DFS  | [url](https://leetcode.com/problems/find-subtree-sizes-after-changes/submissions/2200772487/) |
+| 2567. Minimum Score by Changing Two Elements  |  Brute Force  | [url](https://leetcode.com/problems/minimum-score-by-changing-two-elements/submissions/2200779622/) |
 | 2243. Calculate Digit Sum of a String  |  for/int,str  | [url](https://leetcode.com/problems/calculate-digit-sum-of-a-string/submissions/2196987267/) |
 | 1524. Number of Sub-arrays With Odd Sum  |  dynamic programming  | [url](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/submissions/2196334951/) |
 | 3420. Count Non-Decreasing Subarrays After K Operations   |  Sliding Window/Monotonic Deque  | [url](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/submissions/2196157356/) |
