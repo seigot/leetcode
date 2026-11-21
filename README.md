@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2911. Minimum Changes to Make K Semi-palindromes  |  Partition DP  | [url](https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/submissions/2200791846/) |
 | 3041. Maximize Consecutive Elements in an Array After Modification  |  dp  | [url](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/submissions/2200784860/) |
 | 2914. Minimum Number of Changes to Make Binary String Beautiful  |  Brute Force  | [url](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/2200781473/) |
 | 3331. Find Subtree Sizes After Changes  |  DFS  | [url](https://leetcode.com/problems/find-subtree-sizes-after-changes/submissions/2200772487/) |
