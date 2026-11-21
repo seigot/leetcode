@@ -194,6 +194,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 2914. Minimum Number of Changes to Make Binary String Beautiful  |  Brute Force  | [url](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/2200781473/) |
 | 3331. Find Subtree Sizes After Changes  |  DFS  | [url](https://leetcode.com/problems/find-subtree-sizes-after-changes/submissions/2200772487/) |
 | 2567. Minimum Score by Changing Two Elements  |  Brute Force  | [url](https://leetcode.com/problems/minimum-score-by-changing-two-elements/submissions/2200779622/) |
 | 2243. Calculate Digit Sum of a String  |  for/int,str  | [url](https://leetcode.com/problems/calculate-digit-sum-of-a-string/submissions/2196987267/) |
