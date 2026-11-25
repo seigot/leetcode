@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Divide Array Into Increasing Sequences | Greedy | [url](-) |  |
 | Maximize the Beauty of the Garden | Prefix Sum + Hash Map | [url](-) |  |
 | Optimize Water Distribution in a Village | Minimum Spanning Tree (MST) with a Virtual Node | [url](-) |  |
 | Maximum Cost of Trip With K Highways | Dynamic programming that uses the current city and the set of visited cities as the state and tracks the maximum cumulative cost. | [url](-) |  |
