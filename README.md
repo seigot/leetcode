@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Cost of Trip With K Highways | Dynamic programming that uses the current city and the set of visited cities as the state and tracks the maximum cumulative cost. | [url](-) |  |
 | Paint House II | A DP that uses the minimum and second minimum from the previous row for each house; define dp[i][c] as the minimum cost to paint houses 0..i with house i painted color c. | [url](-) |  |
 | Minimize Max Distance to Gas Station | Heap(gap/parts)/Binary Search | [url](-) |  |
 | New 21 Game | Probability DP with sliding window | [url](-) |  |
