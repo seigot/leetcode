@@ -20,7 +20,7 @@ Dynamic Programming [url](https://leetcode.com/problem-list/dynamic-programming/
 
 | easy | medium | hard |
 | --- | --- | --- |
-| 189 | 490 | 244 |
+| 190 | 490 | 245 |
 
 - NeetCode
 Total solved [url_neetcode250](https://neetcode.io/practice/practice/neetcode250)  
