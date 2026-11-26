@@ -210,6 +210,7 @@ LeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| 3360. Stone Removal Game  |  simulation  | [url](https://leetcode.com/problems/stone-removal-game/submissions/2203641093/) |
 | 3934. Smallest Unique Subarray  |  Rolling hash/Binary search/default dict  | [url](https://leetcode.com/problems/smallest-unique-subarray/submissions/2203476466/) |
 | 1352. Product of the Last K Numbers  |  accumulated sum/zero position  | [url](https://leetcode.com/problems/product-of-the-last-k-numbers/submissions/2203473508/) |
 | 3411. Maximum Subarray With Equal Products  |  for/if  | [url](https://leetcode.com/problems/maximum-subarray-with-equal-products/submissions/2203455233/) |
