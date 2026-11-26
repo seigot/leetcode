@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Number of Non-overlapping Palindrome Substrings | search in range[k,k+1] | [url](-) |  |
 | Sum Of Special Evenly-Spaced Elements In Array | Squared N / DP | [url](-) |  |
 | Make Array Non-decreasing or Non-increasing | DP / heap | [url](-) |  |
 | Minimum Time for K Virus Variants to Spread | BFS + Counter | [url](-) |  |
