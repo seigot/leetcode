@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Maximum Vacation Days | Dynamic Programming on Graphs | [url](-) |  |
 | Minimum Window Subsequence | dp | [url](-) |  |
 | Palindrome Removal | Interval dp | [url](-) |  |
 | The Most Similar Path in a Graph | dp, reconstruction | [url](-) |  |
