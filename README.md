@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Amount of New Area Painted Each Day | Union Find | [url](-) |  |
 | Divide Array Into Increasing Sequences | Greedy | [url](-) |  |
 | Maximize the Beauty of the Garden | Prefix Sum + Hash Map | [url](-) |  |
 | Optimize Water Distribution in a Village | Minimum Spanning Tree (MST) with a Virtual Node | [url](-) |  |
