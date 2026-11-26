@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Minimum Window Subsequence | dp | [url](-) |  |
 | Palindrome Removal | Interval dp | [url](-) |  |
 | The Most Similar Path in a Graph | dp, reconstruction | [url](-) |  |
 | Count Ways to Distribute Candies | 2d dp | [url](-) |  |
