@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Minimum Time for K Virus Variants to Spread | BFS + Counter | [url](-) |  |
 | Amount of New Area Painted Each Day | Union Find / Disjoint set | [url](-) |  |
 | Divide Array Into Increasing Sequences | Greedy | [url](-) |  |
 | Maximize the Beauty of the Garden | Prefix Sum + Hash Map | [url](-) |  |
