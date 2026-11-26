@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Sum Of Special Evenly-Spaced Elements In Array | Squared N / DP | [url](-) |  |
 | Make Array Non-decreasing or Non-increasing | DP / heap | [url](-) |  |
 | Minimum Time for K Virus Variants to Spread | BFS + Counter | [url](-) |  |
 | Amount of New Area Painted Each Day | Union Find / Disjoint set | [url](-) |  |
