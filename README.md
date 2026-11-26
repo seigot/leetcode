@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Palindrome Removal | Interval dp | [url](-) |  |
 | The Most Similar Path in a Graph | dp, reconstruction | [url](-) |  |
 | Count Ways to Distribute Candies | 2d dp | [url](-) |  |
 | Choose Numbers From Two Arrays in Range | dp + diff Management | [url](-) |  |
