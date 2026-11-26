@@ -29,7 +29,7 @@ NeetCode all [url](https://neetcode.io/practice/practice/allNC)
   
 | easy | medium | hard |
 | --- | --- | --- |
-| 26/241 | 52/702 | 149/183 |
+| 26/241 | 52/702 | 186/186 |
 
 --
 | - | - | [url](-) |  |
