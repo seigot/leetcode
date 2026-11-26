@@ -40,6 +40,7 @@ NeetCode
 
 | No. | 概要 | url | 備考 |
 | --- | --- | --- | --- |
+| Make Array Non-decreasing or Non-increasing | DP / heap | [url](-) |  |
 | Minimum Time for K Virus Variants to Spread | BFS + Counter | [url](-) |  |
 | Amount of New Area Painted Each Day | Union Find / Disjoint set | [url](-) |  |
 | Divide Array Into Increasing Sequences | Greedy | [url](-) |  |
